@@ -1,1 +1,18 @@
-[{"name": "AbiSource", "link": "http://www.abisource.com/"}, {"name": "Adium", "link": "https://adium.im/"}, {"name": "ArgoUML", "link": "http://argouml.tigris.org"}, {"name": "The Apache Software Foundation", "link": "http://www.apache.org"}]
+[
+  {
+    "link": "http://www.abisource.com/",
+    "name": "AbiSource"
+  },
+  {
+    "link": "https://adium.im/",
+    "name": "Adium"
+  },
+  {
+    "link": "http://argouml.tigris.org",
+    "name": "ArgoUML"
+  },
+  {
+    "link": "http://www.apache.org",
+    "name": "The Apache Software Foundation"
+  }
+]

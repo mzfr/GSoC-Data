@@ -1,1 +1,26 @@
-[{"name": "AbiSource", "link": "http://www.abisource.com/"}, {"name": "Adium", "link": "https://adium.im/"}, {"name": "Ardour", "link": "http://ardour.org/"}, {"name": "ArgoUML", "link": "http://argouml.tigris.org/"}, {"name": "The Apache Software Foundation", "link": "http://www.apache.org"}, {"name": "BBC Research", "link": "http://www.bbc.co.uk/rd/"}]
+[
+  {
+    "link": "http://www.abisource.com/",
+    "name": "AbiSource"
+  },
+  {
+    "link": "https://adium.im/",
+    "name": "Adium"
+  },
+  {
+    "link": "http://ardour.org/",
+    "name": "Ardour"
+  },
+  {
+    "link": "http://argouml.tigris.org/",
+    "name": "ArgoUML"
+  },
+  {
+    "link": "http://www.apache.org",
+    "name": "The Apache Software Foundation"
+  },
+  {
+    "link": "http://www.bbc.co.uk/rd/",
+    "name": "BBC Research"
+  }
+]

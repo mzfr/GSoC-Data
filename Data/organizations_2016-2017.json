@@ -1,0 +1,1897 @@
+[
+  {
+    "about": "52°North works on innovative ideas and technologies in geoinformatics",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5429283996565504/",
+    "name": "52°North Initiative for Geospatial Open Source Software GmbH"
+  },
+  {
+    "about": "Code to accompany the book \"AI: A Modern Approach\"",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5549354102292480/",
+    "name": "aimacode"
+  },
+  {
+    "about": "Research-Intensive Open-Source Projects at Australia's Leading University",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5127141637226496/",
+    "name": "AOSSIE - The Australian National University's Open-Source Software Innovation and Education"
+  },
+  {
+    "about": "Providing open source software to the public free of charge",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5934639780724736/",
+    "name": "Apache Software Foundation"
+  },
+  {
+    "about": "ArchC is an Architecture Description Language",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6488526010974208/",
+    "name": "ArchC"
+  },
+  {
+    "about": "Equation-solving software for engineering system modelling",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5175650340044800/",
+    "name": "ASCEND"
+  },
+  {
+    "about": "open hardware physical computing community with Linux",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6012249034457088/",
+    "name": "BeagleBoard.org"
+  },
+  {
+    "about": "From distributed systems, to robust servers and language design on the Erlang VM",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6384003686858752/",
+    "name": "Beam Community"
+  },
+  {
+    "about": "An interdisciplinary university-wide research center focused on the Internet",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6488734048452608/",
+    "name": "Berkman Center for Internet and Society"
+  },
+  {
+    "about": "BioJS is an open source project that visualizes biological data using JavaScript",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6650532982685696/",
+    "name": "BioJS"
+  },
+  {
+    "about": "Big Data for Healthcare and Biomedical Research",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6000473039437824/",
+    "name": "Biomedical Informatics, Emory University"
+  },
+  {
+    "about": "We make a 100% free/open source 3D creation pipeline.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6317853942743040/",
+    "name": "Blender Foundation"
+  },
+  {
+    "about": "Crowdsourcing the future Internet",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5821053733437440/",
+    "name": "Boston University / XIA"
+  },
+  {
+    "about": "We develop solid modeling, CAD, CAM, & other computer-aided technologies (CAx)",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6087583029264384/",
+    "name": "BRL-CAD"
+  },
+  {
+    "about": "Building m-Learning applications",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4929075730710528/",
+    "name": "BuildmLearn"
+  },
+  {
+    "about": "Analytical solutions for Next-Generation Sequencing data",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5630110493310976/",
+    "name": "Canadian Centre for Computational Genomics (C3G) - Montreal node"
+  },
+  {
+    "about": "Our apps empower teens to visually create their own apps directly on their phone",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5859735551082496/",
+    "name": "Catrobat"
+  },
+  {
+    "about": "Open source software solutions of precision medicine for cancer patients",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5251173044977664/",
+    "name": "cBioPortal for Cancer Genomics"
+  },
+  {
+    "about": "The de-facto standard tool for everything related to subtitles.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5133509194678272/",
+    "name": "CCExtractor Development"
+  },
+  {
+    "about": "Painless multi-threaded multi-core programming for Ruby.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4955769220890624/",
+    "name": "Celluloid"
+  },
+  {
+    "about": "The Future of Storage",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5408317308403712/",
+    "name": "Ceph"
+  },
+  {
+    "about": "The SFT is part of CERN (European Organization for Nuclear Research).",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6273708926697472/",
+    "name": "CERN SFT"
+  },
+  {
+    "about": "a Productive Parallel Programming Language",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4704629866627072/",
+    "name": "Chapel"
+  },
+  {
+    "about": "Contact relationship management for non-profits, NGOs and advocacy organizations",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4866334043144192/",
+    "name": "CiviCRM"
+  },
+  {
+    "about": "NLP for the ancient world",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5724313353191424/",
+    "name": "Classical Language Toolkit"
+  },
+  {
+    "about": "CloudCV - Large Scale Distribution Vision algorithms as a Cloud Service",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4785685563179008/",
+    "name": "CloudCV"
+  },
+  {
+    "about": "Development of software technologies for biomedical research and applications.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5954364552249344/",
+    "name": "Computational Biology @ University of Nebraska-Lincoln"
+  },
+  {
+    "about": "We bundle TU Wien's open source efforts in the area of science and engineering",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5902411419877376/",
+    "name": "Computational Science and Engineering at TU Wien"
+  },
+  {
+    "about": "Tools, libraries, and engines to help in game development",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5222096653254656/",
+    "name": "Copyleft Games"
+  },
+  {
+    "about": "fast and flexible Open Source firmware",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6036378966032384/",
+    "name": "coreboot"
+  },
+  {
+    "about": "CVXPY is a Python-embedded modeling language for convex optimization problems.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6020075270176768/",
+    "name": "CVXPY"
+  },
+  {
+    "about": "The D Foundation leads development of the D Programming Language.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4688223091556352/",
+    "name": "D Foundation"
+  },
+  {
+    "about": "Information Extraction framework from Wikipedia, Wikidata & Commons",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6313893177589760/",
+    "name": "dbpediaspotlight"
+  },
+  {
+    "about": "The Universal Operating System",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4808739873882112/",
+    "name": "Debian Project"
+  },
+  {
+    "about": "A next-generation discussion forum.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6414446415052800/",
+    "name": "Discourse"
+  },
+  {
+    "about": "DUNE is a modular toolbox for solving PDEs with grid-based methods.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5457125316755456/",
+    "name": "Distributed and Unified Numerics Environment (DUNE)"
+  },
+  {
+    "about": "The web framework for perfectionists with deadlines.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5977934124810240/",
+    "name": "Django Software Foundation"
+  },
+  {
+    "about": "Drupal is a Free, Open, Modular CMS written in PHP. Websites, databases, +more",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4644948074823680/",
+    "name": "Drupal"
+  },
+  {
+    "about": "Eclipse is a community who collaborates on open source software.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6236335463464960/",
+    "name": "Eclipse Foundation"
+  },
+  {
+    "about": "Lead the advance of Free/Open Source Software/Content as collaborative community",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5911585470021632/",
+    "name": "Fedora Project"
+  },
+  {
+    "about": "Cross-platform software to convert audio and video.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4753437874978816/",
+    "name": "FFmpeg"
+  },
+  {
+    "about": "The organization that handles all aspects of the FOSDEM conference",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4603925500002304/",
+    "name": "FOSDEM VZW"
+  },
+  {
+    "about": "Open Technologies for Social Change",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4912324552949760/",
+    "name": "FOSSASIA"
+  },
+  {
+    "about": "Free and Open Source Digital Designs and their Ecosystem, EDA Tools and OpenRISC",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5210550707421184/",
+    "name": "Free and Open Source Silicon Foundation"
+  },
+  {
+    "about": "FreeBSD: The Foundation of the Internet",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5673385510043648/",
+    "name": "FreeBSD"
+  },
+  {
+    "about": "Freifunk is a non-commercial initiative for free and open wireless networks.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6540884078231552/",
+    "name": "Freifunk"
+  },
+  {
+    "about": "Software for Analysis of Game Theory Models",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6393779032424448/",
+    "name": "Gambit - Software Tools for Game Theory"
+  },
+  {
+    "about": "Cluster virtual server management software",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5865050841546752/",
+    "name": "Ganeti"
+  },
+  {
+    "about": "Ensembl Genome Browsers",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6638327222501376/",
+    "name": "Genes, Genomes and Variation"
+  },
+  {
+    "about": "A flexible, source-based Linux distribution.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6575198987878400/",
+    "name": "Gentoo Foundation"
+  },
+  {
+    "about": "fast, scalable, distributed revision control system",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5532648021688320/",
+    "name": "Git"
+  },
+  {
+    "about": "How people build software",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5632763172487168/",
+    "name": "GitHub"
+  },
+  {
+    "about": "GA4GH develops open standards and tools for genomics to benefit human health",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6536303764045824/",
+    "name": "Global Alliance for Genomics & Health"
+  },
+  {
+    "about": "Ease, comfort and control",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6228320517619712/",
+    "name": "GNOME"
+  },
+  {
+    "about": "GNSS-SDR is an open source Global Navigation Satellite Systems software receiver",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5800194151022592/",
+    "name": "gnss-sdr"
+  },
+  {
+    "about": "Mailman is free software for managing electronic mailing lists.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5729825406844928/",
+    "name": "GNU Mailman"
+  },
+  {
+    "about": "GNU Octave : Free Your Numbers.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4799884188188672/",
+    "name": "GNU Octave"
+  },
+  {
+    "about": "The GNU Operating System",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4828960579911680/",
+    "name": "GNU Project"
+  },
+  {
+    "about": "The Free and Open Software Radio Ecosystem",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6221912157978624/",
+    "name": "GNU Radio"
+  },
+  {
+    "about": "GPAC - Multimedia Open-Source Project",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4917249001390080/",
+    "name": "GPAC"
+  },
+  {
+    "about": "Routing Service for finding the shortest, fastest and most energy efficient way.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6442287735242752/",
+    "name": "Green Navigation"
+  },
+  {
+    "about": "A high performance, open source, general RPC framework.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5034912851689472/",
+    "name": "gRPC"
+  },
+  {
+    "about": "Health information system which is being used by 47 countries across world.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5849050746191872/",
+    "name": "Health Information Systems Programme"
+  },
+  {
+    "about": "Package management software for OS X.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5422996969750528/",
+    "name": "Homebrew"
+  },
+  {
+    "about": "The IDI addresses the challenge of designing ICT to work for all potential users",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4725596554788864/",
+    "name": "Inclusive Design Institute"
+  },
+  {
+    "about": "Improving Information Infrastructure and Access to Knowledge in Indian languages",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5096012251136000/",
+    "name": "Indic Project"
+  },
+  {
+    "about": "Inkscape is a professional vector graphics editor for Windows, OS X, and Linux.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5665370564198400/",
+    "name": "Inkscape"
+  },
+  {
+    "about": "Advancing global collaborative brain research",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6563422992859136/",
+    "name": "International Neuroinformatics Coordinating Facility"
+  },
+  {
+    "about": "JPF is a highly extensible Java virtual machine built for sofware verification",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4723150839349248/",
+    "name": "Java Pathfinder Team"
+  },
+  {
+    "about": "Community of Java projects around JBoss Middleware",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6177116454387712/",
+    "name": "JBoss Community"
+  },
+  {
+    "about": "Jenkins is an open-source automation server",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4879888423059456/",
+    "name": "Jenkins Project"
+  },
+  {
+    "about": "A Free and Open Source CMS, Trusted By Millions for their Websites",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6222406616088576/",
+    "name": "Joomla!"
+  },
+  {
+    "about": "jQuery Foundation - home of jQuery, Dojo and many other JavaScript libraries",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5754903989321728/",
+    "name": "jQuery Foundation"
+  },
+  {
+    "about": "JSK Robotics Laboratory / The University of Tokyo",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5081151127420928/",
+    "name": "JSK Robotics Laboratory"
+  },
+  {
+    "about": "KDE is an international technology team that creates user-friendly software",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5267579820048384/",
+    "name": "KDE"
+  },
+  {
+    "about": "KolibriOS Project team",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5678701068943360/",
+    "name": "KolibriOS"
+  },
+  {
+    "about": "LabLua - Lua programming language research lab at PUC-Rio",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4733835644239872/",
+    "name": "LabLua"
+  },
+  {
+    "about": "LibreOffice is a powerful cross-platform office suite.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6301550246887424/",
+    "name": "LibreOffice"
+  },
+  {
+    "about": "Stable API for easier virtualization.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5512427315658752/",
+    "name": "Libvirt"
+  },
+  {
+    "about": "Liquid Galaxy Project: wraparound open-source immersion!",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6555183903408128/",
+    "name": "Liquid Galaxy Project"
+  },
+  {
+    "about": "Creating a fully open-source SoC design",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4969698068267008/",
+    "name": "lowRISC"
+  },
+  {
+    "about": "One of the most popular databases on the web with many notable users",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4961683122421760/",
+    "name": "MariaDB"
+  },
+  {
+    "about": "An ambitious opensource project creating a new, decentralised comms ecosystem.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6552738187968512/",
+    "name": "Matrix.org"
+  },
+  {
+    "about": "MBDyn is a multidisciplinary Multibody Dynamics scientific simulation software.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6241651022364672/",
+    "name": "MBDyn, Department of Aerospace Science and Technology at Politecnico di Milano"
+  },
+  {
+    "about": "Center bringing together scientists doing space-related research at McGill",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4739150934704128/",
+    "name": "McGill Space Institute"
+  },
+  {
+    "about": "We curate data and make it freely available!",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4969202133762048/",
+    "name": "MetaBrainz Foundation"
+  },
+  {
+    "about": "End Poverty One Line of Code at a Time",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5830829079003136/",
+    "name": "Mifos Initiative"
+  },
+  {
+    "about": "Build Your own Android Apps!",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5954860486754304/",
+    "name": "MIT Media Lab"
+  },
+  {
+    "about": "DJ Your Way, For Free. Join our friendly community of hackers, DJs, and artists!",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5027086615969792/",
+    "name": "Mixxx DJ Software"
+  },
+  {
+    "about": "a scalable C++ machine learning library",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5115751115522048/",
+    "name": "mlpack: a scalable C++ machine learning library"
+  },
+  {
+    "about": "Mobile Robot Programming Toolkit: empowering C++ development in robotics",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5644101080842240/",
+    "name": "Mobile Robot Programming Toolkit (MRPT)"
+  },
+  {
+    "about": "ModSecurity cross platform web application firewall",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6377072951820288/",
+    "name": "ModSecurity"
+  },
+  {
+    "about": "The world's open source learning platform",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4769741570834432/",
+    "name": "Moodle"
+  },
+  {
+    "about": "Terasology: like an open source Minecraft - imagine the possibilities!",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5187993270747136/",
+    "name": "MovingBlocks"
+  },
+  {
+    "about": "We're building a better Internet",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5282259481395200/",
+    "name": "Mozilla"
+  },
+  {
+    "about": "MuseScore: Create, play and print beautiful sheet music",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5302100888125440/",
+    "name": "MuseScore"
+  },
+  {
+    "about": "Developing open source software to enable network-based biomedical discovery",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6599328919453696/",
+    "name": "National Resource for Network Biology (NRNB)"
+  },
+  {
+    "about": "Netfilter project",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6465361373298688/",
+    "name": "Netfilter project"
+  },
+  {
+    "about": "Swiss Army knife of network discovery and security auditing",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5391414598828032/",
+    "name": "Nmap Security Scanner"
+  },
+  {
+    "about": "NumFOCUS promotes open source scientific software.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4647600753999872/",
+    "name": "NumFOCUS"
+  },
+  {
+    "about": "Supporting OSS and Open Science in the biological research community.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5480198954811392/",
+    "name": "Open Bioinformatics Foundation"
+  },
+  {
+    "about": "Open source chemistry software libraries and tools",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6038224459792384/",
+    "name": "Open Chemistry"
+  },
+  {
+    "about": "Open Detection is a open source project for object detection and recognition.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4634560427982848/",
+    "name": "Open Detection"
+  },
+  {
+    "about": "Open-source electrophysiology",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5166380995313664/",
+    "name": "Open Ephys"
+  },
+  {
+    "about": "Open Genome Informatics represents the efforts of many bioinformatics projects.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5362834141609984/",
+    "name": "Open Genome Informatics"
+  },
+  {
+    "about": "Open source software for use in robotics research, education, and industry.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5925784095031296/",
+    "name": "Open Source Robotics Foundation"
+  },
+  {
+    "about": "Confederation of open source projects in Astronomy",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5193799529660416/",
+    "name": "OpenAstronomy"
+  },
+  {
+    "about": "Open Source Computer Vision and Machine Learning Library",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6474535423442944/",
+    "name": "OpenCV"
+  },
+  {
+    "about": "OpenKeychain: Easy PGP for Android",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5672889575538688/",
+    "name": "OpenKeychain (OpenPGP for Android)"
+  },
+  {
+    "about": "Write code. Save lives.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5007071531499520/",
+    "name": "OpenMRS"
+  },
+  {
+    "about": "OpenStreetMap - Creating and distributing free geographic data for the world.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6253041544069120/",
+    "name": "OpenStreetMap"
+  },
+  {
+    "about": "openSUSE Linux - The makers' choice for sysadmins, developers and desktop users",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5377981685956608/",
+    "name": "openSUSE"
+  },
+  {
+    "about": "Oppia is used for collaboratively building interactive and intelligent tutors.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4668002385526784/",
+    "name": "Oppia Foundation"
+  },
+  {
+    "about": "A cross-platform, visual-programming tool for data mining and visualization.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6400146589876224/",
+    "name": "Orange – Data Mining Fruitful & Fun"
+  },
+  {
+    "about": "The Open Source Geospatial Foundation",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6434461499523072/",
+    "name": "OSGeo - The Open Source Geospatial Foundation"
+  },
+  {
+    "about": "OSU Open Source Lab",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4845666660515840/",
+    "name": "OSU Open Source Lab"
+  },
+  {
+    "about": "OWASP, The Open Web Application Security Project.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5895641477677056/",
+    "name": "OWASP Foundation"
+  },
+  {
+    "about": "A safe home for all your data",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5750943224168448/",
+    "name": "ownCloud"
+  },
+  {
+    "about": "Shaping the future Internet TV",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5845209434816512/",
+    "name": "P2PSP.org"
+  },
+  {
+    "about": "Digital Assets Managed Neatly",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5191954035900416/",
+    "name": "Peragro"
+  },
+  {
+    "about": "Performance Co-Pilot - system-level performance analysis toolkit",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5989788234547200/",
+    "name": "Performance Co-Pilot"
+  },
+  {
+    "about": "The Physical Web Project develops use cases around Google's the Physical Web IoT",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5971566567358464/",
+    "name": "Physical Web Project"
+  },
+  {
+    "about": "PLASMA explores ways to make programming languages faster, safer, and easier.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6066521583386624/",
+    "name": "PLASMA-UMass"
+  },
+  {
+    "about": "The premier python-based content management system",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4815031732535296/",
+    "name": "Plone Foundation"
+  },
+  {
+    "about": "Portland State University",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5206770867765248/",
+    "name": "Portland State University"
+  },
+  {
+    "about": "PRISM is a tool for formally verifying the correctness of probabilistic systems.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4609839401533440/",
+    "name": "PRISM Model Checker"
+  },
+  {
+    "about": "Open hardware and software to help communities measure and analyze pollution",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5680316245082112/",
+    "name": "Public Lab"
+  },
+  {
+    "about": "Python is programming language popular among scientists and more.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5597862805110784/",
+    "name": "Python Software Foundation"
+  },
+  {
+    "about": "Open source machine emulator and virtualizer",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5308561592680448/",
+    "name": "QEMU"
+  },
+  {
+    "about": "R is a free software environment for statistical computing and graphics",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6032418200879104/",
+    "name": "R project for statistical computing"
+  },
+  {
+    "about": "radare is a reverse engineering framework and toolset",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6043148908232704/",
+    "name": "radare"
+  },
+  {
+    "about": "ReactOS is a free, open source, Windows compatible operating system.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5590036569391104/",
+    "name": "ReactOS"
+  },
+  {
+    "about": "Red Hen Lab: Research on Multimodal Communication",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5973353810624512/",
+    "name": "Red Hen Lab"
+  },
+  {
+    "about": "A framework for creating and modifying software components for robotics.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6723762711953408/",
+    "name": "Robocomp"
+  },
+  {
+    "about": "Open Source Deterministic Real-Time Operating System for Embedded Systems",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6376577017315328/",
+    "name": "RTEMS Project"
+  },
+  {
+    "about": "The Ruby programming language, libraries, and tools",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5274246683033600/",
+    "name": "Ruby"
+  },
+  {
+    "about": "Tools for Scientific Computing in Ruby",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6193060446732288/",
+    "name": "Ruby Science Foundation"
+  },
+  {
+    "about": "open-source mathematical software system",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5316387828400128/",
+    "name": "Sage Mathematical Software System"
+  },
+  {
+    "about": "The programming language where object-oriented meets functional.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5069813219065856/",
+    "name": "Scala"
+  },
+  {
+    "about": "Numerical computation IDE for engineering and scientific applications",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5960176045654016/",
+    "name": "Scilab Enterprises"
+  },
+  {
+    "about": "ScummVM is a GSoC umbrella for game preservation projects",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5518719174311936/",
+    "name": "ScummVM"
+  },
+  {
+    "about": "Unified and efficient Machine Learning.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5799699692912640/",
+    "name": "Shogun Machine Learning Toolbox"
+  },
+  {
+    "about": "Open source information management software for international aid projects",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5462098352013312/",
+    "name": "Sigmah"
+  },
+  {
+    "about": "Soletta Project is an open source framework for making IoT applications",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6477188102619136/",
+    "name": "Soletta Project"
+  },
+  {
+    "about": "Biomedical Informatics at Stony Brook University",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6715936476233728/",
+    "name": "Stony Brook University Biomedical Informatics"
+  },
+  {
+    "about": "linux syscall tracer",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5410403857203200/",
+    "name": "strace"
+  },
+  {
+    "about": "Learning software for children",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6254828787335168/",
+    "name": "Sugar Labs"
+  },
+  {
+    "about": "SCoRe has conducted research covering various aspects of Security, Mobile & IOT.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4828464645406720/",
+    "name": "Sustainable Computing Research Group ( SCoRe )"
+  },
+  {
+    "about": "Computer algebra system in Python",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6281948016148480/",
+    "name": "SymPy"
+  },
+  {
+    "about": "Increasing the number of women in computing fields and technology.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5689792285114368/",
+    "name": "Systers, an Anita Borg Institute Community"
+  },
+  {
+    "about": "Unravelling Cosmic Explosions in Style",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6195713125908480/",
+    "name": "TARDIS-SN"
+  },
+  {
+    "about": "An online feedback management system for education",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5837196636454912/",
+    "name": "TEAMMATES @ National University of Singapore"
+  },
+  {
+    "about": "A free/open-source rule-based machine translation platform",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5377487227846656/",
+    "name": "The Apertium Project"
+  },
+  {
+    "about": "NetLogo: A language and IDE for programming and scientific simulations",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6259409101520896/",
+    "name": "The Center for Connected Learning and Computer-Based Modeling"
+  },
+  {
+    "about": "The Honeynet Project - R&D for honeypot/honeynet technolgy and infosec research",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5961791221792768/",
+    "name": "The Honeynet Project"
+  },
+  {
+    "about": "The Julia Language",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5096506709245952/",
+    "name": "The Julia Language"
+  },
+  {
+    "about": "A non-profit consortium dedicated to fostering the growth of Linux",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4711296729612288/",
+    "name": "The Linux Foundation"
+  },
+  {
+    "about": "The LLVM Compiler Infrastructure",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5806108052553728/",
+    "name": "The LLVM Compiler Infrastructure"
+  },
+  {
+    "about": "An informatics platform for translational disease research",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5269666368847872/",
+    "name": "The Monarch Initiative"
+  },
+  {
+    "about": "of course it runs NetBSD",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6363144104443904/",
+    "name": "The NetBSD Foundation"
+  },
+  {
+    "about": "The STE||AR Group - Shaping a Scalable Future",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6112304055713792/",
+    "name": "The STE||AR Group"
+  },
+  {
+    "about": "Open source log management solution with over a million users worldwide.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4906518294036480/",
+    "name": "The syslog-ng project"
+  },
+  {
+    "about": "Anonymity, privacy, and anti-censorship software",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6183886396588032/",
+    "name": "The Tor Project"
+  },
+  {
+    "about": "Wine runs Windows applications on Linux, BSD, Solaris and Mac OS X.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6746836350009344/",
+    "name": "The Wine Project"
+  },
+  {
+    "about": "We help scientists understanding information in time-series",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6356852245790720/",
+    "name": "Timelab Technologies Ltd."
+  },
+  {
+    "about": "TimVideos.us - FOSS event recording & streaming software and hardware.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5738600293466112/",
+    "name": "TimVideos.us"
+  },
+  {
+    "about": "Unitex/GramLab is an open source, multilingual corpus processing suite",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6601174413213696/",
+    "name": "Unitex/GramLab"
+  },
+  {
+    "about": "HUES is a platform for modeling & simulation of decentralized energy systems",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5408616613937152/",
+    "name": "Urban Energy Systems Laboratory, Empa"
+  },
+  {
+    "about": "Vert.x is a tool-kit for building reactive applications on the JVM.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5126842331693056/",
+    "name": "Vert.x"
+  },
+  {
+    "about": "A non-linear video editor, based on VLC technology.",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4704929172160512/",
+    "name": "VideoLAN / VLMC Project"
+  },
+  {
+    "about": "vitrivr allows you to use novel methods to search in videos",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5332691524255744/",
+    "name": "vitrivr"
+  },
+  {
+    "about": "Wayland is a protocol for windowing systems on both desktops and embedded",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4886349127614464/",
+    "name": "Wayland"
+  },
+  {
+    "about": "A global movement with a mission to bring free educational content to the world",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6644619081154560/",
+    "name": "Wikimedia Foundation"
+  },
+  {
+    "about": "Open Source Middleware Platform",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5243158099132416/",
+    "name": "WSO2"
+  },
+  {
+    "about": "X Window System and related projects (Mesa, DRI, Wayland, etc.)",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5141521993039872/",
+    "name": "X.Org Foundation"
+  },
+  {
+    "about": "Fast, scalable and flexible search",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/5814122998398976/",
+    "name": "Xapian Search Engine Library"
+  },
+  {
+    "about": "Generic web platform for developing collaborative apps on the wiki paradigm",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4955274762780672/",
+    "name": "XWiki"
+  },
+  {
+    "about": "Zulip: Powerful open source group chat",
+    "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/6118671613165568/",
+    "name": "Zulip Open Source Project"
+  },
+  {
+    "about": "52°North works on innovative ideas and technologies in geoinformatics.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4959751460880384/",
+    "name": "52°North Initiative for Geospatial Open Source Software GmbH"
+  },
+  {
+    "about": "Open Source for Open Source: software license, origin and packages discovery",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6448304984424448/",
+    "name": "AboutCode"
+  },
+  {
+    "about": "Making Space Together",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6713622831038464/",
+    "name": "AerospaceResearch.net"
+  },
+  {
+    "about": "Code for the book \"Artificial Intelligence: A Modern Approach\"",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6119722806411264/",
+    "name": "aimacode"
+  },
+  {
+    "about": "Making Home Networking and Storage Simple",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6673844588773376/",
+    "name": "Amahi"
+  },
+  {
+    "about": "Umbrella Org for Open-Source Projects in Australia",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4780102642565120/",
+    "name": "AOSSIE - Australian Open Source Software Innovation and Education"
+  },
+  {
+    "about": "Providing open source software to the public free of charge",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4633151007621120/",
+    "name": "Apache Software Foundation"
+  },
+  {
+    "about": "Free/open-source rule-based machine translation",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6618812501721088/",
+    "name": "Apertium"
+  },
+  {
+    "about": "Open Technology for Professional Film Production",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6354847569805312/",
+    "name": "Apertus Association"
+  },
+  {
+    "about": "A modern open source rendering engine for animation and visual effects",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6110372931043328/",
+    "name": "appleseedhq"
+  },
+  {
+    "about": "The worlds most advanced open source autopilot",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5801067908431872/",
+    "name": "ArduPilot"
+  },
+  {
+    "about": "Babel, the community driven compiler for writing next generation JavaScript",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5933754749026304/",
+    "name": "Babel"
+  },
+  {
+    "about": "Fast and correct build system for Google scale",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5765787168014336/",
+    "name": "Bazel"
+  },
+  {
+    "about": "open hardware physical computing for makers, educators and professionals",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5370804795604992/",
+    "name": "BeagleBoard.org Foundation"
+  },
+  {
+    "about": "From distributed systems, to robust servers and language design on the Erlang VM",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5344914732744704/",
+    "name": "Beam Community"
+  },
+  {
+    "about": "The IDEs of Python. Tools for cross-platform Python application development.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5213454373748736/",
+    "name": "BeeWare Project"
+  },
+  {
+    "about": "exploring cyberspace, sharing in its study & pioneering its development",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5825274612547584/",
+    "name": "Berkman Klein Center for Internet and Society at Harvard University"
+  },
+  {
+    "about": "Free and open source 3D creation for artists and teams",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6461479528169472/",
+    "name": "Blender Foundation"
+  },
+  {
+    "about": "Boost provides free peer-reviewed portable C++ source libraries.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5196100961042432/",
+    "name": "Boost C++ Libraries"
+  },
+  {
+    "about": "Crowdsourcing the future Internet",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4874213160648704/",
+    "name": "Boston University / XIA"
+  },
+  {
+    "about": "& LibreCAD, OpenSCAD, STEPcode, LinuxCNC, FreeCAD, & Slic3r!  Computer Graphics.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5302987798872064/",
+    "name": "BRL-CAD"
+  },
+  {
+    "about": "Transforming the way land & resource rights are documented, managed and stored.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6571413242642432/",
+    "name": "Cadasta"
+  },
+  {
+    "about": "Computational thinking for all through visual mobile programming frameworks",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5758529210155008/",
+    "name": "Catrobat"
+  },
+  {
+    "about": "Developing open source solutions for precision medicine for cancer patients",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4741825894023168/",
+    "name": "cBioPortal for Cancer Genomics"
+  },
+  {
+    "about": "Tools for a subtitled world.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5267426006532096/",
+    "name": "CCExtractor Development"
+  },
+  {
+    "about": "The Future of Storage",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6399849700261888/",
+    "name": "Ceph"
+  },
+  {
+    "about": "CERN-HEPSoftwareFoundation, umbrella organization for particle physics in GSoC",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6360460286754816/",
+    "name": "CERN-HSF"
+  },
+  {
+    "about": "a Productive Parallel Programming Language",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4757669491507200/",
+    "name": "Chapel"
+  },
+  {
+    "about": "Preventing programming errors before they happen, via easy-to-use verification",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6349316859887616/",
+    "name": "Checker Framework"
+  },
+  {
+    "about": "Dev tool to help programmers write Java code that adheres to a coding standard.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5883569398349824/",
+    "name": "Checkstyle"
+  },
+  {
+    "about": "NLP for the ancient world",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4904328934457344/",
+    "name": "Classical Language Toolkit"
+  },
+  {
+    "about": "Computational (Psycho)Linguistics",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4936781707345920/",
+    "name": "CLiPS, University of Antwerp"
+  },
+  {
+    "about": "Supporting the Clojure and ClojureScript ecosystem",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5054104644616192/",
+    "name": "Clojure"
+  },
+  {
+    "about": "The CNCF is a nonprofit committed to the development of cloud native technology",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6018829461225472/",
+    "name": "Cloud Native Computing Foundation (CNCF)"
+  },
+  {
+    "about": "Building platforms for reproducible AI research",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/",
+    "name": "CloudCV"
+  },
+  {
+    "about": "Fast, Accurate, Flexible Open Source Speech Recognition",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5510422639673344/",
+    "name": "CMU Sphinx"
+  },
+  {
+    "about": "Linting and Fixing Code for All Languages",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5817061024464896/",
+    "name": "coala"
+  },
+  {
+    "about": "Development of software technologies for biomedical research and applications.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6732113738989568/",
+    "name": "Computational Biology @ University of Nebraska-Lincoln"
+  },
+  {
+    "about": "Federated, end-to-end encrypted instant messaging based on XMPP/OMEMO",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5967780016816128/",
+    "name": "Conversations.im"
+  },
+  {
+    "about": "Game libraries, frameworks, and development toolkits",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6180004551458816/",
+    "name": "Copyleft Games"
+  },
+  {
+    "about": "a Large, Multilingual, Semantic Knowledge Graph",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5195579256733696/",
+    "name": "DBpedia"
+  },
+  {
+    "about": "Civilized discussion for your community.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4878856288731136/",
+    "name": "Discourse"
+  },
+  {
+    "about": "The web framework for perfectionists with deadlines.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4608650232463360/",
+    "name": "Django Software Foundation"
+  },
+  {
+    "about": "Drupal is a Free, Open, Modular CMS written in PHP. Let's make something amazing",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6388224565968896/",
+    "name": "Drupal"
+  },
+  {
+    "about": "Eclipse Vert.x is a tool-kit for building reactive applications on the JVM",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5851994006749184/",
+    "name": "Eclipse Vert.x"
+  },
+  {
+    "about": "A delightful functional language for reliable webapps.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5658990390280192/",
+    "name": "Elm Software Foundation"
+  },
+  {
+    "about": "International network addressing threats to US environmental & energy policy",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4941941976334336/",
+    "name": "Environmental Data And Governance Initiative"
+  },
+  {
+    "about": "Fedora Linux is built on the foundations of Freedom, Friends, Features, & First",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5870752142196736/",
+    "name": "Fedora Project"
+  },
+  {
+    "about": "Cross-platform software to convert audio, video and subtitles.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4641979178680320/",
+    "name": "FFmpeg"
+  },
+  {
+    "about": "The organization that handles all aspects of the FOSDEM conference",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5733807646834688/",
+    "name": "FOSDEM"
+  },
+  {
+    "about": "Improve People's Lives",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5936828200779776/",
+    "name": "FOSSASIA"
+  },
+  {
+    "about": "Umbrella for various projects around open source hardware and tools",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5021512822161408/",
+    "name": "Free and Open Source Silicon Foundation"
+  },
+  {
+    "about": "FreeBSD: The Foundation of the Internet",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5058101916991488/",
+    "name": "FreeBSD"
+  },
+  {
+    "about": "Freifunk is a non-commercial initiative for free and open wireless networks.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6004756195573760/",
+    "name": "Freifunk"
+  },
+  {
+    "about": "Edit music scores with GNU LilyPond.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4597892144693248/",
+    "name": "Frescobaldi"
+  },
+  {
+    "about": "Genome databases and browsers",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5455879507804160/",
+    "name": "Genes, Genomes and Variation"
+  },
+  {
+    "about": "Open Source Automotive Development Platform",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4914104280023040/",
+    "name": "GENIVI Development Platform"
+  },
+  {
+    "about": "A flexible, source-based Linux distribution.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6287928489672704/",
+    "name": "Gentoo Foundation"
+  },
+  {
+    "about": "fast, scalable, distributed revision control system",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5061577619275776/",
+    "name": "Git"
+  },
+  {
+    "about": "We develop open standards and tools for genomics to benefit human health.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6101170829393920/",
+    "name": "Global Alliance for Genomics and Health"
+  },
+  {
+    "about": "Non-profit organization that creates a computing platform for the general public",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6040004186865664/",
+    "name": "GNOME"
+  },
+  {
+    "about": "An open source Global Navigation Satellite Systems software-defined receiver",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5204929132101632/",
+    "name": "GNSS-SDR"
+  },
+  {
+    "about": "Free Your Numbers",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6187477526118400/",
+    "name": "GNU Octave"
+  },
+  {
+    "about": "The Free & Open Software Radio Ecosystem",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5467278887878656/",
+    "name": "GNU Radio"
+  },
+  {
+    "about": "Energy efficient routing for electric vehicles",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6147412729004032/",
+    "name": "Green Navigation"
+  },
+  {
+    "about": "Light open-source operating system that specifically targets personal computing.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5096040436858880/",
+    "name": "Haiku"
+  },
+  {
+    "about": "Homebrew is a package manager for macOS written in Ruby.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6752289616297984/",
+    "name": "Homebrew"
+  },
+  {
+    "about": "Open Source successor of OpenSolaris",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6221940343701504/",
+    "name": "illumos.org"
+  },
+  {
+    "about": "Advancing global collaborative brain research",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6593178794721280/",
+    "name": "INCF"
+  },
+  {
+    "about": "Inkscape is a professional vector graphics editor for Windows, Mac OSX, & Linux.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5404830063394816/",
+    "name": "Inkscape"
+  },
+  {
+    "about": "Research in Artificial Intelligence and Perception for Autonomous Mobile Robots",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6330829038944256/",
+    "name": "Institute for Artificial Intelligence"
+  },
+  {
+    "about": "Open Source Media libraries, Applications and User space driver.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6149200777576448/",
+    "name": "Intel Media and Audio for Linux"
+  },
+  {
+    "about": "Universal Access to All Knowledge",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5373878247358464/",
+    "name": "Internet Archive"
+  },
+  {
+    "about": "Community of Java projects around JBoss Middleware",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5307802188775424/",
+    "name": "JBoss Community"
+  },
+  {
+    "about": "A software framework for developing applications in robotics and computer vision",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4923454155390976/",
+    "name": "JdeRobot - Universidad Rey Juan Carlos"
+  },
+  {
+    "about": "Advanced Real-Time Communication",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5461033468559360/",
+    "name": "Jitsi"
+  },
+  {
+    "about": "A free and Open Source CMS Trusted By Millions for their Websites",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5861923971137536/",
+    "name": "Joomla"
+  },
+  {
+    "about": "Humanoid Robotics Laboratory at the University of Tokyo",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6380010977886208/",
+    "name": "JSK Robotics Laboratory"
+  },
+  {
+    "about": "K-9 Mail – Advanced Email for Android",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6184001823834112/",
+    "name": "K-9 Mail"
+  },
+  {
+    "about": "Experience Freedom!",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5586250824155136/",
+    "name": "KDE"
+  },
+  {
+    "about": "Programming Languages Research with emphasis on  the Lua language",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5842237585883136/",
+    "name": "LabLua"
+  },
+  {
+    "about": "Healthcare for Humanity",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5574687430017024/",
+    "name": "LibreHealth"
+  },
+  {
+    "about": "Free Office Suite, Fun Project, Fantastic People",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5507893709242368/",
+    "name": "LibreOffice"
+  },
+  {
+    "about": "virtualization abstraction library",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6082542885142528/",
+    "name": "libvirt"
+  },
+  {
+    "about": "Get immersed in open-source!",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5279287632461824/",
+    "name": "Liquid Galaxy Project"
+  },
+  {
+    "about": "llvm",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6215410651234304/",
+    "name": "LLVM Compiler Infrastructure"
+  },
+  {
+    "about": "Creating a fully open-source SoC design",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5688479367299072/",
+    "name": "lowRISC"
+  },
+  {
+    "about": "The package manager for the Lua programming language",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5624527572697088/",
+    "name": "LuaRocks"
+  },
+  {
+    "about": "One of the most popular databases on the web with many notable users",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4752192066027520/",
+    "name": "MariaDB"
+  },
+  {
+    "about": "An ambitious open source project creating a new decentralised comms ecosystem.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6700587336859648/",
+    "name": "Matrix.org"
+  },
+  {
+    "about": "High fidelity multibody dynamics engine with extended capabilities",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6633793616084992/",
+    "name": "MBDyn"
+  },
+  {
+    "about": "MetaBrainz operates MusicBrainz and a number of related open data projects.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5723792051535872/",
+    "name": "MetaBrainz Foundation Inc."
+  },
+  {
+    "about": "Open Source framework for exploit development and penetration testing",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5632986779222016/",
+    "name": "Metasploit"
+  },
+  {
+    "about": "Confederation of microkernel projects (Genode, HelenOS, GNU Hurd, MINIX, Redox)",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5026327212064768/",
+    "name": "Microkernel devroom"
+  },
+  {
+    "about": "End Poverty One Line of Code at a Time",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5486404108812288/",
+    "name": "Mifos Initiative"
+  },
+  {
+    "about": "Empowering anyone to make their world a better place",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6712150730997760/",
+    "name": "MIT App Inventor"
+  },
+  {
+    "about": "DJ Your Way. For Free.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5298974017716224/",
+    "name": "Mixxx DJ Software"
+  },
+  {
+    "about": "a scalable C++ machine learning library",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5584462775582720/",
+    "name": "mlpack"
+  },
+  {
+    "about": "Mobile Robot Programming Toolkit: empowering C++ development in robotics",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5289044053327872/",
+    "name": "Mobile Robot Programming Toolkit (MRPT)"
+  },
+  {
+    "about": "Cross-platform C#/F#/.NET runtime and tools",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4814565460148224/",
+    "name": "Mono Project"
+  },
+  {
+    "about": "The world's open source learning platform",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5171600185884672/",
+    "name": "Moodle"
+  },
+  {
+    "about": "Terasology: like an open source Minecraft - imagine the possibilities!",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4985951029821440/",
+    "name": "MovingBlocks"
+  },
+  {
+    "about": "Internet for people, not profit.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6414943960170496/",
+    "name": "Mozilla"
+  },
+  {
+    "about": "Free and open-source music notation software",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4738118800375808/",
+    "name": "MuseScore"
+  },
+  {
+    "about": "Developing open source software to enable network-based biomedical discovery",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6499778154201088/",
+    "name": "National Resource for Network Biology (NRNB)"
+  },
+  {
+    "about": "FOSS community-driven project that provides firewalling tools for Linux",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6602954140286976/",
+    "name": "Netfilter project"
+  },
+  {
+    "about": "Swiss Army knife of network discovery and security auditing",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5603880054292480/",
+    "name": "Nmap Security Scanner"
+  },
+  {
+    "about": "NumFOCUS promotes open source scientific software.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6630791836598272/",
+    "name": "NumFOCUS"
+  },
+  {
+    "about": "Promoting practice & philosophy of OSS & Open Science in biological research.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6098536001175552/",
+    "name": "Open Bioinformatics Foundation"
+  },
+  {
+    "about": "Advancing Open Source and Open Science for Chemistry",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5928781713768448/",
+    "name": "Open Chemistry"
+  },
+  {
+    "about": "Open Data Kit is used to collect data for social good in difficult environments.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4593100034932736/",
+    "name": "Open Data Kit"
+  },
+  {
+    "about": "Open Detection is a open source project for object detection and recognition.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6015282623545344/",
+    "name": "Open Detection"
+  },
+  {
+    "about": "Open Genome Informatics represents the efforts of many bioinformatics projects.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4997812655751168/",
+    "name": "Open Genome Informatics"
+  },
+  {
+    "about": "Opening State Legislatures",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5076494711783424/",
+    "name": "Open States"
+  },
+  {
+    "about": "Promote Openness through use and development of Open Standards and Technologies",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6266968780832768/",
+    "name": "Open Technologies Alliance - GFOSS"
+  },
+  {
+    "about": "Opening the eyes of research astronomy software to the whole world.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6563063020912640/",
+    "name": "OpenAstronomy"
+  },
+  {
+    "about": "Open Source Computer Vision and Machine Learning Library",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6424873924558848/",
+    "name": "OpenCV"
+  },
+  {
+    "about": "Write Code. Save Lives.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6111850936664064/",
+    "name": "OpenMRS"
+  },
+  {
+    "about": "OpenStreetMap - Creating and distributing free geographic data for the world.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6746951777255424/",
+    "name": "OpenStreetMap"
+  },
+  {
+    "about": "The makers' choice for sysadmins, developers and desktop users.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6729779961135104/",
+    "name": "openSUSE"
+  },
+  {
+    "about": "Open Source solution to build and manage wifi networks",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4763591446102016/",
+    "name": "OpenWISP"
+  },
+  {
+    "about": "Oppia is a tool for collaboratively building interactive and intelligent tutors.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6040525891174400/",
+    "name": "Oppia Foundation"
+  },
+  {
+    "about": "Open Source Geospatial Foundation",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/",
+    "name": "OSGeo"
+  },
+  {
+    "about": "Open virtual datacenter management for all",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5718999941775360/",
+    "name": "oVirt"
+  },
+  {
+    "about": "A safe home for all your data",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5721528872206336/",
+    "name": "ownCloud"
+  },
+  {
+    "about": "Shaping the future Internet TV",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6195936732643328/",
+    "name": "P2PSP.org"
+  },
+  {
+    "about": "Develop accessible tools for reproducible ecosystem modeling and forecasting",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4773366791667712/",
+    "name": "PEcAn Project"
+  },
+  {
+    "about": "System-level performance analysis toolkit",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5840169290694656/",
+    "name": "Performance Co-Pilot"
+  },
+  {
+    "about": "Pharo: The Immersive Programming Experience",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5691803940421632/",
+    "name": "Pharo Consortium"
+  },
+  {
+    "about": "phpBB is the most widely used free and open source forum software",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5715998162288640/",
+    "name": "phpBB Forum Software"
+  },
+  {
+    "about": "A web interface for MySQL written in PHP",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5535586047754240/",
+    "name": "phpMyAdmin"
+  },
+  {
+    "about": "Physical Web GSoC project based on the Physical Web",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6491731667189760/",
+    "name": "Physical Web Project"
+  },
+  {
+    "about": "The premier python-based open source CMS",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4530756705583104/",
+    "name": "Plone Foundation"
+  },
+  {
+    "about": "An extensible cross-language static code analyzer.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5158578918785024/",
+    "name": "PMD"
+  },
+  {
+    "about": "Promoting Polyhedral Compilation",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4788561849090048/",
+    "name": "Polly Labs"
+  },
+  {
+    "about": "Individual and Academic Open Source",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5827042528460800/",
+    "name": "Portland State University"
+  },
+  {
+    "about": "PostgreSQL is a powerful, open source object-relational database system.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5443503559540736/",
+    "name": "PostgreSQL"
+  },
+  {
+    "about": "Open hardware and software to help communities measure and analyze pollution",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6029803371102208/",
+    "name": "Public Lab"
+  },
+  {
+    "about": "Python is a programming language used by scientists & software developers alike.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5370985721102336/",
+    "name": "Python Software Foundation"
+  },
+  {
+    "about": "Open source machine emulator and virtualizer",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4782716667035648/",
+    "name": "QEMU"
+  },
+  {
+    "about": "A reasonably secure operating system",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5074771758809088/",
+    "name": "Qubes OS"
+  },
+  {
+    "about": "R is a free software environment for statistical computing and graphics",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5555424770129920/",
+    "name": "R project for statistical computing"
+  },
+  {
+    "about": "Radare2 reverse engineering framework and toolset",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4795019735072768/",
+    "name": "radare2"
+  },
+  {
+    "about": "ReactOS is a free, open source, Windows compatible operating system.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6057879303880704/",
+    "name": "ReactOS"
+  },
+  {
+    "about": "Research on Multimodal Communication",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6645492838563840/",
+    "name": "Red Hen Lab"
+  },
+  {
+    "about": "A simple robotics framework.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5477575937753088/",
+    "name": "RoboComp"
+  },
+  {
+    "about": "The ultimate open source chat and messaging platform",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5788044225413120/",
+    "name": "Rocket.Chat"
+  },
+  {
+    "about": "High-performance spam filtering system",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5230067307249664/",
+    "name": "Rspamd"
+  },
+  {
+    "about": "RTEMS is a real-time operating system used around the world and in space.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6586933375401984/",
+    "name": "RTEMS Project"
+  },
+  {
+    "about": "Ruby on Rails make web application development easy and fun.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5017499041005568/",
+    "name": "Ruby on Rails"
+  },
+  {
+    "about": "Tools for Scientific Computing in Ruby",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6710362682425344/",
+    "name": "Ruby Science Foundation"
+  },
+  {
+    "about": "open source math software",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5071296056524800/",
+    "name": "Sage Mathematical Software System"
+  },
+  {
+    "about": "Opening windows to a wider world.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5093706659004416/",
+    "name": "Samba"
+  },
+  {
+    "about": "The programming language where object-oriented meets functional.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6452441306365952/",
+    "name": "Scala"
+  },
+  {
+    "about": "Numerical computational package and high-level programming language.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6603475844595712/",
+    "name": "Scilab"
+  },
+  {
+    "about": "ScummVM is a GSoC umbrella for game preservation projects",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6165044375060480/",
+    "name": "ScummVM"
+  },
+  {
+    "about": "Unified and efficient Machine Learning",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4704476053110784/",
+    "name": "Shogun Machine Learning Toolbox"
+  },
+  {
+    "about": "Java/GWT platform for humanitarian project management",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5019976297611264/",
+    "name": "Sigmah"
+  },
+  {
+    "about": "Promoting open source compliance through standard communication of SW licenses.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6300304437936128/",
+    "name": "Software Product Data Exchange (SPDX)"
+  },
+  {
+    "about": "The C++ Standards Library for Concurrency and Parallelism",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6145876204453888/",
+    "name": "STE||AR Group"
+  },
+  {
+    "about": "Advance biomedical knowledge through innovative data science research",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6367868836904960/",
+    "name": "Stony Brook University, Biomedical Informatics"
+  },
+  {
+    "about": "linux syscall tracer",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6249254993526784/",
+    "name": "strace"
+  },
+  {
+    "about": "We make tools that learners use to explore, discover, create, and reflect.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4675168001589248/",
+    "name": "Sugar Labs"
+  },
+  {
+    "about": "SCoRe has conducted research covering various aspects of Security, Mobile & IOT.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4984473024200704/",
+    "name": "Sustainable Computing Research Group ( SCoRe )"
+  },
+  {
+    "about": "SymPy is a Python library for symbolic mathematics.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5228947662962688/",
+    "name": "SymPy"
+  },
+  {
+    "about": "Helping women find their potential in code.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5429781541683200/",
+    "name": "Systers, an Anita Borg Institute community"
+  },
+  {
+    "about": "An online feedback management system for students and teachers",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5786366906466304/",
+    "name": "TEAMMATES @ National University of Singapore"
+  },
+  {
+    "about": "NetLogo: A language and IDE for programming and scientific simulations",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4578118920568832/",
+    "name": "The Center for Connected Learning and Computer-Based Modeling"
+  },
+  {
+    "about": "C++ library of computational geometry and geometry processing",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6565611412914176/",
+    "name": "The CGAL Project"
+  },
+  {
+    "about": "An amazing open source community of tools, projects, and  collaboration.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5043263878725632/",
+    "name": "The Eclipse Foundation"
+  },
+  {
+    "about": "FreeType font rendering library",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4699374705704960/",
+    "name": "The FreeType Project"
+  },
+  {
+    "about": "GNU is an operating system that is free software",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5556772852989952/",
+    "name": "The GNU Project"
+  },
+  {
+    "about": "The Honeynet Project - R&D for Honeypot/Honeynet Technology and InfoSec Research",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5512685819002880/",
+    "name": "The Honeynet Project"
+  },
+  {
+    "about": "JPF is a highly extensible Java virtual machine built for software analysis",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4740037845450752/",
+    "name": "The Java Pathfinder Team"
+  },
+  {
+    "about": "A fresh approach to Technical Computing",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6682672759832576/",
+    "name": "The Julia Language"
+  },
+  {
+    "about": "Encrypting the internet using IKE and IPsec",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6311703818010624/",
+    "name": "The Libreswan Project"
+  },
+  {
+    "about": "A non-profit consortium dedicated to fostering the growth of Linux",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5902526847123456/",
+    "name": "The Linux Foundation"
+  },
+  {
+    "about": "Open Source package manager for Mac OS.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5223416953044992/",
+    "name": "The MacPorts Project"
+  },
+  {
+    "about": "Of course it runs NetBSD!",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5856162406727680/",
+    "name": "The NetBSD Foundation"
+  },
+  {
+    "about": "ns-3 is a packet-level network simulator for research and education.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5226418732531712/",
+    "name": "The ns-3 Network Simulator Project"
+  },
+  {
+    "about": "Our goal is to empower people of all backgrounds to learn how to program.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5256745899261952/",
+    "name": "The Processing Foundation"
+  },
+  {
+    "about": "Wine runs Windows applications on Linux, BSD, Solaris and Mac OS X.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5417956825628672/",
+    "name": "The Wine Project"
+  },
+  {
+    "about": "A free, easy to use and flexible 2D level editor.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6470814639587328/",
+    "name": "Tiled"
+  },
+  {
+    "about": "Software & hardware to recording + streaming conferences, meetings & usergroups.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6543856732471296/",
+    "name": "TimVideos"
+  },
+  {
+    "about": "Internet privacy and anonymity",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5273949793419264/",
+    "name": "Tor"
+  },
+  {
+    "about": "Helping biologists see the bigger picture in diverse cancer genomics data",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4944943755821056/",
+    "name": "UCSC Xena"
+  },
+  {
+    "about": "HUES is a platform for modeling & analysis of distributed energy systems",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4513544758362112/",
+    "name": "Urban Energy Systems Laboratory, Empa"
+  },
+  {
+    "about": "A team of volunteers, believing in the power of open source multimedia.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4898083515138048/",
+    "name": "VideoLAN"
+  },
+  {
+    "about": "Visual tracking and visual servoing library",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4892929554382848/",
+    "name": "ViSP"
+  },
+  {
+    "about": "Global movement whose mission is to bring free educational content to the world",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6468952502829056/",
+    "name": "Wikimedia Foundation"
+  },
+  {
+    "about": "Full-text search your history, bookmarks and all your apps.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6393325913374720/",
+    "name": "WorldBrain - Verifying the Internet with Science"
+  },
+  {
+    "about": "Comprehensive and open source middleware platform that spans the breadth of SOA",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6070843662663680/",
+    "name": "WSO2"
+  },
+  {
+    "about": "Library for creating portable native GUIs in C++",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5262324659126272/",
+    "name": "wxWidgets"
+  },
+  {
+    "about": "X Window System and related projects (Mesa, DRI, Wayland, etc.)",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6339354280591360/",
+    "name": "X.Org Foundation"
+  },
+  {
+    "about": "Fast, scalable and flexible search",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6189339662876672/",
+    "name": "Xapian Search Engine Library"
+  },
+  {
+    "about": "Kodi Media Center",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5704018827411456/",
+    "name": "XBMC Foundation"
+  },
+  {
+    "about": "Bringing the power of virtualization everywhere",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/5748328394391552/",
+    "name": "Xen Project"
+  },
+  {
+    "about": "Secure messaging with open standards",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6062681614188544/",
+    "name": "XMPP Standards Foundation"
+  },
+  {
+    "about": "The Advanced Open Source Enterprise Wiki",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/6636322546515968/",
+    "name": "XWiki"
+  },
+  {
+    "about": "A free and open digital archive for the long-tail of science.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4744852235354112/",
+    "name": "Zenodo"
+  },
+  {
+    "about": "Powerful, modern, open source group chat, complete with apps for every platform.",
+    "link": "https://summerofcode.withgoogle.com/archive/2017/organizations/4533090483437568/",
+    "name": "Zulip"
+  }
+]

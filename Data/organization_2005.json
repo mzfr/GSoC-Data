@@ -1,1 +1,42 @@
-[{"name": "Apache Software Foundation", "link": "http://www.apache.org/"}, {"name": "Blender", "link": "http://www.blender3d.org"}, {"name": "Codehaus", "link": "http://www.codehaus.org/"}, {"name": "Drupal", "link": "http://drupal.org/"}, {"name": "Fedora Core", "link": "http://getfedora.org/"}, {"name": "FreeBSD", "link": "http://freebsd.org"}, {"name": "Gaim", "link": "http://gaim.sourceforge.net"}, {"name": "Gallery", "link": "http://gallery.menalto.com/modules.php?op=modload&name=News&file=index"}, {"name": "The GNOME Foundation", "link": "http://www.gnome.org/"}, {"name": "Google", "link": "http://code.google.com/"}]
+[
+  {
+    "link": "http://www.apache.org/",
+    "name": "Apache Software Foundation"
+  },
+  {
+    "link": "http://www.blender3d.org",
+    "name": "Blender"
+  },
+  {
+    "link": "http://www.codehaus.org/",
+    "name": "Codehaus"
+  },
+  {
+    "link": "http://drupal.org/",
+    "name": "Drupal"
+  },
+  {
+    "link": "http://getfedora.org/",
+    "name": "Fedora Core"
+  },
+  {
+    "link": "http://freebsd.org",
+    "name": "FreeBSD"
+  },
+  {
+    "link": "http://gaim.sourceforge.net",
+    "name": "Gaim"
+  },
+  {
+    "link": "http://gallery.menalto.com/modules.php?op=modload&name=News&file=index",
+    "name": "Gallery"
+  },
+  {
+    "link": "http://www.gnome.org/",
+    "name": "The GNOME Foundation"
+  },
+  {
+    "link": "http://code.google.com/",
+    "name": "Google"
+  }
+]
