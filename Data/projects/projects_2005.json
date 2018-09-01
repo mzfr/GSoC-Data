@@ -1,0 +1,407 @@
+[
+  {
+    "mentor": "Tim Funk",
+    "project": "J2EP (tomcat-reverse-proxy)",
+    "student": "Anders Nyman"
+  },
+  {
+    "mentor": "Julie MacNaught",
+    "project": "A partial refactoring of WSRP4J, as well as a set of new features.",
+    "student": "Diego Louzan Martinez"
+  },
+  {
+    "mentor": "Ian  Holsman",
+    "project": "Bandwidth Mod",
+    "student": "Ivan Barrera"
+  },
+  {
+    "mentor": "Nick Kew",
+    "project": "mod_smtpd adds SMTP support to Apache httpd 2.x.",
+    "student": "Jem Berkes"
+  },
+  {
+    "mentor": "Santiago Gala",
+    "project": "AJAX skin for jetspeed2",
+    "student": "Juan Núñez Jaramillo"
+  },
+  {
+    "mentor": "Leo Simons",
+    "project": "Bootstrapping Maven w/ Gump3",
+    "student": "Justin Merz"
+  },
+  {
+    "mentor": "Reinhard Poetz",
+    "project": "Cocoon Forms Library",
+    "student": "Max Pfingsthorn"
+  },
+  {
+    "mentor": "Ian Holsman",
+    "project": "httpd-mbox-if",
+    "student": "Maxime Petazzoni"
+  },
+  {
+    "mentor": "Ian Holsman",
+    "project": "mod-cache-requester - Apache",
+    "student": "Parinkumar Shah"
+  },
+  {
+    "mentor": "Nick Kew",
+    "project": "mod_smtpd",
+    "student": "Rian Hunter"
+  },
+  {
+    "mentor": "Danny Angus",
+    "project": "James Admin Console",
+    "student": "Srinivas Anne"
+  },
+  {
+    "mentor": "Martin Marinschek",
+    "project": "LeboN - An example web application with MyFaces",
+    "student": "Tessy Kizhakkekara"
+  },
+  {
+    "mentor": "Sanjiva Weerawarana",
+    "project": "Apache Kandula",
+    "student": "Thilina Gunarathne"
+  },
+  {
+    "mentor": "Ajith Ranabahu",
+    "project": "StaX parser for Axis C++",
+    "student": "Weerapurage Dinesh Premalal"
+  },
+  {
+    "mentor": "Phil Steitz",
+    "project": "Apache Commons Math Numerical Enhancements",
+    "student": "Xiaogang Zhang"
+  },
+  {
+    "mentor": "Yoav Shapira",
+    "project": "Tune Apache Tomcat Jasper JSP Compilation Performance",
+    "student": "Xingbo Gao"
+  },
+  {
+    "mentor": "Ton Roosendaal",
+    "project": "Extending Inverse Kinematics For Blender",
+    "student": "Brecht Van Lommel"
+  },
+  {
+    "mentor": "Martin Poirier",
+    "project": "curves/surfaces, Nurbana integration",
+    "student": "Emmanuel Stone"
+  },
+  {
+    "mentor": "Alexander Ewering",
+    "project": "Blender/FFMPEG",
+    "student": "Ian Gowen"
+  },
+  {
+    "mentor": "Alexander Ewering",
+    "project": "Boolean Development",
+    "student": "Marc Freixas"
+  },
+  {
+    "mentor": "Jonathan Merritt",
+    "project": "Fluid Simulation with Blender",
+    "student": "Nils Thuerey"
+  },
+  {
+    "mentor": "Campbell Barton",
+    "project": "PyTexture",
+    "student": "Timothy Wakeham"
+  },
+  {
+    "mentor": "Vincent Massol",
+    "project": "Oxyd",
+    "student": "Jérémi Joslin"
+  },
+  {
+    "mentor": "Vincent Massol",
+    "project": "Implementation of JSR-88 (J2EE Application Deployment) support classes for Cargo.",
+    "student": "Lev Olkhovich"
+  },
+  {
+    "mentor": "Vincent Massol",
+    "project": "Implementing Support for JBoss Application Server on Cargo",
+    "student": "Nyoman Winardi"
+  },
+  {
+    "mentor": "Daniel Diephouse",
+    "project": "Implemented the WS-RM specification into XFire to allow SOAP messages to be sent reliably between two endpoints",
+    "student": "Ti Khoi Anh Phan"
+  },
+  {
+    "mentor": "James Walker",
+    "project": "WebDAV API for Drupal",
+    "student": "Fabiano  Sant'Ana"
+  },
+  {
+    "mentor": "Károly Négyesi",
+    "project": "Drupal Quiz Module",
+    "student": "Angela Byron"
+  },
+  {
+    "mentor": "Moshe Weitzman",
+    "project": "Drupal Automated Test Suite",
+    "student": "Jakub Zygmunt"
+  },
+  {
+    "mentor": "Károly Négyesi",
+    "project": "netnews (NNTP) integration for Drupal",
+    "student": "Jan Blom"
+  },
+  {
+    "mentor": "Károly Négyesi",
+    "project": "drupal subscription module",
+    "student": "MÃ¡rton Elek"
+  },
+  {
+    "mentor": "Gerhard Killesreiter",
+    "project": "Drupal - Google Sitemap",
+    "student": "Matthew Loar"
+  },
+  {
+    "mentor": "James Walker",
+    "project": "upcoming.org REST API for Drupal",
+    "student": "Stephan Jaensch"
+  },
+  {
+    "mentor": "Robert Douglass",
+    "project": "Ajax Functionality (Drupal)",
+    "student": "Steven Wittens"
+  },
+  {
+    "mentor": "Moshe Weitzman",
+    "project": "Drupal automated test suite",
+    "student": "Thomas Ilsche"
+  },
+  {
+    "mentor": "Elliot Lee",
+    "project": "preload - an adaptive readahead daemon",
+    "student": "Behdad Esfahbod"
+  },
+  {
+    "mentor": "Elliott Lee",
+    "project": "An application for Fedora-based live CD generation",
+    "student": "Darko Ilic"
+  },
+  {
+    "mentor": "Elliot Lee",
+    "project": "pyBackPack",
+    "student": "Dave Arter"
+  },
+  {
+    "mentor": "Elliot Lee",
+    "project": "Global Command History for Bash",
+    "student": "Praveenkumar Ponnusamy"
+  },
+  {
+    "mentor": "Elliot Lee",
+    "project": "Python bindings for libparted",
+    "student": "Ulisses Furquim Freire da Silva"
+  },
+  {
+    "mentor": "Elliot Lee",
+    "project": "setting process rlimits",
+    "student": "Wieland Gmeiner"
+  },
+  {
+    "mentor": "Lukas Ertl",
+    "project": "FreeBSD gvinum 'move', 'rename', documentation",
+    "student": "Chris Jones"
+  },
+  {
+    "mentor": "Maxime Henrion",
+    "project": "csup",
+    "student": "Christoph Mathys"
+  },
+  {
+    "mentor": "Scott Long",
+    "project": "ssh based networked filesystem for FreeBSD",
+    "student": "Csaba Henk"
+  },
+  {
+    "mentor": "Scott Long",
+    "project": "FreeSBIE integration in FreeBSD",
+    "student": "Dario Freni"
+  },
+  {
+    "mentor": "Murray Stokely",
+    "project": "FreeBSD website redesign and development",
+    "student": "Emily Boyd"
+  },
+  {
+    "mentor": "Pawel Dawidek",
+    "project": "gjournal",
+    "student": "Ivan Voras"
+  },
+  {
+    "mentor": "Luigi Rizzo",
+    "project": "Improve libalias",
+    "student": "Paolo Pisati"
+  },
+  {
+    "mentor": "Philip Paeps",
+    "project": "SNMP client tools using FreeBSD's libbsnmp",
+    "student": "Shteryana Shopova"
+  },
+  {
+    "mentor": "Murray Stokely",
+    "project": "Porting Mac OS 10.4's launchd(8) tools to FreeBSD",
+    "student": "Tyler Ballance"
+  },
+  {
+    "mentor": "Hartmut Brandt",
+    "project": "Fully Integrated SNMP Monitoring",
+    "student": "Victor Cruceru"
+  },
+  {
+    "mentor": "Sean Egan",
+    "project": "Implement UPnP NAT Traversal into the Gaim project to allow for seamless file transfers and direct connections.",
+    "student": "Adam Warrington"
+  },
+  {
+    "mentor": "Ethan Blanton",
+    "project": "Gadu-Gadu Support (in Gaim)",
+    "student": "Bartosz Oler"
+  },
+  {
+    "mentor": "Gary Kramlich",
+    "project": "Music Messaging",
+    "student": "Christian Muise"
+  },
+  {
+    "mentor": "Mark Doliner",
+    "project": "File Transfers via the OSCAR (ICQ/AIM) Protocol",
+    "student": "Jonathan Clark"
+  },
+  {
+    "mentor": "Mark Doliner",
+    "project": "Rendezvous Plugin for Gaim",
+    "student": "Juanjo Molinero Horno"
+  },
+  {
+    "mentor": "Sean Egan",
+    "project": "D-Busified gaim-remote",
+    "student": "Piotr Zielinski"
+  },
+  {
+    "mentor": "Ethan Blanton",
+    "project": "SIP/SIMPLE/STUN for gaim",
+    "student": "Thomas Butter"
+  },
+  {
+    "mentor": "Jay Rossiter",
+    "project": "Gallery2 - DupeDetect",
+    "student": "Aviad Tsherniak"
+  },
+  {
+    "mentor": "Chris Kelly",
+    "project": "G2 XML-RPC Modularization/CoreAPI",
+    "student": "Christopher Schwerdt"
+  },
+  {
+    "mentor": "Jay Rossiter",
+    "project": "Hidden and Password-Protected Items",
+    "student": "Jess Martin"
+  },
+  {
+    "mentor": "Bharat Mediratta",
+    "project": "Downloadable Plugins",
+    "student": "Jozef Selesi"
+  },
+  {
+    "mentor": "Andy Staudacher",
+    "project": "G2 / ZenCart Integration",
+    "student": "Michael Rodriguez-Torrent"
+  },
+  {
+    "mentor": "Jesse Mullan",
+    "project": "Exploit aspects of DHTML to operate a smooth slideshow.",
+    "student": "Ross Shannon"
+  },
+  {
+    "mentor": "Colin Walters",
+    "project": "iTunes Music Sharing for Rhythmbox",
+    "student": "Charles Schmidt"
+  },
+  {
+    "mentor": "Federico Mena-Quintero",
+    "project": "Live Documentation Editor 'Sarma'",
+    "student": "Danilo egan"
+  },
+  {
+    "mentor": "Owen Taylor",
+    "project": "Improve GNOME startup time",
+    "student": "Lorenzo Colitti"
+  },
+  {
+    "mentor": "Dave Camp",
+    "project": "Track changes in a filesystem directory via subversion and nautilus",
+    "student": "Matt Jones"
+  },
+  {
+    "mentor": "Johan Dahlin",
+    "project": "gshrooms",
+    "student": "Raphael Slinckx"
+  },
+  {
+    "mentor": "Seth Nickell",
+    "project": "Search Party",
+    "student": "Sanford Armstrong"
+  },
+  {
+    "mentor": "Havoc Pennington",
+    "project": "GNOME Panel Extensions",
+    "student": "Travis Vachon"
+  },
+  {
+    "mentor": "Miguel  de Icaza",
+    "project": "ASP.NET Editor-Mozilla",
+    "student": "Blagovest Dachev"
+  },
+  {
+    "mentor": "Greg Wilson",
+    "project": "Bitten",
+    "student": "Christopher Lenz"
+  },
+  {
+    "mentor": "Chris DiBona",
+    "project": "usb8x",
+    "student": "Daniel Englender"
+  },
+  {
+    "mentor": "Evan Martin",
+    "project": "osmo",
+    "student": "David Wilson"
+  },
+  {
+    "mentor": "Michael Moss",
+    "project": "Tsync",
+    "student": "James Anderson"
+  },
+  {
+    "mentor": "Peter Murray",
+    "project": "Fedora-ShibFilter",
+    "student": "Joshua Kent"
+  },
+  {
+    "mentor": "Chris Lavoie",
+    "project": "Query By Example",
+    "student": "Meredith Patterson"
+  },
+  {
+    "mentor": "Chris Lavoie",
+    "project": "A VM in Java with tail-calls and continuations",
+    "student": "Nuno Cruces"
+  },
+  {
+    "mentor": "Yoshiki Hayashi",
+    "project": "XSieve",
+    "student": "Oleg Paraschenko"
+  },
+  {
+    "mentor": "Evan Martin",
+    "project": "Google / Cairo integration into GTK Haskell bindings",
+    "student": "Paolo Martini"
+  }
+]

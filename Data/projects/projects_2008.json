@@ -1,0 +1,177 @@
+[
+  {
+    "mentor": "Dominic Lachowicz",
+    "project": "Getting rid of non-portable library use in AbiWord/Gtk+",
+    "student": "Robert Staudinger"
+  },
+  {
+    "mentor": "J.M. Maurer",
+    "project": "Improve LaTeX Support",
+    "student": "Xun Sun"
+  },
+  {
+    "mentor": "Martin Edmund Sevior",
+    "project": "AbiWord Multiple Page View",
+    "student": "James Denton"
+  },
+  {
+    "mentor": "Hubert Figuiere",
+    "project": "Rethinking Styles",
+    "student": "Ryan Pavlik"
+  },
+  {
+    "mentor": "Kamran Khan",
+    "project": "Proposal for developing OOXML Export plugin for AbiWord",
+    "student": "Firat Kiyak"
+  },
+  {
+    "mentor": "Peter Hosey",
+    "project": "Unit Tests and Documentation for Adium",
+    "student": "Branton John Homer"
+  },
+  {
+    "mentor": "David Smith",
+    "project": "Data-detectors for Adium",
+    "student": "Geoffrey Foster"
+  },
+  {
+    "mentor": "Robert James Tarling",
+    "project": "UI Code generation for ArgoUML property panels",
+    "student": "Christian Lopez Espinola"
+  },
+  {
+    "mentor": "Luís Sérgio Valente de Oliveira",
+    "project": "Usability issues of diagrams",
+    "student": "Bogdan SZANTO"
+  },
+  {
+    "mentor": "Jan Magne Andersen",
+    "project": "C# Gene /Generating UML diagrams from C# source files",
+    "student": "Thilina Hasantha"
+  },
+  {
+    "mentor": "Pistol Constandache Bogdan Ciprian",
+    "project": "ArgoEclipse",
+    "student": "Brian Hudson"
+  },
+  {
+    "mentor": "Michiel van der Wulp",
+    "project": "Improving the Critics Subsystem",
+    "student": "Marcos Aurelio Almeida da Silva"
+  },
+  {
+    "mentor": "Ant Elder",
+    "project": "Tuscany SCA Support in the Geronimo Admin Console",
+    "student": "Thilina Mahesh Buddhika"
+  },
+  {
+    "mentor": "Adriano Crestani Campos",
+    "project": "Allow Google Android applications to easily consume business services (version 2.0 - 6Apr2008 @17.50)",
+    "student": "Oscar Castaneda"
+  },
+  {
+    "mentor": "Alexei Y. Zakharov",
+    "project": "harmony-demo-1",
+    "student": "C. D. Tharindu Mathew"
+  },
+  {
+    "mentor": "Marnie McCormack",
+    "project": "CLI for extract information from Apache Qpid Java broker",
+    "student": "Lahiru Mananada Gunathilake"
+  },
+  {
+    "mentor": "Tammo van Lessen",
+    "project": "Ajax-based Monitoring Console for Apache ODE",
+    "student": "Milinda Lakmal Pathirage"
+  },
+  {
+    "mentor": "Luciano Resende",
+    "project": "Integrate Google Services in SCA Compositions",
+    "student": "Douglas Siqueira Leite"
+  },
+  {
+    "mentor": "Myrna van Lunteren",
+    "project": "derby-testandfix - Convert Derby tests to JUnit and fix Derby bugs",
+    "student": "Erlend Birkenes"
+  },
+  {
+    "mentor": "Khaled Noaman",
+    "project": "Implementing Conditional Type Assignment for Apache Xerces2-J",
+    "student": "Hiranya Jayathilaka"
+  },
+  {
+    "mentor": "Katherine Marsden",
+    "project": "Convert Apache Derby tests to JUnit and fix Derby bugs",
+    "student": "Umayanga Suran Jayathilaka"
+  },
+  {
+    "mentor": "Zhaohui Feng",
+    "project": "CORBA support for Apache Tuscany",
+    "student": "Wojciech Janiszewski"
+  },
+  {
+    "mentor": "Grant Ingersoll",
+    "project": "Codename Mahout.GA for mahout-machine-learning",
+    "student": "Abdel Hakim Deneche"
+  },
+  {
+    "mentor": "Luciano Resende",
+    "project": "Integrate Google services in SCA compositions（Apache Tuscany）",
+    "student": "Haibo Zhao"
+  },
+  {
+    "mentor": "Nandana Sampath Mihindukulasooriya",
+    "project": "Basic Security Profile (BSP) 1.0 Validation for Apache Rampart",
+    "student": "Heshan Suriyaarachchi"
+  },
+  {
+    "mentor": "Sian January",
+    "project": "Policytool: command line tool for Harmony",
+    "student": "András Belicza"
+  },
+  {
+    "mentor": "Bertrand Delacretaz",
+    "project": "Make the Scala Language usable in Sling.",
+    "student": "Janandith Uditha Jayawardena"
+  },
+  {
+    "mentor": "Reinhard Poetz",
+    "project": "Cocoon block migration and development of new examples",
+    "student": "Lukas Fridolin Lang"
+  },
+  {
+    "mentor": "Nandika Jayawardana",
+    "project": "Axis2/C CGI application",
+    "student": "Nikola Tankovic"
+  },
+  {
+    "mentor": "Myrna van Lunteren",
+    "project": "derby-testandfix/Convert Derby tests to JUnit and fix Derby bugs",
+    "student": "Junjie Peng"
+  },
+  {
+    "mentor": "Pallewela Mohottige Dumindu Perera",
+    "project": "XPath implementation for Axis2/C",
+    "student": "Varuna Parinda Jayasiri"
+  },
+  {
+    "mentor": "Ian Holsman",
+    "project": "To implement Complementary Naïve Bayes algorithm using Map Reduce for Multicore Systems",
+    "student": "Robin Anil"
+  },
+  {
+    "mentor": "Dave Johnson",
+    "project": "Open ID support for Roller blog server",
+    "student": "Tatyana Tokareva"
+  },
+  {
+    "mentor": "Ryan McKinley",
+    "project": "SOLR: Create a javascript client library for Apache Solr",
+    "student": "Matthias Epheser"
+  },
+  {
+    "mentor": "Kevin Joseph Menard",
+    "project": "Cayenne - Cayenne Modeler Improvements",
+    "student": "Andrey Razumovsky"
+  }
+]

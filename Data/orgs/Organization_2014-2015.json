@@ -1,0 +1,2249 @@
+[
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/n52",
+    "mail": "//52north.org/resources/mailing-list-and-forums/",
+    "name": "n52",
+    "page": "https://wiki.52north.org/bin/view/Projects/GSoC2014ProjectIdeas"
+  },
+  {
+    "about": "\n  Established in 2010, Constellation is a platform for different aerospace related projects that need massive computational power or a global infrastructure. The computing power is provided by \"everyone\", which means that generous people like you donate idle PC time at home for their favourite space projects by forming a virtual super-computer via the Internet. The harnessed power of currently 38000 PCs is used for applied space research for student projects and space organizations.\n\nAs a young academics group at the University of Stuttgart, it is our goal to encourage and foster other students to work in aerospace engineering and applied computer sciences. We had an awesome experience during GSOC 2013 and want to share it again this year with expanding already started ideas, such as Solar System Grand Tour, as well as fantastic new and innovative software and hardware projects, such as Distributed Ground Station Network (which shall track satellites, planes or Google Bloons). We support open-source in space, because we believe space is open for everybody!\n\nThis year, we are supported by great mentors from our Constellation Core Team, from the Comet Team at the Institute of Space Systems (IRS) and from RadioPunks. If you want to be a mentor and/or propose your idea, do not hesitate to contact us!\n\nCheck our ideas page and post your ideas and questions: \nhttp://aerospaceresearch.net/constellation/forum_thread.php?id=271\n\nThe following quote perfectly illustrates, that your possibilities with us are endless!\n\"Space, is big. Really big. You just won't believe how vastly, hugely, mindbogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space\" - Douglas Adams \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/aerospaceresearchnet",
+    "mail": "aerospaceresearch@googlegroups.com",
+    "name": "aerospaceresearchnet",
+    "page": "http://aerospaceresearch.net/constellation/forum_thread.php?id=271"
+  },
+  {
+    "about": "\n  Amahi is an open-source home server distribution based on Linux. It's flexible and customizable, with a ton of apps and plug-ins. It starts as a simple file server (a NAS), however, it can also pool a bunch of hard drives into a redundant storage pool.\n\nIt has apps for backups, VPN, streaming and much more, with PHP, Python, node.js and server-based apps being popular web-apps packaged for Amahi.\n\nThe core of the platform is based on Ruby on Rails, however our code base includes project written in Go, ruby, PHP, Python and some bits in perl.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/amahi",
+    "mail": "//lists.sourceforge.net/lists/listinfo/amahi-devel",
+    "name": "amahi",
+    "page": "https://wiki.amahi.org/index.php/Google_Summer_of_Code_Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/apache",
+    "mail": "//incubator.apache.org/. Students can approach the GSOC Admins via dev@community.apache.org.",
+    "name": "apache",
+    "page": "http://s.apache.org/gsoc2014ideas"
+  },
+  {
+    "about": "\n  \n\nThe Apertium project develops a free/open-source platform for machine translation and language technology. We try to focus our efforts on lesser-resourced and marginalised languages, but also work with more widely-spoken languages.\n\nThe platform, including data for a large number of language pairs, a translation engine and auxiliary tools is being developed around the world, largely in universities and companies (e.g. Prompsit Language Engineering), but independent free-software developers also play a huge role.\n\nThere are currently 33 published language pairs within the project (including a number of \"firsts\" — for example Aragonese—Spanish, Spanish—Occitan, Breton—French, and Basque—Spanish among others), and several more in development. \n\nApertium has a special focus in lowering the barrier for the creation of linguistic resources for any language, ideally to be used for MT, but also reusable for other purposes (e.g. grammar checking, morphological analysis, PoS tagging, etc.). \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/apertium",
+    "mail": "apertium-stuff@lists.sourceforge.net",
+    "name": "apertium",
+    "page": "http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code"
+  },
+  {
+    "about": "\n  appleseed is a modern, physically-based open source final frame renderer. Started in 2009, it has grown into a robust rendering toolset and has been battle-tested on several projects such as TV documentaries, ads, promotional videos and animation shorts. appleseed is the successor to toxic, an early open source global illumination renderer first released in 2003.\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/appleseed",
+    "mail": "//groups.google.com/forum/#!forum/appleseed-dev",
+    "name": "appleseed",
+    "page": "https://github.com/appleseedhq/appleseed/wiki/List-of-Project-Ideas"
+  },
+  {
+    "about": "\n  Arches is an open source heritage inventory & management system, purpose-built to help inventory and manage all types of immovable heritage -- including, but not limited to, archaeological sites for example.\n\nThe Arches Project was started by the Getty Conservation Institute and the World Monuments Fund, with participation from many other organizations involved in cultural heritage sites.  The project has been open source from its inception, and version 1.0 was released on December 4th, 2013.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/arches",
+    "mail": "//groups.google.com/forum/#!forum/archesproject",
+    "name": "arches",
+    "page": "http://archesproject.org/ideas/"
+  },
+  {
+    "about": "\n  Tatoeba is a libre/free database of example sentences translated into many languages. Our goal is to create a resource for people studying languages—either to learn or research. The database is currently used as a source of example sentences by free dictionaries and language learning websites (like Jim Breen’s WWWJDIC; Jim Breen is actually a member too). It's also used as a rich resource for language learners: They can find out how to use words or how to translate grammatical constructs and idioms. The main site currently has about 1 million page views and 250 thousands unique visitors monthly, as reported by Google Analytics, and the corpus is growing steadily by 3% or more every month.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/tatoeba",
+    "mail": "//groups.google.com/forum/#!forum/tatoebaproject",
+    "name": "tatoeba",
+    "page": "http://en.wiki.tatoeba.org/articles/show/gsoc_ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/wesnoth",
+    "mail": "wesnoth-dev@gna.org",
+    "name": "wesnoth",
+    "page": "http://wiki.wesnoth.org/SummerOfCodeIdeas"
+  },
+  {
+    "about": "\n  BeagleBoard.org is an open source community of experienced hackers, hobbyists and engineers who are enthusiastic about building powerful,open ARM-based systems based on the same processors used is in popular, high-end Android phones today. BeagleBoard.org’s vision is to improve access to small, low-power computing platforms that can be embedded into new creations using easy to use development tools, such as the web-based IDE. The hardware designs of all Beagle boards are open source with all schematics, bills-of-materials, layouts, etc. shared for building other devices. The software is also open source and is generated by the community(such as the Angstrom Distribution, Ubuntu, Android and other Linux distributions). Compiler tools are free and the board is available at a low cost. Boards will be provided for free to any student participating in a BeagleBoard.org-related GSoC project.\n\nTexas Instruments sponsors a number of BeagleBoard.org-related activities and the first members of the community were TI employees, however, the collaboration base is now stronger than ever with over 5,000 members on the mailing list, over 100,000 individual developers worldwide who have purchased Beagle hardware and over 150 developers who actively participate on the live chat (IRC channel) at any given time. Existing projects are often for the purpose of building robots, autonomous flying drones, automotive entertainment and navigation systems, home media centers, digital signs, wearable computers, gaming consoles and even 3d printers! (over 380 projects registered at http://beagleboard.org/project/) Existing software compatibility includes various versions of Android, Ubuntu, Angstrom, Gentoo, FFmpeg, XBMC, ROS, OpenCV and much more.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/beagle",
+    "mail": "//groups.google.com/forum/#!forum/beagleboard-gsoc",
+    "name": "beagle",
+    "page": "http://elinux.org/BeagleBoard/GSoC/Ideas"
+  },
+  {
+    "about": "\n  The BEAM Community is a group of OSS projects that run on the Erlang VM. Our goal is to host relevant projects in the Erlang community, making it easy for those projects to participate in the Google Summer of Code and for interested students to pick their best choice. The Erlang VM was originally designed by Ericsson to support distributed, fault-tolerant, soft-real-time, non-stop applications. Many companies around the world like Amazon, Heroku and Activision use the Erlang VM in their stack and open source projects like CouchDB and Riak are built on top of it. Our currently hosted projects include the Elixir programming language, Disco, a distributed computing framework originated from Nokia, ejabberd, a robust XMPP server used largely around the world and others. This gives students a wide range of choices, that goes from working on distributed systems, to maintaining robust servers and language design.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/beamcommunity",
+    "mail": "//groups.google.com/forum/#!forum/beam-community",
+    "name": "beamcommunity",
+    "page": "https://github.com/beamcommunity/beamcommunity.github.com/wiki"
+  },
+  {
+    "about": "\n  Benetech is a nonprofit organization developing open source software in the areas of global literacy, human rights and the environment.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/benetech",
+    "mail": "//groups.google.com/forum/#!forum/mathmlcloud-developers/",
+    "name": "benetech",
+    "page": "https://github.com/benetech/svgtex/wiki/Ideas-for-GSoC-2014"
+  },
+  {
+    "about": "\n  Bio4j is a high-performance cloud-enabled graph-based bioinformatics data platform, integrating most data available in the most representative open data sources around protein information available today. It models and incorporates most data available in\n\n- UniProtKB (SwissProt + Trembl)\n- Gene Ontology (GO)\n- UniRef (50, 90, 100)\n- RefSeq\n- NCBI taxonomy\n- Expasy Enzyme\n\nBio4j is unique in this space as the only truly open effort with code licensed as AGPLv3, integrating only open data, and a 100% public development and release process.\n\nBio4j was initiated in 2010 and is led by Oh no sequences!, the Era7 bioinformatics R&D group.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/bio4j",
+    "mail": "//groups.google.com/forum/#!forum/bio4j-user",
+    "name": "bio4j",
+    "page": "https://github.com/bio4j/gsoc14/wiki/ideas"
+  },
+  {
+    "about": "\n  BioJS is a community-based standard and repository of functional components to represent biological information on the web. Its modular architecture makes it easy for users to find a specific functionality without needing to know how it has been built. The BioJS community of developers currently provides a range of functionality that is open access and freely available. A registry has been set up that categorises and provides installation instructions and testing facilities at http://www.ebi.ac.uk/tools/biojs/. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/biojs",
+    "mail": "//groups.google.com/forum/#!forum/biojs",
+    "name": "biojs",
+    "page": "https://rostlab.org/services/biojs/gsoc.html"
+  },
+  {
+    "about": "\n  Biomedical Informatics (BMI) is a multidisciplinary field that studies and pursues the effective use of biomedical and clinical data, through novel computational approaches, driven by efforts to improve diagnosis, clinical care, and human health.\nThe BMI department is working in the area of Big Data Analytics for Healthcare. We use our expertise in computer science and informatics by developing various enabling tools, technologies, and algorithms to solve specific biomedical and clinical applications. And in doing so help advance our understanding of disease and treatment, and also develop useful software and applications.\nMembers of the department work in a variety of areas that range from healthcare middleware such as security, cloud computing, high end computing and metadata management, to clinical information systems, clinically oriented image analysis and biomedical knowledge modeling. The driving applications for the various ongoing projects include cancer research, organ transplant, HIV, medical imaging, radiation therapy, and clinical data analytics. \nThis year we are partnering with our collaborators from the Electronic Research Lab (ERL) at Washington University, St. Louis. ERL has a long history of conducting pioneering research and development in medical imaging informatics. In recent years they have developed open source application hosting platforms such as OpenXIP and Algorithm Validation Toolkit. Mentors from ERL have some exciting projects involving the Cancer Imaging Archive (TCIA). TCIA is one of the largest a public repositories of cancer images and related clinical data with the express purpose of enabling open science research. Currently over 26 million radiologic images and several thousand pathology images of cancer are contained in this repository. \n\nAll development work that is undertaken by both departments is free and open-source.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/bmi_cci",
+    "mail": "emory.cci@gmail.com",
+    "name": "bmi_cci",
+    "page": "https://docs.imphub.org/display/PS/Google+Summer+of+Code+-+2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/blender",
+    "mail": "//lists.blender.org/mailman/listinfo/bf-committers",
+    "name": "blender",
+    "page": "http://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2014/Ideas"
+  },
+  {
+    "about": "\n  The Bookie team works around an open source delicious-like bookmarking application and the suite of applications and libraries that make it tick. You can find them at https://github.com/bookieio.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/bookie",
+    "mail": "",
+    "name": "bookie",
+    "page": "https://docs.google.com/document/d/1F51s9_faKf_GraKthtT0mCsQQvu-LMdnLwlliSZ3rJ4/edit?usp=sharing"
+  },
+  {
+    "about": "\n  Boost provides free peer-reviewed portable C++ source libraries.\n\nWe emphasize libraries that work well with the C++ Standard Library. Boost libraries are intended to be widely useful, and usable across a broad spectrum of applications. The Boost license encourages both commercial and non-commercial use.\n\nWe aim to establish \"existing practice\" and provide reference implementations so that Boost libraries are suitable for eventual standardization. Ten Boost libraries are included in the C++ Standards Committee's Library Technical Report (TR1) and in the new C++11 Standard. C++11 also includes several more Boost libraries in addition to those from TR1. More Boost libraries are proposed for TR2.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/boostcpp",
+    "mail": "//lists.boost.org/Archives/boost/",
+    "name": "boostcpp",
+    "page": "https://svn.boost.org/trac/boost/wiki/SoC2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/brlcad",
+    "mail": "//lists.sourceforge.net/lists/listinfo/brlcad-devel",
+    "name": "brlcad",
+    "page": "http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas"
+  },
+  {
+    "about": "\n  Buildbot is an open-source framework for automating software build, test, and release processes.  The Buildbot project is organized under the Software Freedom Conservancy \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/buildbot",
+    "mail": "//lists.sourceforge.net/lists/listinfo/buildbot-devel",
+    "name": "buildbot",
+    "page": "http://trac.buildbot.net/wiki/ProjectIdeas"
+  },
+  {
+    "about": "\n  BuildmLearn is a group of volunteers who collaborate to promote m-Learning with the specific aim of creating open source tools and enablers for teachers and students. \n\nThe group is involved in developing easy to use m-Learning solutions, tool-kits and utilities for teachers (or parents) and students that help facilitate learning. The group comprises several like minded members of a wider community who collaborate to participate in a community building process.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/buildmlearn",
+    "mail": "//groups.google.com/forum/#!forum/buildmlearn",
+    "name": "buildmlearn",
+    "page": "https://github.com/BuildmLearn/BuildmLearn-Toolkit/wiki/Google-Summer-of-Code-2014-Ideas"
+  },
+  {
+    "about": "\n  BBAUV is a student-driven initiative; an educational platform for students to design and build a vehicle that is able to navigate underwater and perform a series of tasks without any remote control assistance, i.e. autonomous. The system is targeted to be designed as highly intelligent and robust to changing environmental conditions.\n\nEvery year, the team competes in the annual AUVSI Robosub student competition, held in San Diego, USA. We also participate in other relevant competitions and events, such as Singapore AUV Challenge and exploring SeaPerch programme.  \n\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/bbauv1",
+    "mail": "",
+    "name": "bbauv1",
+    "page": "http://www.bbauv.com/bbauv-ideas-list-for-google-summer-of-code/"
+  },
+  {
+    "about": "\n  Catrobat is a visual programming language and set of creativity tools for smartphones, tablets, and mobile browsers. Catrobat and the software developed by the Catrobat team are inspired by the Scratch programming system developed by the Lifelong Kindergarten Group at the MIT Media Lab.\n\nPocket Code is an Android app that allows to create and execute Catrobat programs on Android phones and tablets.\n\nPocket Code allows kids and teens (from age 8 up) to easily create Android apps using only their mobile device, without the need for an additional PC. Catrobat programs are created in a visual “Lego”-type style as known from Scratch (only for PCs) or AppInventor (also needs a PC for development and is less oriented towards kids or teens). Pocket Paint is part of the Catrobat project and is a graphical paint editor for the Android platform that, among others, allows setting parts of pictures to transparent (pinch zoom up to single pixel level), which is an important feature if one wants to extract, e.g., one’s own head from a photograph while deleting all the background, or some other part from any image, in order to use the resulting shape as a graphical element inside one’s app.\n\nPocket Code’s Web 2.0 community site allows kids and teens to share their apps in a way similar to Scratch's community site, including the sharing and remixing of Catrobat programs under the AGPL open source license, the aim being to facilitate the learning of programming skills among kids and teens (and also older users) as well as spreading and popularizing the free and open source movement among all children and teenagers of the world. Typical users of Pocket Code would be, e.g., an 11 year old girl wanting to share her Hannah Montana animation with her friends, or a 15 year old boy wanting to implement a multi-player multi-touch space invaders game. Thus, usability is a major aspect of the project and has top priority.\n\nThe motivation behind the Catrobat project is that programming is an important cultural technique on the same level as mathematics and physics, from a practical as well as from a philosophical point of view. Our aim thus is to popularize the skills needed to program from an early age on in a fun and engaging way that will facilitate the spread of its adoption among young people all over the world. Pocket Code was released in summer 2013 via Google Play to the public, selected in November 2013 by Google as the only programming language in the STEM category for Google Play for Education, and has won the Austrian National Innovation Award 2013.\n\nThere are several subprojects involving, e.g., the bidirectional coupling with an AR.Drone quadcopter, with a Lego Mindstorms robot, with a Robocup soccer robot via the Arduino open-source electronics platform, a program that allows to package a Pocket Code project as an apk file (i.e., as a stand-alone Android app), an HTML5 player (though not supporting all Pocket Code features as not all sensors etc. can be accessed), a localization / internationalization support site (we currently support several languages, with speakers of English, Mandarin, Cantonese, Hindi, Arabian, German, Turkish, French, Japanese, Urdu, and Malaysian in the team), the building of an engaging tutorial game inspired by the funny tutorial of Nintendo’s Wario Ware: D.I.Y. programming game for the Nintendo DS, a Physics Engine based on Box2D allowing to easily create games such as Pinball, MusicDroid that allows to enter musical notation by singing and Near Field Communication (NFC) support for multiplayer coordination.\n\nThe Catrobat team is composed of more than 200 developers. We use a test-driven development method (test-first style; tests used as declarative executable program documentation) with several additional practices from extreme programming such as ping pong pair programming in frequently changing pairs, kanban system, very clear self-explaining clean code (including test code; no comments in code unless not expressible in the code itself; no prose documentation), continuous usability consideration (paper prototyping on a daily basis, the personas method, usability expert feedbacks, and usability tests with children), continuous integration using git, automated unit-, functional-, regression-, and monkey-testing, permanent refactoring, the YAGNI principle, and collective code ownership. External contributors will need to follow our test-driven development method. While we minimize the amount of test code and are very pragmatic, please understand that we are concerned of producing high quality and highly maintainable code that can be extended and refactored without the need for direct human communication, and without the need to refer to non-executable documents.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/catrobat",
+    "mail": "//groups.google.com/group/catrobat/",
+    "name": "catrobat",
+    "page": "http://developer.catrobat.org/gsoc_2014_ideas_page"
+  },
+  {
+    "about": "\n  If you've ever downloaded a .srt file to get subtitles for anything, most likely CCExtractor was used to produce it. \n\nTo be clear, while CCExtractor job is to produce these transcript files from video streams, this year we need students interested in a number of more generic things, such as multithreading, networking... having an interest in subtitles in particular, or video encoding is a plus, but not absolutely needed.\n\nThe goal of our GSOC application is to make the best possible closed captioning tools available for everyone. \n\nWhile closed captioning used to be a niche area, now that everyone can create and distribute content, subtitles are more important than ever - yet most tools are proprietary.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ccextractor",
+    "mail": "//lists.sourceforge.net/lists/listinfo/ccextractor-users",
+    "name": "ccextractor",
+    "page": "http://ccextractor.sourceforge.net/gsoc2014.html"
+  },
+  {
+    "about": "\n  The Centre for Computational Medicine (CCM) is a Core Facility within the SickKids Research Institute, providing computational expertise, including High Performance Computing resources, Bioinformatics Analysis consulting and Software Development.\n\nAt the CCM, we develop free open source software for clinical genetics, which aims to empower scientists to transform their data into knowledge. Our tools have a user base which includes many clinical and research facilities across Canada, the US and Europe. Our targets are non-technical users, which we help cross the technological barrier. Our software aims to make their lives easier by integrating seamlessly in their work routine and shielding them from technical complexities. From a more technical/development standpoint, we focus on usability and accessibility, as well as on big data visualization and interpretation assistance.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ccm",
+    "mail": "ccm-mentors@cs.toronto.edu",
+    "name": "ccm",
+    "page": "https://gsoc.ccm.sickkids.ca/"
+  },
+  {
+    "about": "\n  Ceph®, The Future of Storage™, is a massively scalable, open source, software-defined storage system that runs on commodity hardware. Delivering object, block, and file system storage in one self-managing, self-healing platform with no single point of failure, Ceph ideally replaces legacy storage and provides a single solution for the cloud.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ceph",
+    "mail": "//ceph.com/resources/mailing-list-irc/",
+    "name": "ceph",
+    "page": "http://ceph.com/gsoc2014/"
+  },
+  {
+    "about": "\n  The SFT (Software for Experiments) group is part of CERN (European Organization for Nuclear Research, http://www.cern.ch), and focuses on providing common software for its experiments. CERN is one of the world’s largest and most exciting centers for fundamental physics research. Experiments at CERN have probed the fundamental nature of matter and the forces which affect it. CERN is also the birthplace of the World Wide Web (http://info.cern.ch), invented by Tim Berners-Lee. The SFT group's efforts, like most of CERN's current activities, are directed towards the world’s highest-energy elementary particle accelerator - the Large Hadron Collider (LHC, http://public.web.cern.ch/public/en/lhc/lhc-en.html) and its experiments. There are four large experiments at the LHC (ALICE, ATLAS, CMS, LHCb) which seek to expand the frontiers of knowledge and complete our understanding of the constituents of matter and their interactions, of the conditions in the first instants after the Big Bang and of the differences between matter and anti-matter. During 2012, ATLAS and CMS announced the discovery of a new boson, which has been confirmed recently to have the properties of a Higgs boson - similar to the one required by the Standard Model of Particle Physics.\nNOTE: The vast majority of our GSoC projects do not require any physics knowledge.\n\nOperating the LHC and running each experiment requires a large amount of software. A large part of this software is common and open source. The open source software spans the range from system software to more specialized physics-oriented tools and toolkits.\n\nThe projects to which students can contribute span two end-user applications, the SixTrack accelerator simulation and the Geant4/Geant-V detector simulation toolkit, the interpreter Cling which will serve as a core component of the the Root system for storing and analyzing the data of the LHC experiments and IgProf, a key tool for obtaining profiling of large scale applications, such as the experiment simulation, reconstruction and analysis tool-chains.\n\nSixTrack is a simulation tool for the trajectory of high energy particles in accelerators. It has been used in the design and optimization of the LHC and is now being used to design the upgrade that will be installed in the next decade, the High-Luminsity LHC (HL-LHC). Sixtrack has been adapted to take advantage of large scale volunteer computing resources provided by the LHC@Home project. It has been engineered to give the exact same results after millions of operations on several, very different computer platforms.\n\nThe Root system (http://root.cern.ch/) is used to handle, store and analyze the data of all LHC experiments. The experiments store both their raw data and intermediate, processed results using Root, as it offers an open source format and is very compact. Having the data defined as a set of objects, it is possible to get access separately to particular attributes of the selected objects, without touching the remaining attributes. Root includes many tools for analysis of data, from histogramming methods in an arbitrary number of dimensions, curve fitting, function evaluation, minimization, graphics and visualization. It includes also a built-in C++ interpreter the command language which is used as a scripting, or macro language.\n\nCling is a new C++11 standard-compliant interpreter, an interpreter built on top of Clang (www.clang.llvm.org) and LLVM (www.llvm.org) compiler infrastructure. Cling is being developed at CERN as a standalone project. It is also being integrated into the ROOT data analysis (root.cern.ch) framework, giving ROOT access to an C++11 standards compliant interpreter.\n\nROOT is an open system that can be dynamically extended by linking external libraries. This makes ROOT a premier platform on which to build data acquisition, simulation and data analysis systems. \n\nThe Geant4 toolkit (http://cern.ch/geant4) is a key component of the common physics software. It simulates the interactions of radiation with material in any setup, including the detectors of the LHC or other High Energy Physics (HEP) experiments. There are many diverse uses in other fields: assessing the effects of radiation on the electronics of satellites and designing improved medical detectors with specialized applications such as the Geant4 Application for Tomographic Emission GATE (http://www.opengatecollaboration.org). LHC experiments use Geant4 to compare the signatures of events from new physics (such as the Higgs boson and particles which are candidates for dark matter) to the signatures of events coming from known interactions which could mimic them. Geant4 is created, developed and maintained by the Geant4 collaboration (http://geant4.org) of over 100 physicists and engineers from around the world from Europe (CERN, IN2P3/France, INFN/Italy), US (Fermilab, SLAC), Japan (KEK), Canada (Triumf), Russia (Lebedev) as well as many universities. A key area of current research are extension to utilize current and emerging computer architectures. One of these efforts is the Geant Vector Prorotype project, which aims to demonstrate improved performance on the latest CPU and accelerator hardware.\n\nIgProf (https://igprof.org) is a lightweight performance profiling and analysis tool. It can be run in one of three modes: as a performance profiler, as a memory profiler, or in instrumentation mode. When used as a performance profiler it provides statistical sampling based performance profiles of the application. In the memory profiling mode it can be used to obtain information about the total number of dynamic memory allocations, profiles of the ``live'' memory allocations in the heap at any given time and information about memory leaks. The memory profiling is particularly important for C/C++ programs, where large amounts of dynamic memory allocation can affect performance and where very complex memory footprints need to be understood. In nearly all cases no code changes are needed to obtain profiles.\n\nThe CERN Virtual Machine (CernVM, http://cernvm.cern.ch) is a project to investigate how virtualization technologies can be used to improve and simplify the daily interaction of physicists with experiment software frameworks and the Grid infrastructure. CernVM maintains a Virtual Software Appliance designed to provide a complete and portable environment for developing and running LHC data analysis applications on any end user computer (laptop, desktop) as well as on the Grid and on Clouds.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/cernsft",
+    "mail": "sft-gsoc@cern.ch",
+    "name": "cernsft",
+    "page": "http://sftweb.cern.ch/gsoc14"
+  },
+  {
+    "about": "\n  Checkstyle is a development tool that help programmers to write coherent Java code that adheres to a coding standard. It automates the process of checking Java code to spare humans of this boring (but important) task. This makes Checkstyle ideal for projects that want to enforce a coding standard.\n\nCheckstyle is highly configurable and can be made to support almost any coding standard, for example \"Sun Code Conventions\".\n\nCheckstyle can check many aspects of your source code. Historically its main functionality was to check code layout issues, but since the internal architecture was changed, more and more checks for other purposes have been added. Now Checkstyle provides checks that find class design problems or detect negligence of engineering best practices. \n\nBest time for IRC: 10:00 - 19:00 EET , 11:00 - 18:00 PST.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/checkstyle",
+    "mail": "//groups.google.com/forum/#!forum/checkstyle-devel",
+    "name": "checkstyle",
+    "page": "https://github.com/checkstyle/checkstyle/wiki/Checkstyle-GSoC-2014-Project-Ideas"
+  },
+  {
+    "about": "\n  CiviCRM is web-based, open source, Constituent Relationship Management (CRM) software geared toward meeting the needs of non-profit and other civic-sector organizations which is used by ~8,000 organizations.  CiviCRM is the CRM of several Google Summer of Code mentoring organizations from previous years including CERN, Creative Commons, Drupal Association, and Electronic Frontier Foundation.  Organizations using CiviCRM manage donations, mass mailings (postal and email), event registration, and membership payments of more than 100 million contacts.  \n \n\nAs a non profit committed to the public good itself, CiviCRM understands that forging and growing strong relationships with constituents is about more than collecting and tracking constituent data - it is about sustaining relationships with supporters over time. To this end, CiviCRM has created a robust web-based, open source, highly customizable, CRM to meet organizations’ highest expectations right out-of-the box. Unlike proprietary software, each new release of this open source software reflects the very real needs of its users as enhancements are continually given back to the community.\n\n \nCiviCRM is localized in over 20 languages including: Chinese (Taiwan/China), Dutch, English (Australia/Canada/U.S/UK), French (France/Canada), German, Italian, Japanese, Russian, and Swedish.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/civicrm",
+    "mail": "//forum.civicrm.org/index.php/board,20.0.html",
+    "name": "civicrm",
+    "page": "http://wiki.civicrm.org/confluence/display/CRM/Google+Summer+of+Code+-+2014"
+  },
+  {
+    "about": "\n  Clojure is a dynamic programming language that targets the Java Virtual Machine (JVM), JavaScript, and Microsoft's .Net framework.  It is designed to be a general-purpose language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.  Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.\n\nClojure, as a GSoC mentoring organization, includes projects from all parts of the Clojure ecosystem, from IDE tooling to logic programming libraries.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/clojure",
+    "mail": "//groups.google.com/group/clojure",
+    "name": "clojure",
+    "page": "http://dev.clojure.org/display/community/Project+Ideas"
+  },
+  {
+    "about": "\n  CodeCombat is a multiplayer programming game for learning how to code. It's both a startup and a community project, completely open source under the MIT and Creative Commons licenses. It's the largest open source CoffeeScript project by lines of code, and since it's a game (with really cool tech), it's really fun to hack on. Join us in teaching the world to code! Your contribution will go on to show millions of players how cool programming can be.\n\nCodeCombat is also one of the fastest-growing open source projects ever: http://blog.codecombat.com/uid/137237\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/codecombat",
+    "mail": "//github.com/codecombat/codecombat",
+    "name": "codecombat",
+    "page": "https://github.com/codecombat/codecombat/wiki/Summer-Project-Ideas-List"
+  },
+  {
+    "about": "\n  CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with a number of language modes and addons that implement more advanced editing functionality. It is the editor used in, among other places, Chrome and Firefox’s Dev Tools, Adobe Brackets, and Light Table.\n\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/codemirror",
+    "mail": "//groups.google.com/forum/#!forum/codemirror",
+    "name": "codemirror",
+    "page": "https://github.com/marijnh/CodeMirror/wiki/GSOC-2014-Ideas"
+  },
+  {
+    "about": "\n  We are a loose interest group at the Technische Universität Wien (Vienna University of Technology) and particularly interested and involved in various scientific fields where computers are invaluable. Our focus is on developing, providing, and utilizing free open source software in the general field of scientific computing. Our group's aim is to bundle the university's open source efforts to improve synergy effects. We are especially interested in working with young developers, to ensure that future generations continue on the path of developing open source software for scientific computing.\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/cse_tuwien",
+    "mail": "//groups.google.com/d/forum/cse-tuwien-gsoc14/",
+    "name": "cse_tuwien",
+    "page": "http://www.iue.tuwien.ac.at/cse/index.php/gsoc/2014.html"
+  },
+  {
+    "about": "\n  We promote entertainment software licensed under copyleft licenses such as the GNU General Public License.\n\nOur primary project is PySoy, a 3d cloud game engine designed to promote easy game development.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/copyleftgames",
+    "mail": "pysoy-dev@pysoy.org",
+    "name": "copyleftgames",
+    "page": "http://gsoc.copyleftgames.org/"
+  },
+  {
+    "about": "\n  coreboot is a Free Software project aimed at replacing the proprietary BIOS/UEFI (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/coreboot",
+    "mail": "//www.coreboot.org/Mailinglist",
+    "name": "coreboot",
+    "page": "http://www.coreboot.org/Project_Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/cryptostick",
+    "mail": "//lists.crypto-stick.org/mailman/listinfo/dev",
+    "name": "cryptostick",
+    "page": "https://www.assembla.com/spaces/cryptostick/wiki/Ideas"
+  },
+  {
+    "about": "\n  Crystal Space is an Open Source and portable 3D Engine Framework. It is a strong and active project with many side projects (like Crystal Entity Layer and AresEd game editor). Crystal Space is very powerful, extensible and flexible. It uses OpenGL for rendering and supports advanced features like CG shaders, skeletal animation with ragdoll, support for physics using bullet or ODE, 3D sound using OpenAL, terrain engine, particle systems, and a lot more. Crystal Space is written in C++ but has high quality bindings for Python even allowing the creation of full 3D applications in this language.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/crystal",
+    "mail": "//lists.sourceforge.net/lists/listinfo/crystal-main",
+    "name": "crystal",
+    "page": "http://www.crystalspace3d.org/trac/CS/wiki/SoC%20Ideas"
+  },
+  {
+    "about": "\n  DBpedia (http://dbpedia.org) and DBpedia Spotlight (http://spotlight.dbpedia.org) are two projects that have strong ties (topic-wise as well as data-wise as well as community-wise), which is why we decided to join forces and apply together, this year.\n\nAlmost every major Web company has now announced their work on a knowledge graph, including Google’s Knowledge Graph, Yahoo!’s Web of Objects, Walmart Lab’s Social Genome, Microsoft's Satori Graph / Bing Snapshots and Facebook’s Entity Graph.\n\nDBpedia is a community-run project that has been working on a free, open-source knowledge graph since 2006. DBpedia currently exists in 97 different languages, and is interlinked with many other databases (e.g. Freebase, New York Times, CIA Factbook) and hopefully, with this GSoC to Wikidata, too. The knowledge in DBpedia is exposed through a set of technologies called Linked Data. Linked Data has been revolutionizing the way applications interact with the Web. While the Web 2.0 technologies opened up much of the “guts” of websites for third-parties to reuse and repurpose data on the Web, they still require that developers create one client per target API. With Linked Data technologies, all APIs are interconnected via standard Web protocols and languages.\n\nOne can navigate this Web of facts with standard Web browsers, automated crawlers or pose complex queries with SQL-like query languages (e.g. SPARQL). Have you thought of asking the Web about all cities with low criminality, warm weather and open jobs? That's the kind of query we are talking about.\n\nThis new Web of interlinked databases provides useful knowledge that can complement the textual Web in many ways. See, for example, how bloggers tag their posts or assign them to categories in order to organize and interconnect their blog posts. This is a very simple way to connect “unstructured” text to a structure (hierarchy of tags). For more advanced examples, see how BBC has created the World Cup 2010 website by interconnecting textual content and facts from their knowledge base. Identifiers and data provided by DBpedia were greatly involved in creating this knowledge graph. Or, more recently, did you see that IBM's Watson used DBpedia data to win the Jeopardy challenge?\n\nDBpedia Spotlight is an open-source (Apache license) text annotation tool that connects text to Linked Data by marking names of things in text (we call that Spotting) and selecting between multiple interpretations of these names (we call that Disambiguation). For example, “Washington” can be interpreted in more than 50 ways including a state, a government or a person. You can already imagine that this is not a trivial task, especially when we're talking 3.64 million “things” of 320 different “types” with over half a billion “facts” (July 2011).\n\nAfter two successful GSoC series we have some brand new and exciting ideas, we hope you will get excited too!\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/dbpediaspotlight",
+    "mail": "//lists.sourceforge.net/lists/admindb/dbpedia-gsoc",
+    "name": "dbpediaspotlight",
+    "page": "http://wiki.dbpedia.org/gsoc2014/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/debian",
+    "mail": "//lists.alioth.debian.org/cgi-bin/mailman/listinfo/soc-coordination",
+    "name": "debian",
+    "page": "https://wiki.debian.org/SummerOfCode2014/Projects"
+  },
+  {
+    "about": "\n  Django is a high-level Python Web framework originally developed at the Lawrence-Journal World. Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it. It lets you build high-performing, elegant Web applications quickly.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/django",
+    "mail": "//groups.google.com/forum/?pli=1#!forum/django-developers",
+    "name": "django",
+    "page": "https://code.djangoproject.com/wiki/SummerOfCode2014"
+  },
+  {
+    "about": "\n  The Dr. Memory community builds dynamic program analysis tools. Dr. Memory itself is a memory monitoring tool that identifies memory-related programming errors such as accesses of uninitialized memory, heap overflow and underflow, accesses to freed memory, and memory leaks. Dr. Memory operates not only on Linux but also on Windows, providing a key open-source development tool to Windows programmers. Dr. Memory is built on the DynamoRIO dynamic instrumentation tool plaform. A suite of dynamic tools on top of DynamoRIO is being developed by the Dr. Memory team.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/drmemory",
+    "mail": "//groups.google.com/forum/#!forum/dynamorio-users",
+    "name": "drmemory",
+    "page": "http://drmemory.org/projects.html"
+  },
+  {
+    "about": "\n  Drupal is an open source content management platform powering millions of websites and applications. It’s built, used, and supported by an active and diverse community of people around the world.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/drupal",
+    "mail": "//groups.drupal.org/google-summer-code",
+    "name": "drupal",
+    "page": "https://groups.drupal.org/node/407793"
+  },
+  {
+    "about": "\n  Flowgrammable.org is a coalition of researchers and industry engineers dedicated to improving adoption of software-defined networks and networking. Our first product was the Flowgrammable SDN Stack, an implementation of OpenFlow 1.0, 1.1, 1.2, 1.3, and 1.3.1 protocols with a robust and secure message layer. This stack was a finalist in the Open Networking Foundation’s open source OpenFlow Driver competition. Complementing the stack, we have also prepared a knowledge base designed to accelerate learning about OpenFlow and its protocol definitions. Unlike the OpenFlow specifications, the knowledge base uses easy to read IETF styled descriptions that don't require a reader to be familiar with C and GNU GCC. \n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/flowgrammable",
+    "mail": "//groups.google.com/forum/#!forum/flowgrammable-dev",
+    "name": "flowgrammable",
+    "page": "http://flowgrammable.org/gsoc/projects/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/fossasia",
+    "mail": "//groups.google.com/group/fossasia",
+    "name": "fossasia",
+    "page": "http://labs.fossasia.org/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/freebsd",
+    "mail": "//lists.freebsd.org/mailman/listinfo/freebsd-hackers",
+    "name": "freebsd",
+    "page": "https://wiki.freebsd.org/SummerOfCode2014Ideas"
+  },
+  {
+    "about": "\n  Freenet is free software which lets you anonymously share files, browse and publish \"freesites\" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in \"darknet\" mode, where users only connect to their friends, is very difficult to detect.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/freenet",
+    "mail": "devl@freenetproject.org",
+    "name": "freenet",
+    "page": "https://wiki.freenetproject.org/Google_Summer_of_Code/2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/freifunk",
+    "mail": "//freifunk.net/mailman/listinfo/wlanware",
+    "name": "freifunk",
+    "page": "http://wiki.freifunk.net/Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/frenetic",
+    "mail": "//lists.frenetic-lang.org/mailman/listinfo/frenetic-ocaml",
+    "name": "frenetic",
+    "page": "https://github.com/frenetic-lang/frenetic/wiki/GSoC-2014-Project-Ideas"
+  },
+  {
+    "about": "\n  Gambit is the premier software project for quantitative analysis in game theory.  The project has a 20-year history of providing open-source tools for students, researchers, and practitioners who use game theory in economics, computer science, political science, and other fields.\n\nThe director of the project is Prof Theodore Turocy, who joined the project under founder Prof Richard McKelvey in 1993, and took over primary responsibility for development and maintenance in 2000.  Prof Bernhard von Stengel at London School of Economics, an internationally recognized leader in computation in games, has been a contributor since the late 1990s.  Dr Rahul Savani was a PhD student of Prof von Stengel, and is now a member of the Economics and Computation group at Liverpool. \n\nFor the avoidance of confusion, \"game theory\" does not have anything to do with the programming and development of computer games; if you are looking for a project in that area, Gambit is not a good fit for you.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/gambit",
+    "mail": "gsoc-gambit@nash.lse.ac.uk",
+    "name": "gambit",
+    "page": "http://www.gambit-project.org/gambit14/ideas.html"
+  },
+  {
+    "about": "\n  Ganeti is a cluster virtual server management software tool built on top of existing virtualization technologies such as Xen or KVM and other Open Source software.\n\nGaneti requires pre-installed virtualization software on your servers in order to function. Once installed, the tool will take over the management part of the virtual instances (Xen DomU), e.g. disk creation management, operating system installation for these instances (in co-operation with OS-specific install scripts), and startup, shutdown, failover between physical systems. It has been designed to facilitate cluster management of virtual servers and to provide fast and simple recovery after physical failures using commodity hardware.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ganeti",
+    "mail": "ganeti@googlegroups.com",
+    "name": "ganeti",
+    "page": "http://code.google.com/p/ganeti/wiki/SummerOfCode2014Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ganglia",
+    "mail": "//lists.sourceforge.net/lists/listinfo/ganglia-general",
+    "name": "ganglia",
+    "page": "https://github.com/ganglia/monitor-core/wiki/GSoC-2014-project-ideas"
+  },
+  {
+    "about": "\n  GCC is the GNU Compiler Collection, the standard compiler on most free operating systems. It contains front ends for many languages, such as C, C++, Objective-C, Fortran, Java, Ada, and Go. GCC can generate code for a wide variety of architectures, including ARM, MIPS, PowerPC, x86, and many, many more.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/gcc",
+    "mail": "gcc@gcc.gnu.org",
+    "name": "gcc",
+    "page": "http://gcc.gnu.org/wiki/SummerOfCode"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/gentoo",
+    "mail": "gentoo-soc@lists.gentoo.org",
+    "name": "gentoo",
+    "page": "http://wiki.gentoo.org/index.php?title=Google_Summer_of_Code/2014/Ideas"
+  },
+  {
+    "about": "\n  Git is the most widely-used distributed revision control system in Open Source.  Many large and successful projects use git, including the Linux Kernel, Perl, Eclipse, Gnome, KDE, Qt, Ruby on Rails, Android, PostgreSQL, Debian, and X.org.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/git",
+    "mail": "git@vger.kernel.org",
+    "name": "git",
+    "page": "http://git.github.io/SoC-2014-Ideas.html"
+  },
+  {
+    "about": "\n  GNOME offers an easy to understand desktop and applications for your GNU/Linux or UNIX computer.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/gnome",
+    "mail": "//mail.gnome.org/mailman/listinfo/desktop-devel-list",
+    "name": "gnome",
+    "page": "https://wiki.gnome.org/Outreach/SummerOfCode/2014/Ideas"
+  },
+  {
+    "about": "\n  GNSS-SDR is an open source Global Navigation Satellite Systems software receiver, written in C++, that is able to work either from raw signal samples stored in a file, or in real-time with a radio-frequency front-end as signal source, and performs all the signal processing until the observable computation and Position-Velocity-Time solution.  Its modularity allows users to populate the framework with their own algorithms, allowing to put the focus on the signal processing implementation without worrying about how to embed that algorithm in a whole GNSS receiver. It also makes possible fair performance benchmarks using real GNSS signals, and its open source license allows free downloading, use and code inspection.\n\nThe proposed software receiver targets multi-constellation/multi-frequency architectures, pursuing the goals of efficiency, modularity, interoperability, and flexibility demanded by user domains that require non-standard features, such as earth observers or geodesists, and allowing applications such as the observation of the ionosphere, GNSS reflectometry, signal quality monitoring, space weather, and high-accuracy positioning based on carrier-phase navigation techniques. In this project, we focus on signal processing, understood as the process between the ADC and the computation of code and phase observables, including the demodulation of the navigation message. We purposely omit data processing, understood as the computation of the navigation solution from the observables and the navigation message, since there are a number of well-established libraries and applications for that (also in the open source side, such as GPSTk or RTKLIB).\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/gnss_sdr",
+    "mail": "//lists.sourceforge.net/lists/listinfo/gnss-sdr-developers",
+    "name": "gnss_sdr",
+    "page": "http://gnss-sdr.org/documentation/google-summer-code-2014-ideas-list"
+  },
+  {
+    "about": "\n  GNU Octave (http://www.gnu.org/software/octave/) is a free numerical computing environment largely compatible with Matlab. John W. Eaton began the project in 1992 and remains the primary maintainer. Development is quite active with more than 20 volunteers currently involved. Octave is also widely used in teaching, industry, and research. It has gained attention as the recommended tool for a number of distributed online courses such as Stanford's machine learning course (https://www.coursera.org/course/ml).\n\nGNU Octave has an extensive core of functions useful for computations in several fields, such as numerical analysis, optimisation, signal and image processing, and control theory. Its sister project, Octave Forge (http://octave.sourceforge.net/), helps in speeding up development, increasing user contributions, and testing code before it is included in GNU Octave's core set of functions.\n\nRecent and ongoing improvements include a GUI and just-in-time compilation capabilities, both of which started as GSoC projects.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/octave",
+    "mail": "//mailman.cae.wisc.edu/listinfo/octave-maintainers",
+    "name": "octave",
+    "page": "http://wiki.octave.org/Summer_of_Code_Project_Ideas"
+  },
+  {
+    "about": "\n  The GNU Project (http://www.gnu.org/gnu/gnu.html) was launched in 1984 to develop the GNU system.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/gnu",
+    "mail": "//lists.gnu.org/mailman/listinfo/summer-of-code/",
+    "name": "gnu",
+    "page": "http://www.gnu.org/software/soc-projects/ideas-2014.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/gnuradio",
+    "mail": "//gnuradio.org/redmine/projects/gnuradio/wiki/MailingLists",
+    "name": "gnuradio",
+    "page": "http://gnuradio.org/redmine/projects/gnuradio/wiki/GSoC"
+  },
+  {
+    "about": "\n  We are the open source arm of Google, Inc. We're also the umbrella organization for students looking for special projects with academic mentors.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ospo",
+    "mail": "//groups.google.com/forum/#!forum/google-summer-of-code-discuss",
+    "name": "ospo",
+    "page": "http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page#16._What_if_there_is_no_organization"
+  },
+  {
+    "about": "\n  Grameen Foundation helps the world's poorest – especially women – improve their lives and escape poverty by providing them with access to appropriate financial services, life-changing information and unique income-generating opportunities. The MOTECH project, an initiative of Grameen, is an open source software platform for building mobile health solutions that improve health outcomes for the world's poor through access to relevant health information. Notable deployments include the Mobile Midwife program in Ghana, which provides pregnant women and their families with vital information about how to have healthy pregnancies, and the Ananya project in Bihar, which aims to improve outcomes in maternal/child health as well as TB treatment.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/grameenfoundation",
+    "mail": "//groups.google.com/forum/#!forum/motech-dev",
+    "name": "grameenfoundation",
+    "page": "http://www.motechproject.org/contribute/gsoc.html"
+  },
+  {
+    "about": "\n  The Groovy programming language for the JVM gathers a community and ecosystem around it made of various projects, like web frameworks, testing libraries, concurrency toolkits, and more. The Groovy Community proposes to be the umbrella for all the project of the Groovy ecosystem.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/groovy_project_community",
+    "mail": "//groovy.codehaus.org/Mailing+Lists",
+    "name": "groovy_project_community",
+    "page": "http://groovy.codehaus.org/GSoc+2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/haiku",
+    "mail": "//www.freelists.org/list/haiku-development",
+    "name": "haiku",
+    "page": "http://www.haiku-os.org/community/gsoc/2014/ideas"
+  },
+  {
+    "about": "\n  Haskell.org is the community focus for supporting and promoting the open-source programming language Haskell.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/haskell",
+    "mail": "haskell-cafe@haskell.org",
+    "name": "haskell",
+    "page": "https://ghc.haskell.org/trac/summer-of-code/report/1"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/dhis2",
+    "mail": "//lists.launchpad.net/dhis2-devs/",
+    "name": "dhis2",
+    "page": "http://www.dhis2.org/gsoc2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/helenos",
+    "mail": "//lists.modry.cz/cgi-bin/listinfo/helenos-devel",
+    "name": "helenos",
+    "page": "http://www.helenos.org/gsoc2014"
+  },
+  {
+    "about": "\n  The IDRC is the lead organization of the Inclusive Design Institute (IDI), a collaboration of eight Ontario post secondary institutions, together focusing on the development of inclusive information technology. IDRC is primarily a research and development organization, part of the Department of Design at OCAD University in Toronto. Its primary mandate is to promote access to information and information technology for all. Many of its activities involve working with international and local standards groups to introduce accessibility related specifications into their developing standards. It is an organization made up of computer scientists, engineers, educators, and practitioners, who all work together to develop leading edge technologies that are inclusive to everyone. \n\nThe IDRC and IDI are not-for-profit organizations. They offer services for people with disabilities, providing guidance on issues related to learning, technology use, and access to information.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/idi_idrc",
+    "mail": "",
+    "name": "idi_idrc",
+    "page": "http://wiki.atutor.ca/display/atutorwiki/Google+Summer+of+Code+2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/inkscape",
+    "mail": "//lists.sourceforge.net/lists/listinfo/inkscape-devel",
+    "name": "inkscape",
+    "page": "http://wiki.inkscape.org/wiki/index.php/Google_Summer_Of_Code#Suggested_Ideas"
+  },
+  {
+    "about": "\n  The Institute for Artificial Intelligence (IAI) at the University of Bremen, Germany, headed by Prof. Michael Beetz, investigates methods for cognition-enabled robot control. The research is at the intersection of robotics and Artificial Intelligence (AI) and includes methods for intelligent perception, dexterous object manipulation, plan-based robot control, and knowledge representation for robots. Robots performing complex tasks in open domains, such as assisting humans in a household or collaboratively assembling products in a factory, need to have cognitive capabilities for interpreting their sensor data, understanding scenes, selecting and parameterizing their actions, recognizing and handling failures and interacting with humans.\nIn our research, we are developing solutions for these kinds of issues and implement and test them on the robots in our laboratory. A particular focus of the group is on the integration of individual methods into complete cognition-enabled robot control systems and the release of the developed software as open-source libraries.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/iai_unihb_gsoc",
+    "mail": "",
+    "name": "iai_unihb_gsoc",
+    "page": "http://ai.uni-bremen.de/teaching/gsoc2014"
+  },
+  {
+    "about": "\n  The International Neuroinformatics Coordinating Facility (INCF),  together with its 17 member countries, coordinates collaborative  informatics infrastructure for neuroscience data integration and manages  scientific programs to develop standards for data sharing, analysis,  modeling and simulation in order to catalyze insights into brain  function in health and disease.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/incf",
+    "mail": "incf-developers@incf.org",
+    "name": "incf",
+    "page": "http://incf.org/gsoc/2014/proposals"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/marsoc",
+    "mail": "erasproject@googlegroups.com",
+    "name": "marsoc",
+    "page": "http://www.erasproject.org/index.php?option=com_content&view=article&id=12&Itemid=104"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/jboss",
+    "mail": "gsoc@lists.jboss.org",
+    "name": "jboss",
+    "page": "https://community.jboss.org/wiki/GSOC14Ideas"
+  },
+  {
+    "about": "\n  The jitsi.org community develops applications and libraries for real-time audio/video communication (RTC). These include the Jitsi audio/video secure communicator and SIP/XMPP client, the libjitsi media library, the Jitsi Videobridge video router (SFU), the JitMeet WebRTC application, the ice4j.org ICE stack and the TurnServer.org server.\n\nThe projects use a variety of RTC technologies and are written primarily in Java, C/C++, HTML and JavaScript. \n\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/jitsi",
+    "mail": "gsoc@jitsi.org",
+    "name": "jitsi",
+    "page": "https://jitsi.org/gsoc"
+  },
+  {
+    "about": "\n  jMonkeyEngine is a complete 3D game development suite, programmed entirely in Java. Though previously labeled a niche, the Java core enables several unique advantages:\n- Minimal adaptations for cross-compatibility, including iOS through Avian or RoboVM.\n- Greatly accessible to the massive Java ecosystem of developers and linkable apps.\n- Agile time-to-market development.\n- Tailored distribution of the NetBeans Platform\n\nRead more about our key features, target audience and history in our introduction:\nhttp://jmonkeyengine.org/features/introduction/\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/jmonkeyengine",
+    "mail": "//hub.jmonkeyengine.org/forum/board/development/user-code-projects/",
+    "name": "jmonkeyengine",
+    "page": "http://hub.jmonkeyengine.org/soc/2014-ideas/"
+  },
+  {
+    "about": "\n  Joomla is a free open source content management system currently responsible for powering over 3.2% of all of the internet's websites! The project is based on a PHP framework called the Joomla! Framework. The Joomla project is responsible for both the Joomla! Framework and the Joomla! CMS. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/joomla",
+    "mail": "//groups.google.com/forum/#!forum/joomla-dev-cms",
+    "name": "joomla",
+    "page": "http://docs.joomla.org/GSOC_2014_Project_Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/kde",
+    "mail": "//mail.kde.org/mailman/listinfo/kde-devel",
+    "name": "kde",
+    "page": "http://community.kde.org/GSoC/2014/Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/kolibrios",
+    "mail": "//board.kolibrios.org",
+    "name": "kolibrios",
+    "page": "http://wiki.kolibrios.org/wiki/Google_Summer_of_Code_2014"
+  },
+  {
+    "about": "\n  LabLua is a research lab at PUC-Rio, affiliated with its Computer Science Department. It is dedicated to research on programming languages, with emphasis on the Lua language. LabLua was founded on May 2004 by Prof. Roberto Ierusalimschy.\n\nLua is a powerful, fast, lightweight, embeddable scripting language. Lua has been used in many industrial applications, with an emphasis on embedded systems and games. Lua is currently the leading scripting language in games (www.lua.org/about.html).\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/lablua",
+    "mail": "//www.freelists.org/list/labluapucrio",
+    "name": "lablua",
+    "page": "http://www.lua.inf.puc-rio.br/gsoc/ideas2014.html"
+  },
+  {
+    "about": "\n  The Laboratory for Cosmological Data Mining was founded in 2002 at the University of Illinois by Professor Robert J. Brunner to develop and apply computational technologies to extract cosmological information from the large astrophysical data sets being generated within our community. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/lcdm",
+    "mail": "",
+    "name": "lcdm",
+    "page": "http://lcdm.astro.illinois.edu/ugprojects.html"
+  },
+  {
+    "about": "\n  LEAP is a non-profit dedicated to giving all internet users access to secure communication by making encryption technology easy to use and widely available.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/leap",
+    "mail": "//leap.se/en/docs/get-involved/communication",
+    "name": "leap",
+    "page": "https://leap.se/en/docs/get-involved/project-ideas"
+  },
+  {
+    "about": "\n  LibreOffice is a comprehensive, professional-quality productivity suite that you can download and install for free. There is a large base of satisfied LibreOffice users worldwide, and it is available in more than 30 languages and for all major operating systems, including Microsoft Windows, Mac OS X and GNU/Linux (Debian, Ubuntu, Fedora, Mandriva, Suse, ...).\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/libreoffice",
+    "mail": "libreoffice@lists.freedesktop.org",
+    "name": "libreoffice",
+    "page": "https://wiki.documentfoundation.org/Development/Gsoc/Ideas"
+  },
+  {
+    "about": "\n  Linaro is the place where engineers from the world's leading technology companies define the future of Linux on ARM. The company is a not-for-profit engineering organization with over 200 engineers working on consolidating and optimizing open source software for the ARM architecture, including the GCC toolchain, the Linux kernel, ARM power management, graphics and multimedia interfaces. \n\nTo ensure commercial quality software, Linaro's work includes comprehensive test and validation on member hardware platforms. The full scope of Linaro's engineering work is open to all online. Open engineering has been practised from the start at Linaro with plans, specifications and progress available for inspection on the developer Wiki. Linaro is distribution neutral: it wants to provide the best software foundations to everyone, and to reduce non-differentiating and costly low level fragmentation.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/linaro",
+    "mail": "//lists.linaro.org/mailman/listinfo/linaro-dev",
+    "name": "linaro",
+    "page": "https://wiki.linaro.org/SummerOfCode2014/ProjectIdeas"
+  },
+  {
+    "about": "\n  The LTTng project aims at providing highly efficient tracing tools for Linux. Its tracers help tracking down performance issues and debugging problems involving multiple concurrent processes and threads. Tracing across multiple systems is also possible. Our project has attracted contributors with various backgrounds such as academia, embedded systems, kernel development, development tools and hobbyists.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/lttng",
+    "mail": "//lists.lttng.org/cgi-bin/mailman/listinfo/lttng-dev",
+    "name": "lttng",
+    "page": "http://bugs.lttng.org/projects/lttng/wiki/Google_Summer_of_Code_2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/lg",
+    "mail": "//groups.google.com/group/liquid-galaxy",
+    "name": "lg",
+    "page": "http://code.google.com/p/liquid-galaxy/wiki/GSoC2014Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/llvm",
+    "mail": "//lists.cs.uiuc.edu/mailman/listinfo/llvmdev",
+    "name": "llvm",
+    "page": "http://llvm.org/OpenProjects.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/lmonade",
+    "mail": "//groups.google.com/forum/?fromgroups#!forum/lmnd-devel",
+    "name": "lmonade",
+    "page": "http://wiki.lmona.de/get_involved/gsoc"
+  },
+  {
+    "about": "\n  LyX is a document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG). LyX combines the power and flexibility of TeX/LaTeX with the ease of use of a graphical interface. This results in world-class support for creation of mathematical content (via a fully integrated equation editor) and structured documents like academic articles, theses, and books. In addition, staples of scientific authoring such as reference lists and index creation come standard. But you can also use LyX to create a letter or a novel or a theater play or film script. A broad array of ready, well-designed document layouts are built in.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/lyx",
+    "mail": "//www.lyx.org/MailingLists#toc3",
+    "name": "lyx",
+    "page": "http://wiki.lyx.org/GSoC/GSoCProjectIdeasFor2014"
+  },
+  {
+    "about": "\n  MariaDB is a database server that offers drop-in replacement functionality for MySQL. MariaDB is built by some of the original authors of MySQL, with assistance from the broader community of free and open source software developers. In addition to the core functionality of MySQL, MariaDB offers a rich set of feature enhancements including alternate storage engines, server optimizations, and patches. MariaDB is feature enhanced, community developed and backward compatible with MySQL. MariaDB is also backed by the MariaDB Foundation.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/mariadb",
+    "mail": "//launchpad.net/~maria-developers",
+    "name": "mariadb",
+    "page": "https://mariadb.com/kb/en/google-summer-of-code-2014/"
+  },
+  {
+    "about": "\n  Melange is the software that powers Google Summer of Code. If improving the way that Google Summer of Code is run as your Google Summer of Code project sounds attractively recursive, please join us!\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/melange",
+    "mail": "//melange-soc-dev@googlegroups.com",
+    "name": "melange",
+    "page": "https://code.google.com/p/soc/wiki/GSoC2014Ideas"
+  },
+  {
+    "about": "\n  MusicBrainz, a community-maintained open source encyclopedia of music information, is currently the MetaBrainz Foundation's sole project. MusicBrainz was created in 2000 and has gathered a significant number of users who curate a large database of information about music.\n\nAs an encyclopedia and as a community, MusicBrainz exists solely to collect as much information about music as we can. We do not discriminate or prefer one \"type\" of music over another though, in fact we collect information about as many different types of music as possible. Whether it is published/unpublished, popular/fringe, western/non-western, human/non-human - we want it all to be entered into MusicBrainz.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/metabrainz",
+    "mail": "//lists.musicbrainz.org/mailman/listinfo/musicbrainz-devel",
+    "name": "metabrainz",
+    "page": "http://wiki.musicbrainz.org/Development/Summer_of_Code/2014"
+  },
+  {
+    "about": "\n  The Mifos Initiative is a 501(c)3 non-profit incorporated in Washington state whose mission is to speed the elimination of poverty by enabling financial service providers to more effectively and efficiently deliver responsible financial services to the world’s 2.5 billion poor and unbanked. We guide the development of the Mifos X platform, an open platform for financial inclusion with a suite of simple configurable apps hosted in the cloud. We are a community of financial service providers, technology specialists, financial services experts and open source developers working together to grow this platform.\n\nMifos X consists of 1) the platform (A RESTful back-end which talks to a to a MySQL database and is built on the Jersey/Spring/JPA stack) and 2) the community app (AngularJS app which provides support for the most commonly used financial inclusion models) as well as 3) RESTful APIs from our platform accessing all the core underlying functionality to enable the community to quickly build their own enterprise grade financial inclusion products/apps on any technology stack. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/mifos",
+    "mail": "//lists.sourceforge.net/lists/listinfo/mifos-developer",
+    "name": "mifos",
+    "page": "http://mifosforge.jira.com/wiki/display/RES/Google+Summer+of+Code+2014+Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/mixxx",
+    "mail": "//lists.sourceforge.net/lists/listinfo/mixxx-devel",
+    "name": "mixxx",
+    "page": "http://mixxx.org/wiki/doku.php/gsoc2014ideas"
+  },
+  {
+    "about": "\n  mlpack is a C++ machine learning library with emphasis on scalability, speed, and ease-of-use. Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C++ language features to provide maximum performance and maximum flexibility for expert users. mlpack outperforms competing machine learning libraries by large margins; links to papers and benchmarks can be found on the project's homepage.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/mlpack",
+    "mail": "//lists.cc.gatech.edu/mailman/listinfo/mlpack",
+    "name": "mlpack",
+    "page": "http://www.mlpack.org/trac/wiki/SummerOfCodeIdeas"
+  },
+  {
+    "about": "\n  Monkey Project produces an open source and high quality HTTP Server Stack for GNU/Linux with focus in high-end environments and embedded devices. Project goals are performance, scalability and Linux Kernel dependent. In technical terms, Monkey has been designed with a flexible architecture, it is based in a core which only supports HTTP/1.1 and an API interface to extends the server functionality through plugins. Some remarkable Monkey features are:\n\n    - ARM, x86 & x64\n    - Binary size (core) < 60KB\n    - IPv6 - C API interface\n    - Extensions/Plugins:\n           - Basic Auth\n           - SSL\n           - Security\n           - Rules per URI and subnetworks\n           - Log Writer\n           - Directory Listing\n           - Cheetah! Shell: command line interface through Unix sockets\n           - Duda: Web Services Framework\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/monkey",
+    "mail": "//lists.monkey-project.com/listinfo/monkey",
+    "name": "monkey",
+    "page": "http://monkey-project.com/gsoc2014/ideas"
+  },
+  {
+    "about": "\n  The Mono Project implements a powerful and productive developer platform based on the ISO standards for the Common Language Infrastructure and the C# language. It is compatible with the Microsoft .NET runtime, yet spans a wide variety of operating systems and architectures ranging from desktop and server systems such as Linux and MacOS to embedded systems like the iPhone, Android and games consoles. Mono allows developers to write code that can be run on multiple platforms, but also provides platform-specific libraries and toolkits to enable rich native integration with each platform.\n\nIn addition to the Mono compilers, runtime, and class libraries, the Mono organization hosts a large range of related projects, including many cross-platform and platform-specific libraries, and the MonoDevelop IDE.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/mono",
+    "mail": "//lists.ximian.com/mailman/listinfo/mono-list",
+    "name": "mono",
+    "page": "http://www.mono-project.com/StudentProjects"
+  },
+  {
+    "about": "\n  Moodle is an Open Source Course Management System (CMS), also known as a Learning Platform, Learning Management System (LMS) or a Virtual Learning Environment (VLE). It has become very popular among educators around the world as a tool for creating online dynamic web sites for their students. Moodle currently exists as roughly 70,000 (registered) sites, servicing 70 million users, supported by a diverse, enthusiastic community.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/moodle",
+    "mail": "//docs.moodle.org/dev/Applying_to_work_with_Moodle_for_GSOC",
+    "name": "moodle",
+    "page": "http://docs.moodle.org/dev/Projects_for_new_developers"
+  },
+  {
+    "about": "\n  The mission of the Mozilla Project is to preserve choice and innovation on the Internet. We are the producer and provider of the award-winning Firefox web browser, Firefox OS mobile operating system and Thunderbird email software, and are also expanding into Identity (with Mozilla Persona) and Open Web Apps. We are an advocate for open standards on the Net, and provide tools for developing high quality web content and applications. We also provide software development tools used by hundreds of free software projects worldwide.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/mozilla",
+    "mail": "//www.mozilla.org/about/forums/#dev-planning",
+    "name": "mozilla",
+    "page": "https://wiki.mozilla.org/Community:SummerOfCode14"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/musescore",
+    "mail": "//dev-list.musescore.org",
+    "name": "musescore",
+    "page": "http://musescore.org/en/developers-handbook/google-summer-code/ideas-2014"
+  },
+  {
+    "about": "\n  The National Resource for Network Biology (NRNB) is organizing the joint efforts of Cytoscape, WikiPathways and other network biology tools. This is a great opportunity to work at the intersection of biology and computing.\n\nCytoscape is a general network visualization tool that integrates network topology with data about the network into the visualization. Cytoscape has become a systems biology standard. Cytoscape consists of a plugin framework, which extends functionality in new ways. Our team consists of programmers and biologists from both academia and industry including: UC San Diego, UC San Francisco, Gladstone Institutes, U of Toronto, Agilent, Institute for Systems Biology, Memorial Sloan-Kettering Cancer Center, Institut Pasteur and others. \n\nWikiPathways is a wiki for biological pathways. The wiki approach allows biologists and domain experts to easily create and update pathways. Pathways can be directly modified from a web browser using an embedded applet where you can draw genes, proteins and their interactions like in any popular drawing tool. The pathways can be used as images for publication and in data analysis tools such as GenMAPP-CS, PathVisio and Cytoscape. WikiPathways itself is completely open source and is built on top of MediaWiki, using PathVisio as the pathway editor and BridgeDb for the backend databases. WikiPathways is developed and maintained by BiGCaT Bioinformatics at University of Maastricht and Gladstone Institutes.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/nrnb",
+    "mail": "//groups.google.com/group/wikipathways-discuss",
+    "name": "nrnb",
+    "page": "http://nrnb.org/gsoc/index.html#ideas-tab"
+  },
+  {
+    "about": "\n  Netfilter is a free software community-driven project, launched in 1998, that provides the popular iptables firewalling tool for the GNU/Linux operating system. Starting Linux kernel 3.13, it also provides nftables, a new packet classification engine written from scratch that aims to resolve the existing design limitations of iptables, while retaining backward compatibility.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/netfilter",
+    "mail": "//netfilter.org/mailinglists.html",
+    "name": "netfilter",
+    "page": "http://people.netfilter.org/pablo/nf-ideas-2014.txt"
+  },
+  {
+    "about": "\n  We are the developers of NetSurf, a fast and small open source browser written in C with its own layout engine. As well as producing NetSurf we have created various other libraries which other software can use. These libraries include libHubbub (an HTML5 parsing library), libCSS (a CSS parsing and selection engine), and libDOM (a Document Object Model implementation). All our libraries are written in C, and are written with a focus on low memory usage, high performance and robust stability. More about the memebers of the team may be found at http://www.netsurf-browser.org/about/team\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/netsurf",
+    "mail": "//vlists.pepperfish.net/cgi-bin/mailman/listinfo/netsurf-dev-netsurf-browser.org",
+    "name": "netsurf",
+    "page": "http://www.netsurf-browser.org/developers/gsoc/2014ideas"
+  },
+  {
+    "about": "\n  Nmap (\"Network Mapper\") is a free and open source utility for network discovery and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. It was designed to rapidly scan large networks, but works fine against single hosts. Nmap runs on all major computer operating systems, and official binary packages are available for Linux, Windows, and Mac OS X. In addition to the classic command-line Nmap executable, the Nmap suite includes an advanced GUI and results viewer (Zenmap), a flexible data transfer, redirection, and debugging tool (Ncat), a utility for comparing scan results (Ndiff), and a packet generation and response analysis tool (Nping).\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/nmap",
+    "mail": "//seclists.org/nmap-dev/",
+    "name": "nmap",
+    "page": "http://nmap.org/soc/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ogdf",
+    "mail": "//groups.google.com/group/ogdf",
+    "name": "ogdf",
+    "page": "http://www.ogdf.net/doku.php/gsoc2014-ideas"
+  },
+  {
+    "about": "\n  The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. It acts as an umbrella organization for the BioPerl, Biopython, BioRuby, BioJava, BioSQL and EMBOSS projects, among others, and organizes conferences and workshops to promote and support open-source bioinformatics.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/obf",
+    "mail": "//lists.open-bio.org/mailman/listinfo/gsoc",
+    "name": "obf",
+    "page": "http://www.open-bio.org/wiki/Google_Summer_of_Code_2014_Ideas"
+  },
+  {
+    "about": "\n  The Open Education Resource (OER) Foundation is an independent, not-for-profit organisation that provides leadership, international networking and support for educators and educational institutions to achieve their objectives through Open Education. Our two main projects are WikiEducator (for developing and sharing educational resources) and the OERu initiative (where universities, colleges, and polytechnics world wide offer degree credit for open online courses).\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/oerf",
+    "mail": "//groups.google.com/group/wikieducator-tech",
+    "name": "oerf",
+    "page": "http://WikiEducator.org/WikiEducator:Software_Projects"
+  },
+  {
+    "about": "\n  The Open Lighting Project is an effort to build high quality, open source software for the entertainment lighting industry.  \n\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/openlighting",
+    "mail": "//groups.google.com/forum/#!forum/open-lighting",
+    "name": "openlighting",
+    "page": "http://www.opendmx.net/index.php/OLA_SOC_Ideas_Page"
+  },
+  {
+    "about": "\n  We are a team of researchers and developers working on efficient implementations of state-of-the-art motion planning algorithms and their integration with other open source software. The library is aimed at robotics researchers, robotics students & educators, and industrial end users. In 2012 OMPL was awarded the Grand Prize in Open Source Software Word Challenge (http://ossaward.org), an open source competition organized by the South Korean Ministry of Knowledge and Economy.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ompl",
+    "mail": "//lists.sourceforge.net/lists/listinfo/ompl-users",
+    "name": "ompl",
+    "page": "http://kavrakilab.org/GSoC2014.html"
+  },
+  {
+    "about": "\n  The Open Source Computer Vision Library (OpenCV) is a comprehensive computer vision library and machine learning (over 2500 functions) written in C++ and C with additional Python and Java interfaces. It officially supports Linux, Mac OS, Windows, Android and iOS. OpenCV has specific optimizations for SSE instructions, CUDA and especially Tegra.\nOpenCV is now supported by a non-profit organization: OpenCV.org. It has an active user group of 55 thousand members and over 6M downloads. OpenCV has uses from gesture recognition, Android and iPhone vision apps on up to medical, robotics, mine safety and Google Streetview.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/opencv",
+    "mail": "opencv-gsoc-2014@googlegroups.com",
+    "name": "opencv",
+    "page": "http://code.opencv.org/projects/opencv/wiki/GSoC_2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/osrf",
+    "mail": "gsoc@osrfoundation.org",
+    "name": "osrf",
+    "page": "http://wiki.osrfoundation.org/gsoc14"
+  },
+  {
+    "about": "\n  OpenKeychain is an OpenPGP implementation for Android. It serves as a key management tool for encryption, decryption, signature generation, and signature verification. We are working together with K-9 Mail to provide email security according to the OpenPGP standard. It also allows encryption of files and provides an API for other developers to use. Other Android applications will hopefully utilize this API in the future.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/openpgp_keychain",
+    "mail": "//groups.google.com/d/forum/openpgp-keychain-dev",
+    "name": "openpgp_keychain",
+    "page": "https://github.com/open-keychain/open-keychain/wiki/Google-Summer-of-Code"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/openmrs",
+    "mail": "//go.openmrs.org/lists",
+    "name": "openmrs",
+    "page": "http://go.openmrs.org/soc2014"
+  },
+  {
+    "about": "\n  openSUSE is a community project to promote the use of Linux everywhere, focusing on the openSUSE distribution itself but also on infrastructure tools like the Build Service, that are used by other projects (Meego, for example). The openSUSE project delivers everything that developers and enthusiasts need to get started with Linux.\n\nWe are a worldwide project, with a community of people with different levels of expertise, speaking different languages and having different cultural backgrounds, and we embrace a wide variety of technology. We rely on contributions from the community and this is why we have opened the access to our development process, and we are working on extensive community development programs.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/opensuse",
+    "mail": "//en.opensuse.org/Communicate/Mailinglists#Development_Lists",
+    "name": "opensuse",
+    "page": "https://en.opensuse.org/openSUSE:GSOC_ideas"
+  },
+  {
+    "about": "\n  The Open Source Lab at Oregon State University strives to advance the adoption of open source software across the globe through education, outreach and development. By offering world-class hosting services to some of the world’s largest open source projects, developing new open source tools, and giving students real-world experience under the guidance of experienced mentors, the lab supports the future of the open source community.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/osuosl",
+    "mail": "//lists.osuosl.org/mailman/listinfo/gsoc-dev",
+    "name": "osuosl",
+    "page": "http://wiki.osuosl.org/gsoc/ideas2014.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/osgeo",
+    "mail": "//lists.osgeo.org/mailman/listinfo/discuss",
+    "name": "osgeo",
+    "page": "http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2014_Ideas"
+  },
+  {
+    "about": "\n  OSv is a novel operating system, designed for the Cloud by, among others, some of the core developers of the KVM hypervisor. It is intended to be used as a guest OS only, currently on top of KVM and Xen (VMWare in the making).\n\nIts goal is to simplify the cloud stack, by leaving most of the isolation and resource manager work to the hypervisor, cutting most of the complexity from the OS design. Each OSv instance runs only a single application, and does that in kernel mode. Therefore there is no memory paging complexity, no system call overhead, and context switches are really fast.\n\nOSv is written from scratch with a novel design in mind, and it is not a fork of Linux.\n\nUnlike more mature OSes like Linux, OSv moves really fast, and there are still lots of features completely open for implementation.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/osv",
+    "mail": "osv-dev@googlegroups.com",
+    "name": "osv",
+    "page": "https://github.com/cloudius-systems/osv/wiki/Google-Summer-of-Code-2014"
+  },
+  {
+    "about": "\n  oVirt is a virtualization management application. You can use the oVirt management interface (the oVirt engine) to manage hardware nodes, storage and network resources, and to deploy and monitor virtual machines running in your data center.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ovirt",
+    "mail": "//lists.ovirt.org/mailman/listinfo/users",
+    "name": "ovirt",
+    "page": "http://www.ovirt.org/Summer_of_Code"
+  },
+  {
+    "about": "\n  OWASP is the Open Web Application Security Project. It is an open community dedicated to enabling organizations to develop, purchase, and maintain applications that can be trusted. All of the OWASP tools, documents, forums, and chapters are free and open to anyone interested in improving application security. We advocate approaching application security as a “people, process, and technology” problem, because the most effective approaches to application security include improvements in all of these areas. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/owasp",
+    "mail": "//lists.owasp.org/pipermail/esapi-dev/)",
+    "name": "owasp",
+    "page": "https://www.owasp.org/index.php/GSoC2014_Ideas"
+  },
+  {
+    "about": "\n  phpBB (BB for Bulletin Board) is the world's most popular free and open source forum solution. The phpBB project is maintained by a 40-strong core team, with regular contributions from a global user and developer community. Originally released in 2000, the latest version of phpBB has since evolved to include support for multiple database engines (PostgreSQL, SQLite, MySQL, Oracle, Microsoft SQL Server), user groups, an extendable permissions system, hierarchical subforums, file attachments, a variety of notification options (e-mail, Jabber, ATOM feeds), and an extensive database of styles and modifications.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/phpbb",
+    "mail": "//lists.phpbb.com/mailman/listinfo/phpbb-announce",
+    "name": "phpbb",
+    "page": "https://wiki.phpbb.com/GSoC/2014/Ideas"
+  },
+  {
+    "about": "\n  We're developing phpMyAdmin, a MySQL web interface. It supports most MySQL features, is widely used by database administrators and well supported by hosting providers. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/phpmyadmin",
+    "mail": "//lists.sourceforge.net/mailman/listinfo/phpmyadmin-devel",
+    "name": "phpmyadmin",
+    "page": "http://wiki.phpmyadmin.net/pma/GSoC_2014_Ideas_List"
+  },
+  {
+    "about": "\n  Plan 9 is an operating system originally developed by the same group at Bell Labs which developed Unix. The central idea in Plan 9 is the use of a single resource sharing protocol for access to everything in the system, from regular files to device drivers to the windowing system. Plan 9 extends the concept Unix popularized of \"everything is a file\" much further, exposing a lot of power.\n\nPlan 9 is used in a wide variety of environments, from embedded systems and appliances to workstations and supercomputers. The ideas from Plan 9 also show up in a variety of other systems, including, most notably, Inferno (a sibling OS project to Plan 9 which adds a virtual machine and language), Nix (a new kernel for amd64 systems exploring ideas for many-core systems), 9vx (a port of Plan 9 to the vx32 virtual machine library), and Plan 9 from User Space (a port of many of the Plan 9 applications and libraries to POSIX environments).\n\nIn Summer of Code, we serve as an umbrella organization for projects related to these technologies. In addition to projects focusing on the operating systems themselves, we encourage applications for projects using the same technology and ideas in other environments.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/plan9",
+    "mail": "//www.plan9.bell-labs.com/wiki/plan9/mailing_lists/index.html",
+    "name": "plan9",
+    "page": "http://www.plan9.bell-labs.com/wiki/plan9/gsoc-2014-ideas/index.html"
+  },
+  {
+    "about": "\n  The Plone Foundation was formed in May 2004 to serve as a supporting organization for Plone. We provide support for the development and marketing of Plone, and are modeled after similar ventures such as the Apache Software Foundation. The Plone Foundation is the legal owner of the Plone codebase, trademarks, and domain names. Our goal is to ensure that Plone remains the premier open source content management system and that we broaden its acceptance and visibility.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/plone",
+    "mail": "//lists.sourceforge.net/lists/listinfo/plone-developers",
+    "name": "plone",
+    "page": "http://plone.org/events/summer-of-code/2014"
+  },
+  {
+    "about": "\n  The Point Cloud Library (PCL) is an open source framework for point cloud capturing, processing and visualization. A point cloud is a data structure used to represent a collection of three-dimensional points, which may contain additional fields such as color, normals etc. This is usually collected from stereo cameras, 3D laser scanners, time-of-flight cameras, or RGB-D cameras such as the Microsoft Kinect. The library contains numerous state-of-the art algorithms for filtering, feature estimation, surface reconstruction, object recognition, registration, model fitting, segmentation, people and object tracking, and even machine learning techniques. These algorithms can be used, for example, to filter outliers from noisy data, stitch 3D point clouds together, segment relevant parts of a scene, extract keypoints and compute descriptors to recognize objects in the world based on their geometric appearance, and create surfaces from point clouds and visualize them---to name a few. PCL is released under the terms of the BSD license and is open source software. It is free for commercial and research use, and is being actively used by numerous research institutions and commercial companies.\n\nCurrently PCL is being maintained by Open Perception, a non-profit public organization located in California, USA. Open Perception researchers and scientists are managing contributions from more than 600 developers from our international community. These developers are affiliated or have been sponsored by top research institutions and companies from across the world: Australian National University, Universitaet Bielefeld, Brown University, Carnegie Mellon Univeristy, EPFL, ETHZ, itseez, Honda Research Institute, Intel, NVIDIA, Ocular Robotics, Sandia National Laboratories, Toyota, Velodyne etc. The applications that PCL is used in vary from pure computer vision research, robotics, to computer games, entertainment, and medical applications. The delivery of the API allows both experienced engineers and scientists to leverage the customizability and the performance of the library, but it is also accessible to hobbyists or students to user their RGB-D cameras in a plug-and-play fashion.\n\nThe library is entirely written in C++, using GPU enabled structures for algorithms that are highly parallelizable. The design of the internal structures are such that PCL takes advantage of SSE instructions when available.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/pcl",
+    "mail": "gsoc14@pointclouds.org",
+    "name": "pcl",
+    "page": "http://www.pointclouds.org/gsoc/"
+  },
+  {
+    "about": "\n  We're the Portland State University Google Summer of Code team.  We've participated in the past eight years of this fine activity. During this time, we've successfully mentored 61 students through projects in a variety of areas ranging from the immediately practical to the forward-looking esoteric.\n\nOur specialty is projects that clearly benefit the student, the open source community, and society in general, but have no obvious fit in the standard mentoring organizations. In particular, we tend to focus on small-scale or individual risky-but-promising open source \"seed\" projects that we think will grow into something great. We also do well with students whose coding projects have an academic bent.  We often mentor projects in the technology end of the open source space, including hardware/software systems work with a solid code component. We have also partnered with other organizations, including Weave, SymPy and Washington State University, to mentor their students while they prepare for the GSoC org admissions process.\n\nOne of our strengths is the ability to track down mentors for a wide variety of different kinds of activity. Portland, Oregon is an amazing place, and we're lucky to have access to a strong, diverse open source community.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/portland_state",
+    "mail": "psu-soc-2014-info@svcs.cs.pdx.edu",
+    "name": "portland_state",
+    "page": "http://summer.cs.pdx.edu/ideas"
+  },
+  {
+    "about": "\n  The PostgreSQL Project develops the most advanced relational database in the world. With a long-time feature set incorporating advanced SQL and many unique extensions of the database engine, our database project is seeking students and other contributors who want to extend it in new and novel ways.  In addition to the core database, we invite students to apply to work on tools and drivers.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/postgresql",
+    "mail": "//archives.postgresql.org/pgsql-students/",
+    "name": "postgresql",
+    "page": "http://www.postgresql.org/developer/summerofcode"
+  },
+  {
+    "about": "\n  PRISM is a software tool for modelling and studying the behaviour of real-life systems whose behaviour exhibits unpredictability or randomness. It can be used to analyse everything from the reliability of distributed file systems, to the performance of a Bluetooth-enabled wireless device, to the safety of a car's airbag control system. PRISM has been used by researchers worldwide in fields as diverse as quantum cryptography, systems biology, computer security and robotics. Development of PRISM is based at the University of Birmingham and the University of Oxford, UK, but we have contributors worldwide. It has been under development for over 10 years and contains about 200K lines of code in total. The software is coded primarily in Java, including a graphical user interface written in Swing, but with various underlying libraries written in C/C++.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/prismmodelchecker",
+    "mail": "//groups.google.com/forum/?fromgroups#!forum/prismmodelchecker-gsoc",
+    "name": "prismmodelchecker",
+    "page": "http://www.prismmodelchecker.org/gsoc/"
+  },
+  {
+    "about": "\n  Project Tox, or Tox as we're often called is a free and open source replacement to the well used proprietary application Skype. Unlike Skype, Tox focuses on both security and privacy, utilizing a distributed hash table and onion routing mechanism to create an infrastructure without an infrastructure, all while maintaining fluid voice, video, and text chats. Unlike our competitors, Tox focuses on doing things like encryption transparently, removing the idea of a learning curve, to help design something that even Grandma could use.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/tox",
+    "mail": "//tox.im",
+    "name": "tox",
+    "page": "http://wiki.tox.im/Proposed_Google_Summer_of_Code_ideas"
+  },
+  {
+    "about": "\n  The Public Laboratory for Open Technology and Science (Public Lab) is a community -- supported by a 501(c)3 non-profit -- which develops and applies open-source tools to environmental exploration and investigation. By democratizing inexpensive and accessible Do-It-Yourself techniques, Public Lab creates a collaborative network of practitioners who actively re-imagine the human relationship with the environment.\n\nThe core Public Lab program is focused on \"civic science\" in which we research open source hardware and software tools and methods to generate knowledge and share data about community environmental health. Our goal is to increase the ability of underserved communities to identify, redress, remediate, and create awareness and accountability around environmental concerns. Public Lab achieves this by providing online and offline training, education and support, and by focusing on locally-relevant outcomes that emphasize human capacity and understanding.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/publiclaboratory",
+    "mail": "",
+    "name": "publiclaboratory",
+    "page": "http://publiclaboratory.org/wiki/gsoc-ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/python",
+    "mail": "//mail.python.org/mailman/listinfo/soc2014-general",
+    "name": "python",
+    "page": "http://wiki.python.org/moin/SummerOfCode/2014"
+  },
+  {
+    "about": "\n  The QEMU Project includes the QEMU open source machine emulator and virtualizer and also acts as an umbrella organization for libvirt and the KVM Linux kernel module.\n\nWhen used as a machine emulator, QEMU can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC). By using dynamic translation, it achieves very good performance.\n\nWhen used as a virtualizer, QEMU achieves near native performances by executing the guest code directly on the host CPU. QEMU supports virtualization when executing under the Xen hypervisor or using the KVM kernel module in Linux. When using KVM, QEMU can virtualize x86, ARM, server and embedded PowerPC, and S390 guests.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/qemu",
+    "mail": "//lists.gnu.org/mailman/listinfo/qemu-devel",
+    "name": "qemu",
+    "page": "http://qemu-project.org/Google_Summer_of_Code_2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/rproject",
+    "mail": "//groups.google.com/group/gsoc-r",
+    "name": "rproject",
+    "page": "http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2014"
+  },
+  {
+    "about": "\n  Raxa is an organization dedicated to creating a free open-source healthcare information system and an electronic medical record for mostly poor, sometimes illiterate, patients and their overworked providers who are always in need of reliable health information accessible on mobile platforms. We are focused on India and developing countries, but our system is applicable across the globe. On a day-to-day basis, some of the major improvements promised by our system include providing (1) effective access to and ownership of health information by patients, including by voice (2) patient health-seeking behavior decision support and provider clinical decision support and (3) communication between doctors, public health specialists and mobile community health workers. Our conviction is that electronic health systems are the way of the future, and that their adoption is even more vital, impactful, and scalable in developing countries.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/raxa",
+    "mail": "//groups.google.com/forum/#!forum/raxa-gsoc/join",
+    "name": "raxa",
+    "page": "https://raxaemr.atlassian.net/wiki/display/RAXAJSS/GSoC+2014+Ideas+Page"
+  },
+  {
+    "about": "\n  RouteFlow :: Virtual IP Routing Services over OpenFlow networks\n\nRouteFlow is an open source project to provide virtualized IP routing services over OpenFlow enabled hardware.\n\nA typical RouteFlow use scenario is composed by an OpenFlow controller application (RFProxy), an independent RouteFlow server (RFServer), and a virtual network environment that reproduces the connectivity of a physical infrastructure and runs IP routing engines (e.g. Quagga).\n\nThe routing engines generate the forwarding information base (FIB) into the Linux routing tables according to the configured routing protocols (e.g., OSPF, BGP). In turn, the Linux IP and ARP tables are collected by RouteFlow client (RFClient) processes and then translated into OpenFlow tuples that are finally installed in the associated OpenFlow-enabled devices in the forwarding plane.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/routeflow",
+    "mail": "//groups.google.com/forum/#!forum/routeflow-discuss",
+    "name": "routeflow",
+    "page": "https://sites.google.com/site/routeflow/updates/gsoc-ideas"
+  },
+  {
+    "about": "\n  RTEMS (Real-Time Executive for Multiprocessor Systems) is a free real-time operating system (RTOS) designed for deeply embedded systems such as automobile electronics, robotic controllers, and on-board satellite instruments. Such systems are not the familiar general-purpose PCs and Macs, but instead are pre-programmed to perform a narrow range of functions with minimal end user or operator intervention. Often these functions require strict timing requirements, or the physical device imposes size, weight, and power (SWaP) restrictions on the embedded computer. Such timing and SWaP constraints make programming embedded systems different than programming general-purpose systems, and motivate the development of RTOSs like RTEMS that ease programming in real-time/embedded systems.\nRTEMS is free open source software that supports multi-processor systems for over a dozen CPU architectures and over 150 specific system boards. In addition, RTEMS is designed to support embedded applications with the most stringent real-time requirements while being compatible with open standards such as POSIX. RTEMS includes optional functional features such as TCP/IP and file systems while still offering minimum executable sizes under 20 KB in useful configurations.\nThe RTEMS Project is the collection of individuals, companies, universities, and research institutions that collectively maintain and enhance the RTEMS software base. As a community, we are proud to be popular in the space application software and experimental physics communities. RTEMS has been to Venus, circles Mars, is aboard Curiosity, is in the asteroid belt, and is on its way to Jupiter. It is in use in many high energy physics research labs around the world. There are many RTEMS users who do not belong to the space or physics communities, but our small part in contributing to basic scientific knowledge makes us proud.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/rtems",
+    "mail": "//www.rtems.org/mailman/listinfo/rtems-devel",
+    "name": "rtems",
+    "page": "http://www.rtems.org/wiki/index.php/Open_Projects"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/rails",
+    "mail": "//groups.google.com/group/rubyonrails-talk",
+    "name": "rails",
+    "page": "https://github.com/rails/gsoc2014/wiki/Ideas"
+  },
+  {
+    "about": "\n  We believe that the time for a Ruby science and visualization package has come. Sometimes when a solution of sugar and water becomes super-saturated, from it precipitates a pure, delicious, and diabetes-inducing crystal of sweetness, induced by no more than the tap of a finger. So it is today with numeric and visualization libraries for Ruby.\n\nThe SciRuby project is oriented towards providing computational research infrastructure. Infrastructure was the single common area of need identified by scientists, researchers, and engineers in discussions at the GSoC 2013 mentor summit.\n\nSciRuby consists of a fairly large number of gems, including statsample, distribution, minimization, integration, rubyvis, plotrb, MDArray, Publisci, Ruby-Band, and NMatrix. The last of these has been awarded grants by the Ruby Association (which develops the Ruby language) as well as Brighter Planet, and has a goal of supplying Ruby with a robust, versatile linear algebra library with support for both dense and sparse matrices.\n\nStatsample and its related packages (e.g., distribution) aim to provide the Ruby language with statistical analysis packages. Statsample-GLM and Statsample-TimeSeries were both written by a GSoC2013 student, as was Plotrb, a D3-based plotting tool. Other GSoC projects include Publisci, a tool for publishing RDF datasets (a simple way of making data available to other researchers via the semantic web), and Ruby-Band, a JRuby data mining tool.\n\nWorking on SciRuby is a chance to get involved at the ground floor on a project which is viewed as critical by many Rubyists, including Ruby's creator, Matz. Further, since we are a science-related project, we expect that successful student projects could lead to publications. Better yet, you might get to see your code go into orbit, or used to save lives in biomedical research.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/sciruby",
+    "mail": "sciruby-dev@googlegroups.com",
+    "name": "sciruby",
+    "page": "https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2014-Ideas"
+  },
+  {
+    "about": "\n  Sage is an open-source mathematical software system. It combines numerous open-source software libraries under one umbrella and contains many unique and novice algorithms built on  top of those libraries. Besides a command-line and programming-library interface, its primary user interface is a dynamic self-hosted website. Besides running a local copy, public Sage servers offer an easy access to Sage via the web-browser and have shown to be very popular. \n\nPython is the main programming language inside the Sage library and also the language of choice for all interactions with the built-in objects and functions for expressing mathematical concepts and calculations. The mission of Sage is to create a viable open-source alternative to all major proprietary mathematical software systems. The goal of the Sage foundation is to support the development of the mathematical software system Sage.\n\nAlmost all areas of mathematics are represented in Sage, at various levels of sophistication. This includes symbolic calculus, 2D and 3D graphics, polynomials, graph theory, group theory, abstract algebra, combinatorics, cryptography, elliptic curves and modular forms, numerical mathematics, linear algebra and matrix calculations (over various rings), support for parallel computing, and a powerful coercion framework to “mix” elements from different sets for calculations. Sage’s features also expand into neighbouring fields like Statistics and Physics.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/sagemath",
+    "mail": "//groups.google.com/forum/#!forum/sage-gsoc",
+    "name": "sagemath",
+    "page": "https://docs.google.com/document/d/15v7lXZR1U4H2pT21d2fyPduYGb74JAFjkXJ6CWYmYfw/pub"
+  },
+  {
+    "about": "\n  The Mission of the Sahana Software Foundation is to help alleviate human suffering by giving emergency managers, disaster response professionals and communities access to the information that they need to better prepare for and respond to disasters through the development and promotion of free and open source software and open standards.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/sahana",
+    "mail": "//lists.sourceforge.net/lists/listinfo/sahana-maindev",
+    "name": "sahana",
+    "page": "https://docs.google.com/a/sahanafoundation.org/document/d/15GzwvZRI8SlYRUYzuqkPsjnLNMiBLtT6KqXgNR_GpAw/edit"
+  },
+  {
+    "about": "\n  Samba is an Open Source/Free Software suite that has, since 1992, provided file and print services to all manner of SMB/CIFS clients, including numerous Microsoft Windows operating systems. Samba is freely available under the GNU General Public License (v3).\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/samba",
+    "mail": "//lists.samba.org/mailman/listinfo/samba-technical",
+    "name": "samba",
+    "page": "http://wiki.samba.org/index.php/SoC/Ideas"
+  },
+  {
+    "about": "\n  Scaffold Hunter is a tool for the visual analysis of data sets with a focus on data from the life sciences, aiming at an intuitive access to large and complex data sets. The tool offers a variety of views, e.g. graph view, treemap, dendrogram, plot, and analysis methods, e.g. clustering and classification.\nScaffold Hunter is meant to be a reusable platform for different application areas, and offers flexible plugin and data integration mechanisms to allow adaption to new fields and data sets. Scaffold Hunter is used worldwide in research, both academic and commercial, and for teaching at the Technical University Dortmund, Germany, and the University of Sydney, Australia. The tool is implemented in Java.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/scaffoldhunter",
+    "mail": "scaffoldhunter-users@lists.sourceforge.net",
+    "name": "scaffoldhunter",
+    "page": "http://scaffoldhunter.sourceforge.net/wiki/doku.php?id=project_ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/epfl_scala",
+    "mail": "//groups.google.com/group/scala-language",
+    "name": "epfl_scala",
+    "page": "http://www.scala-lang.org/gsoc/2014.html"
+  },
+  {
+    "about": "\n  ScummVM is a collection of Virtual Machines for playing classic graphical 2D point-and-click adventure games on modern hardware. For the first year, ScummVM also accepts students willing to work on ResidualVM, its sister project for 3D games.\n\nSupported games include favorites such as Monkey Island, Simon the Sorcerer, Space Quest, and many more. To this end, the Virtual Machines (called Engines) are complete reimplementations in C++ of the engines used in the original games. The development team works either by reverse engineering game executables (usually with the permission of creators of the game), or by using the original source code of the games provided by the creators. The number of engines is constantly growing thanks to a very agile and diversified development team and ScummVM is able to run more than 200 games. The VM approach followed by ScummVM and ResidualVM results in efficient code, which has been ported to numerous Operating Systems. Besides both running on all mainstream desktop environments, namely Windows, Mac OS X and most Unix variants (Linux, *BSD, Solaris), ScummVM also runs on popular game consoles (Wii, Nintendo DS, PlayStation 2, PlayStation Portable, Dingoo and more), smart phones and PDAs (Android, WinCE, iPhone or Symbian based), and even on many not-so-mainstream systems (like BeOS, AmigaOS or OS/2). ScummVM has a highly productive team of about 51 currently active developers (out of an all-time pool of over 110), working together on a codebase of 2,100,000 lines of code. In addition ScummVM has many non-developer contributors, and a huge and highly active community. ScummVM is among the top ranking projects hosted on sourceforge.net with over 100,000 monthly downloads and ~10 million project web hits per month.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/scummvm",
+    "mail": "//lists.sourceforge.net/lists/listinfo/scummvm-devel",
+    "name": "scummvm",
+    "page": "http://wiki.scummvm.org/index.php/GSoC_Ideas"
+  },
+  {
+    "about": "\n  We are the team that develops the Shogun machine learning toolbox. Shogun is designed for unified and efficient machine learning (ML) for a broad range of\ndata types and learning settings, such as classification, regression, or exploratory data analysis. It can be used from various programming languages with almost identical syntax. Shogun got initiated with its members being leading members of the machine learning community. Shogun has diversified with time and is now used by researchers and data practitioners to tackle various problems related to all areas of science.\n\nWe have ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/shogun",
+    "mail": "//news.gmane.org/gmane.comp.ai.machine-learning.shogun",
+    "name": "shogun",
+    "page": "http://shogun-toolbox.org/page/Events/gsoc2014_ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/sigmah",
+    "mail": "//groups.google.com/group/sigmah-dev",
+    "name": "sigmah",
+    "page": "http://code.google.com/p/sigma-h/wiki/Ideas4GSoC2014"
+  },
+  {
+    "about": "\n  Software Freedom Conservancy is a non-profit home for open source and free software projects.  Conservancy is, this year, working on a Free Software project of its own called the NPO Accounting Project.  We seek to participate in the summer of code to have one student mentored to contribute to the NPO Accounting Project.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/conservancy",
+    "mail": "//lists.sfconservancy.org/mailman/listinfo/npo-accounting",
+    "name": "conservancy",
+    "page": "http://npoacct.sfconservancy.org/GSoC2014Ideas/"
+  },
+  {
+    "about": "\n  Steel Bank Common Lisp (SBCL) is a high performance Common Lisp compiler. It is open source / free software, with a permissive license. In addition to the compiler and runtime system for ANSI Common Lisp, it provides an interactive environment including a debugger, a statistical profiler, a code coverage tool, and many other extensions.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/sbcl",
+    "mail": "sbcl-devel@lists.sourceforge.net",
+    "name": "sbcl",
+    "page": "http://www.sbcl.org/gsoc2014/ideas/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/strace",
+    "mail": "//lists.sourceforge.net/lists/listinfo/strace-devel",
+    "name": "strace",
+    "page": "http://sourceforge.net/p/strace/wiki/GoogleSummerOfCode2014/"
+  },
+  {
+    "about": "\n  Stratosphere is an Apache-licensed platform for massively parallel data analysis. It started in 2009 as a research project between three Universities in the Berlin area of Germany. Stratosphere’s development is community-driven, with all decision making and planning being fully transparent using mailing lists and GitHub. \nStratosphere allows to analyze huge amounts of data using a set of operators such as map, reduce, join, cross, cogroup or iterate. These operators can be assembled into a dataflow graph that represents a data analysis job.\nStratosphere currently has a programming API for Java and Scala.\nThe support for iterative algorithms allows users to perform advanced graph analytics and machine learning tasks in distributed cluster systems.\n\nStratosphere is an alternative to other massively parallel data processing engines such as Apache Hadoop or Apache Spark. Stratosphere offers advanced database technology such as a build-in optimizer or support for iterative algorithms within the big data space.\nWhile being an alternative to Hadoop, Stratosphere still offers full compatibility to the Hadoop ecosystem by allowing to interact with the Hadoop Distributed File System, support for Hadoop's InputFormats and various other systems in the field.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/stratosphere",
+    "mail": "//groups.google.com/forum/#!forum/stratosphere-dev",
+    "name": "stratosphere",
+    "page": "https://github.com/stratosphere/stratosphere/wiki/Google-Summer-of-Code-2014"
+  },
+  {
+    "about": "\n  [IMAGE ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/subsurface",
+    "mail": "//lists.hohndel.org/cgi-bin/mailman/listinfo/subsurface",
+    "name": "subsurface",
+    "page": "http://trac.hohndel.org/wiki/Subsurface_GSOC_2014_Idea_List"
+  },
+  {
+    "about": "\n  Sugar Labs is a 100% volunteer-driven project, a member project of the nonprofit Software Freedom Conservancy. Sugar Labs coordinates volunteers—international community of teachers, software developers, artists and writers, parents and children—who are passionate about providing educational opportunities to children through the Sugar Learning Platform. Globally, there are teachers that discuss how they use Sugar in their classrooms; students who blog about their Sugar learning experiences; and everyone, not just software engineers, contribute to the code base. (Children as young as 10-years old have written Sugar activities and we regularly receive patches from 14-year-olds.) At Sugar Labs, we promote investing locally in learning that works for every child.\n\nWhile there are many great ICT-oriented learning projects, what distinguishes Sugar is its platform features. Like a sponge, Sugar pulls in projects such as Gcompris, Etoys, Scratch, and Open Office for Children, as well as hundreds of learning activities specifically written for Sugar, making those great tools available to more children. But the Sugar platform further enhances the learning experience through its mechanisms of collaboration and reflection. With Sugar, the computer represents more than an opportunity for interaction with isolated applications; it is the manifestation of a change in the culture of learning.\n\nSugar will engage even the youngest learner in the use of computation as a powerful “thing to think with.” They will quickly become proficient in using the computer as a tool to engage in authentic problem-solving. Sugar users develop skills that help them in all aspects of life.\nThe Sugar software is a learning platform designed for children, originally designed for the XO laptop of the OLPC project, but completely independent of OLPC since Q1 2008. Sugar installs on most GNU/Linux distros, hence it can run on most netbooks and PCs and on virtual machines in Windows and iOS. Sugar is used by more than three-million students in Peru, Uruguay, Rwanda, Nepal, the United States, and more than 40 other countries. Sugar is Free Software (GPL3) and is available in more than 25 languages. (We have projects in more than 150 languages and full support in many indigenous languages, such as Quechua and Aymara in Peru. Sugar Labs provides i18n support for many of our upstream projects, including Abiword and Etoys.)\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/sugarlabs",
+    "mail": "sugar-devel@lists.sugarlabs.org",
+    "name": "sugarlabs",
+    "page": "http://wiki.sugarlabs.org/go/Summer_of_Code/2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/supertuxkart",
+    "mail": "supertuxkart-devel@lists.sourceforge.net",
+    "name": "supertuxkart",
+    "page": "http://supertuxkart.sourceforge.net/GSoC_topics_2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/smc",
+    "mail": "//lists.smc.org.in/listinfo.cgi/student-projects-smc.org.in",
+    "name": "smc",
+    "page": "http://wiki.smc.org.in/SoC/2014/Project_ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/sympy",
+    "mail": "//groups.google.com/forum/#!forum/sympy",
+    "name": "sympy",
+    "page": "https://github.com/sympy/sympy/wiki/gsoc-2014-ideas"
+  },
+  {
+    "about": "\n  SyncDiff(erent) is a state-full file synchronizer, similar in some concepts to rsync, csync2, unison, and steals some ideas from git and other VCS.  The intention is to make a more unified, easier to handle, file synchronization layer that can be used both in file distribution environments, eventually consistent file stores and to handle file synchronization across the \"cloud\".\n\nThis comes out of a general need for a state-full rsync like system that was first investigated by chasmd.  Unfortunately chasmd never got to a release point and the code was lost for a variety of reasons.  SyncDiff(erent) takes some of the basic ideas and is aiming to be a production capable file synchronization agent.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/syncdiff",
+    "mail": "//syncdiff.org/mailman/listinfo/syncdiff",
+    "name": "syncdiff",
+    "page": "http://syncdiff.org/p/syncdiff/page/GSoC-2014-Ideas/"
+  },
+  {
+    "about": "\n  Systers is a forum for all women involved in the technical aspects of computing. The list has over 4,000 members from at least 54 countries around the world. We welcome the participation of women technologists of all ages and at any stage of their studies or careers. Systers is the world’s largest community of women in technical roles in computing. It was founded by Anita Borg in 1987 together with 12 other women as a small electronic mailing list for women in “systems”. \n\nSysters continues to serve this purpose by providing women a private space to seek advice from their peers, and discuss the challenges they share as women technologists. Many Systers members credit the list for helping them make good career decisions, and steering them through difficult professional situations.\n\nSysters is curated by Her Systers' Keeper, Rose Robinson.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/systers",
+    "mail": "//systers.org/mailman/listinfo/systers",
+    "name": "systers",
+    "page": "https://github.com/systers/ossprojects/wiki/GSoC-2014"
+  },
+  {
+    "about": "\n  TEAMMATES is an online feedback management system for teachers/students. It is a free SaaS application that runs on the Google App Engine. It is currently used by more than 50 universities. It is a not-for-profit project funded by education grants.\nThe long-term vision of TEAMMATES is to become the biggest student-built project in the world. So far,  it has received contributions of 70+ student developers and have done more than 100 releases over a four year period. \nBecause one of main aims of TEAMMATES (the project)  is to ‘train students’ in contributing to non-trivial OSS productions system, it is well-designed, well-documented, and well-tested (we have a very high level of automated testing).The product is using cutting edge emerging technologies (e.g., Google App Engine) learning of which will benefit students. Because TEAMMATES (the product) is a software 'for students, by students', students can relate to the problem domain better and  the scale of the system is big enough (~100 KLoc) without being overwhelmingly huge for student contributors.\n\nProject led by faculty member Damith C. Rajapakse (http://www.comp.nus.edu.sg/~damithch)  and his team.\nProduct website: http://www.comp.nus.edu.sg/~teams/ \nProject website: https://teammatespes.googlecode.com\nInstructions for GSoC applicants: http://tinyurl.com/teammates-gsoc\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/teammates",
+    "mail": "//groups.google.com/group/teammates-contributors",
+    "name": "teammates",
+    "page": "http://tinyurl.com/teammates-ideas"
+  },
+  {
+    "about": "\n  CGAL is a software library that offers a number of reliable geometric data structures and algorithms. CGAL components operate in 2D and 3D, and sometime in arbitrary dimensions. Examples of components include convex hulls, convex decomposition, Delaunay triangulations, Voronoi diagrams, polygonal surface mesh data-structures, mesh generation, Boolean operations, envelope computations, intersection detection, surface reconstruction, and subdivision surfaces.\n\nCGAL is used in a variety of application domains such as CAD/CAM (computer aided design and modeling), GIS (geographic information systems), geophysics, image processing, molecular biology, robotics, motion planning, and graphics.\n\nCGAL is written in C++ and rigorously adheres to the generic-programming paradigm.\n\nCGAL became an Open Source project in 2003. Most of CGAL is under the GPL v3+ license, and some core parts are under the LGPL v3+. The semi-annual releases have currently about 10,000 downloads (see https://gforge.inria.fr/frs/?group_id=52). CGAL is commercially supported by the spin-off company GeometryFactory.\n\nA relatively well maintained list of projects using CGAL is available here: http://www.cgal.org/projects.html . \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/cgal",
+    "mail": "gsoc-cgal@inria.fr",
+    "name": "cgal",
+    "page": "http://www.cgal.org/project_ideas.html"
+  },
+  {
+    "about": "\n  The Concord Consortium is a nonprofit R&D organization in Concord, MA, dedicated to transforming education through technology. We have pioneered learning innovations for science, math and engineering since 1994 and have successfully completed STEM education projects based on probes and sensors (also known as probeware), computer-based modeling and simulation, online teacher professional development, the nation’s first online high school (the Virtual High School), sustainable development education and the use of video case studies in teacher professional development.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/concord",
+    "mail": "//groups.google.com/group/cc-developers",
+    "name": "concord",
+    "page": "http://concord.org/GSoC"
+  },
+  {
+    "about": "\n  Eclipse is an open source community, whose projects are focused on building an open development platform comprised of extensible frameworks, tools and runtimes for building, deploying and managing software across the lifecycle. The Eclipse Foundation is a not-for-profit, member supported corporation that hosts the Eclipse projects and helps cultivate both an open source community and an ecosystem of complementary products and services.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/eclipse",
+    "mail": "//dev.eclipse.org/mailman/listinfo/soc-dev",
+    "name": "eclipse",
+    "page": "https://wiki.eclipse.org/Google_Summer_of_Code_2014_Ideas"
+  },
+  {
+    "about": "\n  The Fedora Project is a worldwide community of developers who build and release the Fedora Linux distribution, as well as other deliverables that are part of the larger Fedora ecosystem and infrastructure of participation. The Fedora Project is designed to showcase the best software the open source world has to offer, and to lead the advancement of the world of open source development. The Fedora Project refuses to yield on important issues such as software patents and proprietary software, allowing none of this into the distribution and the project as a whole. We ship a completely open source and redistributable software platform, and invest sizeable amounts of time into the development of open standards and open source. For example, the Fedora Project is one of the leaders in the development of the Nouveau drivers for nVidia graphics cards. Our developers invest much of their time directly in the upstream projects Fedora works with, and our community strives to maintain good standing with all of its upstreams. Above all else, the Fedora Project has four Foudations which drive the project and the distribution: Features, Friends, Freedom and First. These are outlined on our website in more detail.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/fedora",
+    "mail": "//admin.fedoraproject.org/mailman/listinfo/devel",
+    "name": "fedora",
+    "page": "http://fedoraproject.org/wiki/Summer_coding_ideas_for_2014"
+  },
+  {
+    "about": "\n  Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library. The library, largely written in Julia itself, also integrates mature, best-of-breed C and Fortran libraries for linear algebra, random number generation, signal processing, and string processing. There will be opportunities for work on both the core language and any of the numerous packages in the Julia ecosystem. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/julialang",
+    "mail": "//groups.google.com/forum/#!forum/julia-dev",
+    "name": "julialang",
+    "page": "http://julialang.org/gsoc/2014/"
+  },
+  {
+    "about": "\n  The Linux Foundation is a nonprofit consortium dedicated to fostering the growth of Linux. Founded in 2007 as a merger of the former Free Standards Group (FSG) and the former Open Source Developer Lab (OSDL), the LF sponsors the work of Linux creator Linus Torvalds and is supported by leading Linux and open source companies and developers from around the world. The Linux Foundation promotes, protects and standardizes Linux by providing unified resources and services needed for open source to successfully compete with closed platforms. More: https://www.linux-foundation.org/en/About All software produced by us is free software published under OSI-approved licenses. See project ideas page for the license used by each project.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/lf",
+    "mail": "//www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2014",
+    "name": "lf",
+    "page": "https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2014"
+  },
+  {
+    "about": "\n  MacPorts is a ports collection and packaging system for OS X. Created in 2002 as DarwinPorts, we have an ever-growing collection of ports (currently over 18000), many of which accept multiple configuration variants. MacPorts itself works on both PowerPC and Intel Macs, running OS X 10.4 through 10.9, and many ports support a similar breadth of systems. As one of the primary means of building and installing open source software on OS X, MacPorts is an important interface between OS X and the rest of the open source world.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/macports",
+    "mail": "//lists.macosforge.org/mailman/listinfo/macports-dev",
+    "name": "macports",
+    "page": "https://trac.macports.org/wiki/SummerOfCode"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/ns3",
+    "mail": "//mailman.isi.edu/mailman/listinfo/ns-developers",
+    "name": "ns3",
+    "page": "https://www.nsnam.org/wiki/index.php/GSOC2014Projects"
+  },
+  {
+    "about": "\n  Formally, the corporation's objects are to support and further the development, advancement, and maintenance of free software based on the OpenBSD operating system, including the operating system itself and related free software projects.\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/openbsdfoundation",
+    "mail": "tech@openbsd.org",
+    "name": "openbsdfoundation",
+    "page": "http://www.openbsdfoundation.org/gsoc2014.html"
+  },
+  {
+    "about": "\n  We're creating an open source framework for Artificial General Intelligence, intended to one day express general intelligence at the human level and beyond.\nThat is, we're undertaking a serious effort to build a thinking machine.\nWe've developed a detailed plan, possess the ability to execute it, and we're proceeding with the hard work step-by-step.\nAs compared to most academic and industry AI research, the OpenCog project has a very different focus. We are not centrally concerned with building more accurate classification algorithms, or more efficient computer vision systems, or better language processing or information retrieval algorithms, etc. Neither are we centrally concerned with building a program that performs only one specific task like play chess, diagnose diseases, answer trivia questions, or drive a car. We are concerned with generic intelligence and the inter-related cognitive processes it entails.\nOpenCog is a moderate-sized and active project with:\na team in Hong Kong working on intelligent game characters\na new OpenCog lab in Addis Ababa, Ethiopia, with a staff of 5\ndevelopers in the Americas, Europe, Asia, Africa, the Middle East, and Australasia, working for various employers and applying OpenCog on commercial and government projects\nmany fantastic volunteer developers\n\nOur vision is a huge one and we are eagerly recruiting new developers!\n\nThe OpenCog Project consists of a number of software projects. The core functionality is in a mostly C++ codebase hosted on Github.\n\nThe OpenCog Foundation is a nonprofit organization, incorporated in the US state of Delaware.\n\nOCF is a democratically run organization, with a Board elected by its membership, where the latter is defined as individuals who have substantially contributed to the OpenCog project, and have asked to become formal members and been approved by the Board.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/opencog",
+    "mail": "//groups.google.com/group/opencog",
+    "name": "opencog",
+    "page": "http://wiki.opencog.org/w/Ideas"
+  },
+  {
+    "about": "\n  The OpenStack Foundation promotes the development, distribution and adoption of the OpenStack cloud operating system. As the independent home for OpenStack, the Foundation has already attracted more than 9,500 individual members from 100 countries and 850 different organizations, secured more than $10 million in funding and is ready to fulfill the OpenStack mission of becoming the ubiquitous cloud computing platform.\n\nThe goal of the OpenStack Foundation is to serve developers, users, and the entire ecosystem by providing a set of shared resources to grow the footprint of public and private OpenStack clouds, enable technology vendors targeting the platform and assist developers in producing the best cloud software in the industry.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/openstack",
+    "mail": "openstack-dev@lists.openstack.org",
+    "name": "openstack",
+    "page": "https://wiki.openstack.org/wiki/GSoC2014"
+  },
+  {
+    "about": "\n  The Perl Foundation is dedicated to the advancement of the Perl programming language through open discussion, collaboration, design, and code. It coordinates the efforts of numerous grass-roots Perl-based groups, including: International Yet Another Perl Conferences; Carries the legal responsibility for Perl 5 and Perl 6; perl.org; Perl Mongers; PerlMonks.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/tpf",
+    "mail": "//groups.google.com/group/tpf-gsoc",
+    "name": "tpf",
+    "page": "http://wiki.enlightenedperl.org/gsoc2014/ideas"
+  },
+  {
+    "about": "\n  The Privly Foundation empowers the Privly community to participate in and contribute to privacy software projects by building a community of mutual support around Privly development. You can find more details on Privly at the consumer site (https://priv.ly/) and our wiki https://github.com/privly/privly-organization/wiki\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/privly",
+    "mail": "//groups.google.com/group/privly",
+    "name": "privly",
+    "page": "https://github.com/privly/privly-organization/wiki/Ideas"
+  },
+  {
+    "about": "\n  Processing is a programming language, development environment, and online community. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. Initially created to serve as a software sketchbook and to teach computer programming fundamentals within a visual context, Processing evolved into a development tool for professionals. Today, there are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning, prototyping, and production.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/processing",
+    "mail": "",
+    "name": "processing",
+    "page": "https://github.com/processing/processing/wiki/Project-List"
+  },
+  {
+    "about": "\n  STE||AR (pronounced as stellar) stands for “Systems Technologies, Emergent Parallelism, and Algorithms Research”. We are a group of faculty, researchers and students working at the Center of Computation and Technology (CCT - www.cct.lsu.edu) at Louisiana State University (LSU - www.lsu.edu). Everything we do is centered around HPX - A general purpose C++ runtime system for parallel and distributed applications of any scale. We use HPX for a broad range of scientific applications, helping scientists and developers to write code which scales better and shows better performance if compared to more conventional programming models such as MPI or OpenMP. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/stellar",
+    "mail": "hpx-users@stellar.cct.lsu.edu",
+    "name": "stellar",
+    "page": "https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2014-Project-Ideas"
+  },
+  {
+    "about": "\n  syslog-ng is a popular open-source logging solution. The syslog-ng project is the umbrella over syslog-ng and related projects, like the syslog-ng incubator, the patterndb collection and libmongo-client.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/syslog_ng",
+    "mail": "//lists.balabit.hu/mailman/listinfo/syslog-ng",
+    "name": "syslog_ng",
+    "page": "https://github.com/balabit/syslog-ng/wiki/GSoC2014-idea-&-project-list"
+  },
+  {
+    "about": "\n  The Tor Project is a free-software non-profit project to build an anonymity toolkit used by individuals, companies, governments, and law enforcement around the world. The Tor network has grown since its start in 2002 to several hundred thousand active users pushing over 17 Gbps of traffic. The Tor Project has a staff of 28 developers, researchers, and advocates, plus several dozen volunteers who help out on a daily basis.\n\nThe Electronic Frontier Foundation (EFF), founded in 1990, works in the public interest to protect fundamental civil liberties in the digital age. The Internet and other communication technologies can herald the most liberating era of human history---or the most regulated and controlled. The EFF works to defend our basic rights to free speech, privacy and free and open communications, and advocates for sane policies on digital copyright, software patents and electronic voting. EFF is a membership supported organization with 29 full-time staff.\n\nThis proposal is a combined submission from EFF and Tor. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/tor",
+    "mail": "//lists.torproject.org/cgi-bin/mailman/listinfo/tor-dev/",
+    "name": "tor",
+    "page": "https://www.torproject.org/about/gsoc.html.en"
+  },
+  {
+    "about": "\n  Wine (originally an acronym for \"Wine Is Not an Emulator\") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, Mac OSX, & BSD.\n\nInstead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/wine",
+    "mail": "//www.winehq.org/mailman/listinfo/wine-devel",
+    "name": "wine",
+    "page": "http://wiki.winehq.org/SummerOfCode"
+  },
+  {
+    "about": "\n  The Wiselib (http://www.wiselib.org) is an algorithms and protocol library for networked embedded devices, such as microcontroller-based sensor nodes, Internet-of-Things-enabled devices and Android- or iOS-based mobile phones. It contains standard protocols (e.g., 6LowPAN, CoAP), algorithms (e.g., localization, routing, time synchronization, clustering), and data structures (e.g., an external-memory lists and sets, an RDF database), that can be compiled for several different platforms. The supported platforms include TinyOS and Contiki, the two major operating systems for sensor-class devices, the popular open source Arduino platform, as well as several device-specific firmwares (iSense, Feuerwhere, TriSOS, etc). The two major handheld OS (Android and iOS) are supported as well.\nThe Wiselib is written in C++. It uses templates and template specialization in the same way as Boost, CGAL, and the STL. This makes it possible to write generic and platform-independent code that is very efficiently compiled for the various platforms.\nThe motivating issue behind the Wiselib is the severe fragmentation of Internet of Things (IoT) devices. For sensor nodes, TinyOS dominates the US, Contiki Europe, hindering exchange of ideas and code. Also Arduino is the power behind most DIY and crowdfunded projects and a really easy to use electronics prototyping platform. Many IoT scenarios (say, Smart Cities where people can use their handheld to interact with local city services) require connectivity between mobile phones, infrastructure devices, and battery-powered sensors and actors. This requires either programming against a truly platform-independent API (such as the Wiselib), or porting and maintaining code for 5-10 completely different platforms.\nWe provide easy-to-use interfaces to the OS, which simplifies the development process and decreases the need for dealing with low-level functionality of specific hardware platforms. Algorithms can even be run in a simulation environment first (for debugging purposes, for example), and then compiled for real hardware platforms without changing a single line of algorithm code.\nAlgorithms can be directly integrated in applications. For example, when developing an application for iSense that collects sensor data values, a Wiselib routing algorithm can be used to route the data to a sink.\nThe Wiselib started as an academic project, it was developed and is used in several research projects spanning Europe, and some German national projects, see http://www.wisebed.eu, http://spitfire-project.eu, http://fronts.cti.gr, and http://www.rwglab.de for some research projects using the Wiselib. \nDevelopers come from over 15 universities, often working towards a thesis. A company selling IoT devices (Coalesenses GmbH) is already supporting the Wiselib; they have released some code to our Open Source code base, additionally they have commercial applications based on the Wiselib.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/wiselib",
+    "mail": "wiselib@wiselib.org",
+    "name": "wiselib",
+    "page": "http://www.wiselib.org/gsoc/project_ideas.html"
+  },
+  {
+    "about": "\n  ThinkUp is a simple new app that gives you insights into the way you use social networks like Twitter and Facebook. In contrast to regular analytics or statistics apps, it uses plain, human language to explain how you’re doing and to help you achieve your goals, whatever they are.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/thinkup",
+    "mail": "//groups.google.com/a/expertlabs.org/group/thinkup-dev",
+    "name": "thinkup",
+    "page": "https://github.com/ginatrapani/ThinkUp/wiki/Google-Summer-of-Code-2014-Ideas-Page"
+  },
+  {
+    "about": "\n  TimVideos.us is a group of exciting projects which together create a system for doing both recording and live event streaming for conferences, meetings, user groups and other presentations.\n\nWe hope that, through our projects, the costs and expertise currently required to produce live streaming events will be reduced to near zero. We wish to develop a system where everyone has the ability to record presentations and host live remote participants across the globe.\n\nWhether you want to work hands-on with hardware or code in a variety of languages, we have a project for you. \n\nJoin the team!\n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/timvideos",
+    "mail": "//groups.google.com/forum/#!forum/timvideos",
+    "name": "timvideos",
+    "page": "http://code.timvideos.us/Ideas.html"
+  },
+  {
+    "about": "\n  The Twitter Open Source office is responsible for maintaining a healthy relationship with the open source development community. We open source a ton of projects and participate in a variety of communities: http://twitter.github.io/\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/twitter",
+    "mail": "//groups.google.com/forum/#!forum/twitter-gsoc",
+    "name": "twitter",
+    "page": "https://github.com/twitter/twitter.github.com/wiki/Google-Summer-of-Code-2014"
+  },
+  {
+    "about": "\n  “Jointly Innovate Excellent Free Software Enabling People to Communicate.” – The TYPO3 Project's mission.\n\nThe TYPO3 project has grown from one product to a family of products in 2012. TYPO3 CMS is an enterprise-class Open Source Content Management System built with PHP and has a 10 year development history. Besides the current TYPO3 CMS the TYPO3 community has, in the past years, developed a PHP application framework called Flow. TYPO3 Flow supports features like Dependency Injection and Aspect Oriented Programming. TYPO3 Neos, a new CMS based on Flow, with WYSIWYG on page editing is currently one of the main family members of the TYPO3 family and was released in a first stable version end of last year.\n\nBecause of its Danish origins the majority of the TYPO3 developer community is located in Europe and especially in Germany, but TYPO3 is enjoying a growing popularity in Asia, Africa, and the Americas recently.\n\nThere are about 500,000 installations of TYPO3 CMS world wide including high profile websites of large companies such as Lufthansa, Volkswagen, T-Online, DHL, 3M, General Electric, and Stanford University and many government sites to name a few. TYPO3 CMS has been downloaded over 7 million times.\n\nHighlights of TYPO3 CMS’s feature set are its complete separation of content and design, a fine-grained permission system, a WYSIWYG rich text editor, an integrated versioning and workflow system, frontend / in-site editing, integrated search engine, dynamic navigation menu generation, dynamic graphics generation, standards compliant output and single source publishing, multi-language support, advanced caching system with reverse proxy support, and user registration. In addition an open API enables very versatile options for developing extensions and additional functionality.\n\nThe main goal of the TYPO3 Association is to support core development of the TYPO3 Open Source Content Management System on a steady basis and to improve the transparency and efficiency of various aspects of the TYPO3 project. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/typo3",
+    "mail": "typo3-gsoc@lists.typo3.org",
+    "name": "typo3",
+    "page": "http://wiki.typo3.org/Gsoc2014/Ideas"
+  },
+  {
+    "about": "\n  The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing and visualization. VTK consists of a C++ class library and several interpreted interface layers including Tcl/Tk, Java, and Python. VTK supports a wide variety of visualization algorithms including: scalar, vector, tensor, texture, and volumetric methods; and advanced modeling techniques such as: implicit modeling, polygon reduction, mesh smoothing, cutting, contouring, and Delaunay triangulation. VTK has an extensive information visualization framework, has a suite of 3D interaction widgets, supports parallel processing, and integrates with various databases on GUI toolkits such as Qt and Tk. VTK is cross-platform and runs on Linux, Windows, Mac and Unix platforms.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/vtk",
+    "mail": "//www.vtk.org/mailman/listinfo/vtk-developers",
+    "name": "vtk",
+    "page": "http://www.vtk.org/Wiki/VTK/GSoC_2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/wikimedia",
+    "mail": "//lists.wikimedia.org/mailman/listinfo/wikitech-l",
+    "name": "wikimedia",
+    "page": "https://www.mediawiki.org/wiki/Google_Summer_of_Code_2014"
+  },
+  {
+    "about": "\n  The WordPress open source project powers more than 20% of the web. Used for everything from personal blogs to enterprise sites and complex web applications, the software focuses on usability, extensibility, and backwards compatibility. Written in PHP with a heavy dose of jQuery, the WordPress project also encompasses a world of plugins and themes that turn the platform into just about anything you can imagine.\n\nWe look for contributors with good communication skills who thrive on collaboration and are interested in being part of the project for years to come. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/wordpress",
+    "mail": "//lists.automattic.com/mailman/listinfo/wp-hackers/",
+    "name": "wordpress",
+    "page": "http://codex.wordpress.org/GSoC2014"
+  },
+  {
+    "about": "\n  The WorldForge project is about building tools to allow the construction of virtual worlds. The original community came together over a decade ago, out of a desire to create a game that was better and freer than Ultima Online.\n\nBut as the aims of the project evolved and became more ambitious, the overall goal changed. Instead of one game, we instead decided build a flexible framework that would allow everyone to contribute their own unique ideas and goals to the Worldforge project, allowing a multitude of games to be created. Our core focus is the construction of a complete system with all the tools, technology, content and artwork required to build complex persistent online virtual worlds.\n\nAs part of our commitment to a vibrant virtual worlds ecosystem, we're also acting as an umbrella project for both Ryzom Core and CEGUI.\n\nRyzom Core is a framework built to encourage and facilitate the creation of open-source MMORPG projects and worlds. It contains all of the essential functionality needed for a mid-to-large scale MMO. Ryzom Core is a complete platform for MMORPG development and includes a vast array of artistic assets, tools, services and a full featured client so that a new project can sit down and begin creation on day one.\n\n\nCrazy Eddie's GUI System (CEGUI) is a free library providing windowing and widgets for graphics APIs / engines where such functionality is not natively available, or severely lacking. The library is object-oriented, written in C++, and targeted at game and application developers who should be spending their time creating great games and not on building GUI sub-systems!\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/worldforge",
+    "mail": "//mail.worldforge.org/lists/listinfo/general",
+    "name": "worldforge",
+    "page": "http://wiki.worldforge.org/wiki/Summer_of_Code"
+  },
+  {
+    "about": "\n  WSO2 is an open source middleware company. All WSO2 products are 100% open source and released under the Apache License Version 2.0. The set of products correspond to about 20 different open source projects, which is a connected family of projects, based on one code base and a unified platform. Each project, in this family of projects, address a unique aspect of the open source middleware platform. The projects include back end technologies involving application integration, application development, API management, cloud platform as a service technologies, business process management and monitoring, complex event processing, data technologies and presentation technologies. \nThe operation model of the open source projects closely resemble the Apache way of open source operation. All projects are discussed, designed, built and tested in the open, using Apache like open source model.  \n\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/wso2_2014",
+    "mail": "//wso2.com/mail/",
+    "name": "wso2_2014",
+    "page": "http://docs.wso2.org/display/GSoC/WSO2+GSoC+Project+Proposals"
+  },
+  {
+    "about": "\n  wxWidgets is an open source C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. \n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/wx",
+    "mail": "//www.wxwidgets.org/support/mailing-lists/",
+    "name": "wx",
+    "page": "http://www.wxwidgets.org/gsoc/projects/"
+  },
+  {
+    "about": "\n  The X.Org Foundation (or X.Org for short) is a foundation chartered to develop and execute effective strategies that provide worldwide stewardship and encouragement of the X Window System and related projects (Mesa, DRI, Wayland, etc.). The X.Org Foundation has an open membership, and a Board of Directors which is elected from the membership. \n\nX.Org develops the X Window System, the standard window system for open source operating systems and devices. Today, as the result of more than 20 years of work by teams of leading open source developers, most of the graphical user interfaces for Unix and Linux systems rely on X.Org. The X.Org Foundation Board of Directors is responsible for non-technical support and guidance of the X.Org project.\n\nX.Org is responsible for the design of the X libraries which interface with application, the acceleration architectures used for graphics, and the graphics and input drivers. In particular, it has been at the center of the recent restructuring of the Linux graphics driver stack.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/xorg",
+    "mail": "//lists.x.org/mailman/listinfo/xorg",
+    "name": "xorg",
+    "page": "http://www.x.org/wiki/SummerOfCodeIdeas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/xapian",
+    "mail": "//trac.xapian.org/wiki/GSoC_Mailing_List",
+    "name": "xapian",
+    "page": "http://trac.xapian.org/wiki/GSoCProjectIdeas"
+  },
+  {
+    "about": "\n  The Xen Project is a Linux Foundation collaborative project that develops the\nXen Hypervisor (for x86 and ARM),\nthe XAPI toolstack and the Mirage OS Cloud Operating system.\n  \n    ",
+    "link": "https://www.google-melange.com/archive/gsoc/2014/orgs/xen_project",
+    "mail": "lists.xenproject.org",
+    "name": "xen_project",
+    "page": "http://wiki.xen.org/wiki/GSoc_2014"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/n52",
+    "mail": "//52north.org/resources/mailing-list-and-forums/",
+    "name": "n52",
+    "page": "https://wiki.52north.org/bin/view/Projects/GSoC2015ProjectIdeas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/afsis",
+    "mail": "google@qed.ai",
+    "name": "afsis",
+    "page": "http://qed.ai/afsis-gsoc"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/apache",
+    "mail": "//incubator.apache.org/. Students can approach the GSOC Admins via dev@community.apache.org.",
+    "name": "apache",
+    "page": "http://s.apache.org/gsoc2015ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ascend",
+    "mail": "//lists.sourceforge.net/lists/listinfo/ascend-sim-users",
+    "name": "ascend",
+    "page": "http://ascend4.org/Student_projects"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/beagleboard",
+    "mail": "//bit.ly/bbgsocml",
+    "name": "beagleboard",
+    "page": "http://bit.ly/bbgsocideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/beamcommunity",
+    "mail": "//groups.google.com/forum/#!forum/beam-community",
+    "name": "beamcommunity",
+    "page": "https://github.com/beamcommunity/beamcommunity.github.com/wiki"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/bika",
+    "mail": "//lists.sourceforge.net/lists/listinfo/bika-users",
+    "name": "bika",
+    "page": "https://github.com/bikalabs/Bika-LIMS/wiki/GSoC-2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/bmi_cci",
+    "mail": "",
+    "name": "bmi_cci",
+    "page": "https://docs.imphub.org/x/FQDg"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/boostcpp",
+    "mail": "//lists.boost.org/Archives/boost/",
+    "name": "boostcpp",
+    "page": "https://svn.boost.org/trac/boost/wiki/SoC2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/bu_xia",
+    "mail": "//groups.google.com/group/linux-xia",
+    "name": "bu_xia",
+    "page": "https://github.com/AltraMayor/XIA-for-Linux/wiki/Ideas-list"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/brlcad",
+    "mail": "//brlcad.org/wiki/Mailing_Lists",
+    "name": "brlcad",
+    "page": "http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/buildbot",
+    "mail": "//lists.sourceforge.net/lists/listinfo/buildbot-devel",
+    "name": "buildbot",
+    "page": "http://trac.buildbot.net/wiki/ProjectIdeas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/buildmlearn",
+    "mail": "//groups.google.com/forum/#!forum/buildmlearn",
+    "name": "buildmlearn",
+    "page": "https://github.com/BuildmLearn/BuildmLearn-Toolkit/wiki/Google-Summer-of-Code-2015-Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ccextractor",
+    "mail": "//lists.sourceforge.net/lists/listinfo/ccextractor-users",
+    "name": "ccextractor",
+    "page": "http://www.ccextractor.org/gsoc2015.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/centos",
+    "mail": "//lists.centos.org/mailman/listinfo/centos-gsoc",
+    "name": "centos",
+    "page": "http://wiki.centos.org/GSoC/2015/Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ceph",
+    "mail": "//ceph.com/resources/mailing-list-irc/",
+    "name": "ceph",
+    "page": "http://ceph.com/gsoc2015/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/cernsft",
+    "mail": "sft-gsoc@cern.ch",
+    "name": "cernsft",
+    "page": "http://ph-dep-sft.web.cern.ch/article/175948"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/cesium",
+    "mail": "//cesiumjs.org/forum.html",
+    "name": "cesium",
+    "page": "https://github.com/AnalyticalGraphicsInc/cesium/wiki/Google-Summer-of-Code-Ideas-2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/civicrm",
+    "mail": "//forum.civicrm.org/index.php/board,20.0.html",
+    "name": "civicrm",
+    "page": "http://wiki.civicrm.org/confluence/display/CRM/Google+Summer+of+Code+-+2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/clojure",
+    "mail": "//groups.google.com/group/clojure",
+    "name": "clojure",
+    "page": "http://dev.clojure.org/display/community/Project+Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/cloudcv",
+    "mail": "cloudcv@googlegroups.com",
+    "name": "cloudcv",
+    "page": "https://docs.google.com/document/d/1QX9Dq1WTwVCc3PB14F6Iyf9tii1zM20Gil78iX_6qCc/edit?usp=sharing"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/copyleftgames",
+    "mail": "",
+    "name": "copyleftgames",
+    "page": "http://gsoc.copyleftgames.org/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/coreboot",
+    "mail": "//www.coreboot.org/Mailinglist",
+    "name": "coreboot",
+    "page": "http://www.coreboot.org/Project_Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/dbpediaspotlight",
+    "mail": "//lists.sourceforge.net/lists/listinfo/dbpedia-gsoc",
+    "name": "dbpediaspotlight",
+    "page": "http://wiki.dbpedia.org/gsoc2015/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/debian",
+    "mail": "//lists.alioth.debian.org/cgi-bin/mailman/listinfo/soc-coordination",
+    "name": "debian",
+    "page": "https://wiki.debian.org/SummerOfCode2015/Projects"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/stonybrookbmi",
+    "mail": "//groups.google.com/forum/#!forum/stonybrookbmigsoc",
+    "name": "stonybrookbmi",
+    "page": "http://goo.gl/PZ0ytf"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/drupal",
+    "mail": "//groups.drupal.org/google-summer-code",
+    "name": "drupal",
+    "page": "https://groups.drupal.org/node/455978"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/eol",
+    "mail": "gsoc@eol.org",
+    "name": "eol",
+    "page": "https://docs.google.com/document/d/11SmYcoJBMJsXC-DS3jWc_jm59mynkETMLYskG9q_7HA/edit?usp=sharing"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ffmpeg",
+    "mail": "//lists.ffmpeg.org/mailman/listinfo/ffmpeg-devel/",
+    "name": "ffmpeg",
+    "page": "https://trac.ffmpeg.org/wiki/SponsoringPrograms/GSoC/2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/fossasia",
+    "mail": "//groups.google.com/group/fossasia",
+    "name": "fossasia",
+    "page": "http://labs.fossasia.org/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/learningequality",
+    "mail": "//groups.google.com/a/learningequality.org/forum/#!forum/dev",
+    "name": "learningequality",
+    "page": "https://learningequality.org/ka-lite/user-guides/gsoc-ideas-list-2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/freebsd",
+    "mail": "//lists.freebsd.org/mailman/listinfo/freebsd-hackers",
+    "name": "freebsd",
+    "page": "https://wiki.freebsd.org/SummerOfCodeIdeas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ganeti",
+    "mail": "ganeti@googlegroups.com",
+    "name": "ganeti",
+    "page": "https://code.google.com/p/ganeti/wiki/SummerOfCode2015Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/gcc",
+    "mail": "gcc@gcc.gnu.org",
+    "name": "gcc",
+    "page": "https://gcc.gnu.org/wiki/SummerOfCode"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/git",
+    "mail": "git@vger.kernel.org",
+    "name": "git",
+    "page": "http://git.github.io/SoC-2015-Ideas.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/github",
+    "mail": "//github.com/github/gsoc/issues",
+    "name": "github",
+    "page": "https://github.com/github/gsoc"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ga4gh",
+    "mail": "",
+    "name": "ga4gh",
+    "page": "https://docs.google.com/document/d/1PHPDTzD4Z6xVoxN0Q1F8yEPclSri-JA1vLvMTrLYUi8/edit?usp=sharing"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/gnome",
+    "mail": "//mail.gnome.org/mailman/listinfo/desktop-devel-list",
+    "name": "gnome",
+    "page": "https://wiki.gnome.org/Outreach/SummerOfCode/2015/Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/gnss_sdr",
+    "mail": "//lists.sourceforge.net/lists/listinfo/gnss-sdr-developers",
+    "name": "gnss_sdr",
+    "page": "http://gnss-sdr.org/documentation/google-summer-code-2015-ideas-list"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/gnu_mailman",
+    "mail": "mailman-developers@python.org",
+    "name": "gnu_mailman",
+    "page": "http://wiki.list.org/DEV/Google_Summer_of_Code_2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/gnu",
+    "mail": "//lists.gnu.org/mailman/listinfo/summer-of-code",
+    "name": "gnu",
+    "page": "http://www.gnu.org/s/soc-projects/ideas.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/kubernetes",
+    "mail": "google-containers@googlegroups.com",
+    "name": "kubernetes",
+    "page": "https://github.com/GoogleCloudPlatform/kubernetes/wiki/Google-Summer-of-Code-(GSoC)"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/haskell",
+    "mail": "haskell-cafe@haskell.org",
+    "name": "haskell",
+    "page": "https://ghc.haskell.org/trac/summer-of-code/report/1"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/hpccsystems",
+    "mail": "//hpccsystems.com/mailman/listinfo/hpcc-dev",
+    "name": "hpccsystems",
+    "page": "https://wiki.hpccsystems.com/display/hpcc/HPCC+Systems+GSoC+2015+Ideas+List"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/iai_unihb_gsoc",
+    "mail": "",
+    "name": "iai_unihb_gsoc",
+    "page": "https://ai.uni-bremen.de/teaching/gsoc2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/is",
+    "mail": "interactive-spaces-gsoc-2015@googlegroups.com",
+    "name": "is",
+    "page": "http://www.interactive-spaces.org/home/google-summer-of-code-2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/geogebra",
+    "mail": "",
+    "name": "geogebra",
+    "page": "https://dev.geogebra.org/trac/wiki/Gsoc2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/incf",
+    "mail": "//lists.incf.org/mailman/listinfo/incf-developers",
+    "name": "incf",
+    "page": "https://www.incf.org/gsoc/2015/proposals"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ipop",
+    "mail": "//lists.ufl.edu/cgi-bin/wa?SUBED1=IPOP-USERS-L&A=1",
+    "name": "ipop",
+    "page": "https://github.com/ipop-project/documentation/wiki/googlesoc2015-projects"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/jboss",
+    "mail": "gsoc@lists.jboss.org",
+    "name": "jboss",
+    "page": "https://developer.jboss.org/wiki/GSOC15Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/jderobot",
+    "mail": "jde-developers@gsyc.es",
+    "name": "jderobot",
+    "page": "http://jderobot.org/Collaborate#Ideas_List"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/jquery",
+    "mail": "",
+    "name": "jquery",
+    "page": "https://github.com/jquery/gsoc/wiki/GSoC-2015-Ideas-List"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/kde",
+    "mail": "//mail.kde.org/mailman/listinfo/kde-devel",
+    "name": "kde",
+    "page": "https://community.kde.org/GSoC/2015/Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/lablua",
+    "mail": "//groups.google.com/group/labluagsoc",
+    "name": "lablua",
+    "page": "http://www.lua.inf.puc-rio.br/gsoc/ideas2015.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/libreoffice",
+    "mail": "//lists.freedesktop.org/mailman/listinfo/libreoffice",
+    "name": "libreoffice",
+    "page": "https://wiki.documentfoundation.org/Development/GSoC/Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/lg",
+    "mail": "//groups.google.com/group/liquid-galaxy",
+    "name": "lg",
+    "page": "http://code.google.com/p/liquid-galaxy/wiki/GSoC2015Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/llvm",
+    "mail": "//lists.cs.uiuc.edu/mailman/listinfo/llvmdev",
+    "name": "llvm",
+    "page": "http://llvm.org/OpenProjects.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/lmonade",
+    "mail": "lmnd-devel@googlegroups.com",
+    "name": "lmonade",
+    "page": "http://wiki.lmona.de/get_involved/gsoc"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/lowrisc",
+    "mail": "//listmaster.pepperfish.net/cgi-bin/mailman/listinfo/lowrisc-dev-lists.lowrisc.org",
+    "name": "lowrisc",
+    "page": "http://www.lowrisc.org/docs/gsoc-2015-ideas/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/mariadb",
+    "mail": "//launchpad.net/~maria-developers",
+    "name": "mariadb",
+    "page": "https://mariadb.com/kb/en/mariadb/google-summer-of-code-2015/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/mbdyn",
+    "mail": "//www.mbdyn.org/?Mailing_List",
+    "name": "mbdyn",
+    "page": "https://www.mbdyn.org/?Developers_corner___TODO_list"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/medes_imps",
+    "mail": "//www.medes.fr/en/contact-1.html",
+    "name": "medes_imps",
+    "page": "http://www.medes.fr/en/our-offer/assistance-with-e-health-or-epidemiological-surveillance-projects/a-data-collection-application/medes-and-google-summer-of-code.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/metabrainz",
+    "mail": "//lists.musicbrainz.org/mailman/listinfo/musicbrainz-devel",
+    "name": "metabrainz",
+    "page": "http://wiki.musicbrainz.org/Development/Summer_of_Code/2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/minnowboard",
+    "mail": "//lists.elinux.org/mailman/listinfo/elinux-minnowboard",
+    "name": "minnowboard",
+    "page": "http://elinux.org/Minnowboard:GSoC2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/media",
+    "mail": "//groups.google.com/forum/#!forum/mitappinventortest",
+    "name": "media",
+    "page": "https://github.com/mit-cml/appinventor-sources/wiki/Projects-GSoC-15"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/mono",
+    "mail": "//lists.ximian.com/mailman/listinfo/mono-list",
+    "name": "mono",
+    "page": "http://www.mono-project.com/community/google-summer-of-code/projects/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/moodle",
+    "mail": "//moodle.org/community/",
+    "name": "moodle",
+    "page": "https://docs.moodle.org/dev/Projects_for_new_developers"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/networktime",
+    "mail": "hackers@ntp.org",
+    "name": "networktime",
+    "page": "http://support.ntp.org/bin/view/Dev/GoogleSummerOfCode"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/nmap",
+    "mail": "//seclists.org/nmap-dev/",
+    "name": "nmap",
+    "page": "http://nmap.org/soc/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/numfocus",
+    "mail": "//groups.google.com/a/numfocus.org/forum/#!forum/gsoc",
+    "name": "numfocus",
+    "page": "https://github.com/numfocus/gsoc/blob/master/2015/ideas-list.md"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/oncoblocks",
+    "mail": "",
+    "name": "oncoblocks",
+    "page": "http://bcb.dfci.harvard.edu/~cerami/gsoc.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/opencv",
+    "mail": "OpenCV-GSoC-2015@googlegroups.com",
+    "name": "opencv",
+    "page": "http://code.opencv.org/projects/opencv/wiki/GSoC_2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/osrf",
+    "mail": "gsoc@osrfoundation.org",
+    "name": "osrf",
+    "page": "http://wiki.osrfoundation.org/gsoc15"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/openkeychain",
+    "mail": "//groups.google.com/d/forum/openpgp-keychain-dev",
+    "name": "openkeychain",
+    "page": "https://github.com/open-keychain/open-keychain/wiki/Google-Summer-of-Code-2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/openmrs",
+    "mail": "//go.openmrs.org/lists",
+    "name": "openmrs",
+    "page": "http://go.openmrs.org/soc2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/openstreetmap",
+    "mail": "//lists.openstreetmap.org/listinfo/talk",
+    "name": "openstreetmap",
+    "page": "https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2015/Project_Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/openwall",
+    "mail": "//www.openwall.com/lists/john-dev/",
+    "name": "openwall",
+    "page": "http://openwall.info/wiki/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/osuosl",
+    "mail": "//lists.osuosl.org/mailman/listinfo/gsoc-dev",
+    "name": "osuosl",
+    "page": "https://wiki.osuosl.org/gsoc/ideas2015.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/osgeo",
+    "mail": "soc@lists.osgeo.org",
+    "name": "osgeo",
+    "page": "http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2015_Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/p2psp",
+    "mail": "//lists.launchpad.net/p2psp/",
+    "name": "p2psp",
+    "page": "http://p2psp.org/en/news/55-gsoc-2015-ideas-page"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/pagmo",
+    "mail": "//lists.sourceforge.net/lists/listinfo/pagmo-devel",
+    "name": "pagmo",
+    "page": "https://github.com/esa/pagmo/wiki/GSoC-2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/pencilcode",
+    "mail": "//groups.google.com/group/pencilcode-development",
+    "name": "pencilcode",
+    "page": "http://ideas.pencilcode.net/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/phpmyadmin",
+    "mail": "//lists.sourceforge.net/mailman/listinfo/phpmyadmin-devel",
+    "name": "phpmyadmin",
+    "page": "https://wiki.phpmyadmin.net/pma/GSoC_2015_Ideas_List"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/pidgin",
+    "mail": "devel@pidgin.im",
+    "name": "pidgin",
+    "page": "https://developer.pidgin.im/wiki/SoCAndBountyIdeas#ProjectIdeas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/plasma_umass",
+    "mail": "//groups.google.com/forum/?fromgroups#!forum/plasma-umass-gsoc",
+    "name": "plasma_umass",
+    "page": "https://github.com/plasma-umass/GSoC-2014/wiki/Idea-List-for-Google-Summer-of-Code-2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/pnacl",
+    "mail": "//groups.google.com/forum/#!forum/native-client-discuss",
+    "name": "pnacl",
+    "page": "https://developer.chrome.com/native-client/reference/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/portland_state",
+    "mail": "psu-soc-2015-info@svcs.cs.pdx.edu",
+    "name": "portland_state",
+    "page": "http://summer.cs.pdx.edu/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/postgresql",
+    "mail": "//archives.postgresql.org/pgsql-students/",
+    "name": "postgresql",
+    "page": "http://www.postgresql.org/developer/summerofcode"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/privly",
+    "mail": "//groups.google.com/group/privly",
+    "name": "privly",
+    "page": "https://github.com/privly/privly-organization/wiki/Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/python",
+    "mail": "//mail.python.org/mailman/listinfo/soc2015-general",
+    "name": "python",
+    "page": "https://wiki.python.org/moin/SummerOfCode/2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/qemu",
+    "mail": "//lists.gnu.org/mailman/listinfo/qemu-devel",
+    "name": "qemu",
+    "page": "http://qemu-project.org/Google_Summer_of_Code_2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/rproject",
+    "mail": "gsoc-r@googlegroups.com",
+    "name": "rproject",
+    "page": "https://github.com/rstats-gsoc/gsoc2015/wiki/table-of-proposed-coding-projects"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/redhenlab",
+    "mail": "//sourceforge.net/p/redhenlab/discussion/gsoc2015/",
+    "name": "redhenlab",
+    "page": "https://sites.google.com/site/distributedlittleredhen/gsoc2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/riot",
+    "mail": "//lists.riot-os.org/mailman/listinfo/devel",
+    "name": "riot",
+    "page": "https://github.com/RIOT-OS/RIOT/wiki/GSOC-Idea-List"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/robocomp",
+    "mail": "",
+    "name": "robocomp",
+    "page": "https://robocomp.github.io/robocomp/gsoc15-robocomp-ideas.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/routeflow",
+    "mail": "routeflow-discuss@googlegroups.com",
+    "name": "routeflow",
+    "page": "https://sites.google.com/site/routeflow/updates/gsoc-ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/rspamd",
+    "mail": "//groups.google.com/forum/?hl=en#!forum/rspamd",
+    "name": "rspamd",
+    "page": "https://rspamd.com/ideas.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/rtems",
+    "mail": "//lists.rtems.org/mailman/listinfo/devel",
+    "name": "rtems",
+    "page": "https://devel.rtems.org/wiki/Developer/OpenProjects"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ruby",
+    "mail": "//www.ruby-lang.org/en/community/mailing-lists/",
+    "name": "ruby",
+    "page": "https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/rails",
+    "mail": "//groups.google.com/forum/#!forum/rubyonrails-gsoc",
+    "name": "rails",
+    "page": "https://github.com/railsgsoc/ideas/wiki/2015-Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/sciruby",
+    "mail": "//groups.google.com/forum/#!forum/sciruby-dev",
+    "name": "sciruby",
+    "page": "https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2015-Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/sagemath",
+    "mail": "//groups.google.com/forum/#!forum/sage-gsoc",
+    "name": "sagemath",
+    "page": "http://wiki.sagemath.org/GSoC/2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/saros",
+    "mail": "//lists.sourceforge.net/lists/listinfo/dpp-devel",
+    "name": "saros",
+    "page": "http://www.saros-project.org/gsoc/2015/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/scalateam",
+    "mail": "//scala-lang.org/community/",
+    "name": "scalateam",
+    "page": "http://scala-lang.org/gsoc/2015.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/scilab_enterprises",
+    "mail": "gsoc@lists.scilab.org",
+    "name": "scilab_enterprises",
+    "page": "http://wiki.scilab.org/GSoC_project_proposal"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/strace",
+    "mail": "//sourceforge.net/p/strace/mailman/",
+    "name": "strace",
+    "page": "https://sourceforge.net/p/strace/wiki/GoogleSummerOfCode2015/"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/subsurface",
+    "mail": "subsurface@subsurface-divelog.org",
+    "name": "subsurface",
+    "page": "http://trac.subsurface-divelog.org/wiki/Subsurface_GSOC_2015_Idea_List"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/sugarlabs",
+    "mail": "sugar-devel@lists.sugarlabs.org",
+    "name": "sugarlabs",
+    "page": "http://wiki.sugarlabs.org/go/Summer_of_Code/2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/scorelab",
+    "mail": "//groups.google.com/forum/#!forum/score-community",
+    "name": "scorelab",
+    "page": "http://www.scorelab.org/page/gsoc2015.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/systers",
+    "mail": "//systers.org/mailman/listinfo/systers-dev",
+    "name": "systers",
+    "page": "https://github.com/systers/ossprojects/wiki/GSoC-2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/tardis_sn",
+    "mail": "//groups.google.com/forum/#!forum/tardis-sn-dev",
+    "name": "tardis_sn",
+    "page": "https://github.com/tardis-sn/tardis/wiki/GSoC-2015-ideas-Page-for-TARDIS-SN"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/teammates",
+    "mail": "//groups.google.com/group/teammates-contributors",
+    "name": "teammates",
+    "page": "http://tinyurl.com/teammates-ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/concord",
+    "mail": "//groups.google.com/group/cc-developers",
+    "name": "concord",
+    "page": "http://concord.org/GSoC"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/eclipse",
+    "mail": "//dev.eclipse.org/mailman/listinfo/soc-dev",
+    "name": "eclipse",
+    "page": "https://wiki.eclipse.org/Google_Summer_of_Code_2015_Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/fedora",
+    "mail": "//admin.fedoraproject.org/mailman/listinfo/devel",
+    "name": "fedora",
+    "page": "https://fedoraproject.org/wiki/Summer_coding_ideas_for_2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/honeynet",
+    "mail": "//public.honeynet.org/mailman/listinfo/gsoc",
+    "name": "honeynet",
+    "page": "http://honeynet.org/gsoc/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/macports",
+    "mail": "//lists.macosforge.org/mailman/listinfo/macports-dev",
+    "name": "macports",
+    "page": "https://trac.macports.org/wiki/SummerOfCode"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/ns3",
+    "mail": "//mailman.isi.edu/mailman/listinfo/ns-developers",
+    "name": "ns3",
+    "page": "http://www.nsnam.org/wiki/GSOC2015Projects"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/openbsd_foundation",
+    "mail": "",
+    "name": "openbsd_foundation",
+    "page": "http://www.openbsdfoundation.org/gsoc2015.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/opencog",
+    "mail": "//groups.google.com/forum/#!forum/opencog",
+    "name": "opencog",
+    "page": "http://wiki.opencog.org/w/Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/processing",
+    "mail": "",
+    "name": "processing",
+    "page": "https://github.com/processing/processing/wiki/Project-List"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/stellar",
+    "mail": "hpx-users@stellar.cct.lsu.edu",
+    "name": "stellar",
+    "page": "https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2015-Project-Ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/syslog_ng",
+    "mail": "//lists.balabit.hu/mailman/listinfo/syslog-ng",
+    "name": "syslog_ng",
+    "page": "https://github.com/balabit/syslog-ng/wiki/GSoC2015-idea-&-project-list"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/vtk",
+    "mail": "//www.vtk.org/mailman/listinfo/vtk-developers",
+    "name": "vtk",
+    "page": "http://www.vtk.org/Wiki/VTK/GSoC_2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/wine",
+    "mail": "//www.winehq.org/mailman/listinfo/wine-devel",
+    "name": "wine",
+    "page": "http://wiki.winehq.org/SummerOfCode"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/tox",
+    "mail": "",
+    "name": "tox",
+    "page": "https://wiki.tox.chat/developers/gsoc/2015/ideas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/tux4kids",
+    "mail": "//lists.alioth.debian.org/cgi-bin/mailman/listinfo/tux4kids-discuss",
+    "name": "tux4kids",
+    "page": "https://code.google.com/p/google-summer-of-code-2015-tux4kids/wiki/IdeasList"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/helikarlab",
+    "mail": "helikarlab.org/redmine",
+    "name": "helikarlab",
+    "page": "http://helikarlab.org/GSoC.html"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/wikimedia",
+    "mail": "//lists.wikimedia.org/mailman/listinfo/wikitech-l",
+    "name": "wikimedia",
+    "page": "https://www.mediawiki.org/wiki/Google_Summer_of_Code_2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/wso2_2015",
+    "mail": "//wso2.com/mail/",
+    "name": "wso2_2015",
+    "page": "https://docs.wso2.com/display/GSoC/Project+Proposals+for+2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/xorg",
+    "mail": "//lists.freedesktop.org/mailman/listinfo/dri-devel",
+    "name": "xorg",
+    "page": "http://www.x.org/wiki/SummerOfCodeIdeas"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/kodi",
+    "mail": "contact@kodi.tv",
+    "name": "kodi",
+    "page": "http://kodi.wiki/view/Google_Summer_of_Code/2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/xiph",
+    "mail": "//lists.xiph.org/mailman/listinfo",
+    "name": "xiph",
+    "page": "https://wiki.xiph.org/Summer_of_Code_2015"
+  },
+  {
+    "about": "\n",
+    "link": "https://www.google-melange.com/archive/gsoc/2015/orgs/xmpp",
+    "mail": "//mail.jabber.org/mailman/listinfo/gsoc",
+    "name": "xmpp",
+    "page": "http://wiki.xmpp.org/web/Summer_of_Code_2015"
+  }
+]

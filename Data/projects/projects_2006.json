@@ -1,0 +1,212 @@
+[
+  {
+    "mentor": "Dominic Lachowicz",
+    "project": "PDF Import plugin (with style)",
+    "student": "Jauco Noordzij"
+  },
+  {
+    "mentor": "Robert Staudinger",
+    "project": "The AbiWord OLPC User Interface",
+    "student": "Erik Pukinskis"
+  },
+  {
+    "mentor": "J.M. Maurer",
+    "project": "Improving AbiWord's import/export plug-ins",
+    "student": "Kamran Khan"
+  },
+  {
+    "mentor": "Robert August Fackler",
+    "project": "Making XMPP a first-class citizen by using the Smack library",
+    "student": "Andreas Monitzer"
+  },
+  {
+    "mentor": "Peter Hosey",
+    "project": "Improving disability support for Adium",
+    "student": "Chirag Shah"
+  },
+  {
+    "mentor": "Colin Harold Barrett",
+    "project": "EMD & Presence Publishing over DO (leading to: Psyduck - A Desktop Presence Framework)",
+    "student": "Joshua Lock"
+  },
+  {
+    "mentor": "David Smith",
+    "project": "Improving and integrating PSMTabBarControl with Adium",
+    "student": "Kent Sutherland"
+  },
+  {
+    "mentor": "Evan Schoenberg",
+    "project": "Jingle in Adium X",
+    "student": "Alvaro Saurin Parra"
+  },
+  {
+    "mentor": "Jesse Chappell",
+    "project": "MIDI Track support",
+    "student": "David Edward Robillard"
+  },
+  {
+    "mentor": "Paul Davis",
+    "project": "Region Plugins and Undo Serialization",
+    "student": "Hans Fugal"
+  },
+  {
+    "mentor": "Taybin Rutkin",
+    "project": "Port Ardour to Windows",
+    "student": "Tim Mayberry"
+  },
+  {
+    "mentor": "Linus Tolke",
+    "project": "ArgoPrint Improvements",
+    "student": "Ion Savin"
+  },
+  {
+    "mentor": "Tom Morris",
+    "project": "Eclipse Integration",
+    "student": "Pistol Constandache Bogdan Ciprian"
+  },
+  {
+    "mentor": "Robert James Tarling",
+    "project": "A Graph Layout Algorithm for GEF",
+    "student": "Martin Harrigan"
+  },
+  {
+    "mentor": "Michiel van der Wulp",
+    "project": "ArgoUML Critics improvements / italian localization / various bug fixes",
+    "student": "Andrea Nironi"
+  },
+  {
+    "mentor": "Ranabahu Mudiyanselage Ajith Harshana Ranabahu",
+    "project": "C Implementation of WSDL2C Code generator for Axis2/C",
+    "student": "Dimuthu Chathuranga Gamage"
+  },
+  {
+    "mentor": "Øystein Grøvlen",
+    "project": "Derby LRU Cache Manager",
+    "student": "Gokul Soundararajan"
+  },
+  {
+    "mentor": "Michael Parker",
+    "project": "Thunderbird/Outlook/etc Plugins for Learning Messages via Spamd",
+    "student": "William Duff"
+  },
+  {
+    "mentor": "Martin Marinschek",
+    "project": "Implementing Partial State Saving in Apache MyFaces",
+    "student": "Martin Haimberger"
+  },
+  {
+    "mentor": "Andrus Adamchik",
+    "project": "cayenne-rop",
+    "student": "Marcel Gordon"
+  },
+  {
+    "mentor": "Sanjiva Weerawarana",
+    "project": "Axis2/Java-C#  (http://wiki.apache.org/general/SummerOfCode2006#axis2/java-c#\")",
+    "student": "Nandana Sampath Mihindulasooriya"
+  },
+  {
+    "mentor": "Kevin Joseph Menard",
+    "project": "cayenne-ropwsdl",
+    "student": "Mikhail Viktorov"
+  },
+  {
+    "mentor": "Michael Glavassevich",
+    "project": "xerces-stax-api-converters",
+    "student": "hua lei"
+  },
+  {
+    "mentor": "Changshin Lee",
+    "project": "Add MMS transport support for Apache Mirae and Apache Axis2",
+    "student": "Lilan Anjana Fernando"
+  },
+  {
+    "mentor": "Davanum Srinivas",
+    "project": "Complete databinding support for ADB (Axis Databinding)",
+    "student": "Maryam Moazeni"
+  },
+  {
+    "mentor": "Jeremias Märki",
+    "project": "fop-auto-table-layout",
+    "student": "Patrick Paul"
+  },
+  {
+    "mentor": "Jukka Zitting",
+    "project": "JackRabbit Backup Tool",
+    "student": "Nicolas Toper"
+  },
+  {
+    "mentor": "Matthias Weßendorf",
+    "project": "Apache MyFaces skinning solution proposal",
+    "student": "Catalin Adrian Kormos"
+  },
+  {
+    "mentor": "Werner Punz",
+    "project": "Implement AJAX Partial Page Rendering Support in Apache MyFaces",
+    "student": "Ernst Fastl"
+  },
+  {
+    "mentor": "Kevin Joseph Menard",
+    "project": "Cayenne Eclipse Plugin",
+    "student": "Bruno José de Moraes Melo"
+  },
+  {
+    "mentor": "David Van Couvering",
+    "project": "Application for - Add JMX to Apache Derby",
+    "student": "Sanket Sharma"
+  },
+  {
+    "mentor": "Deepal Jayasinghe",
+    "project": "Axis2 WSDL 2.0 support",
+    "student": "Oshani Wasana Seneviratne"
+  },
+  {
+    "mentor": "Mario Ivankovits",
+    "project": "Apache MyFaces. JSF view flexible templating language or JSF on Rails.",
+    "student": "Aliaksandr Kazachonak"
+  },
+  {
+    "mentor": "Jeremias Märki",
+    "project": "Implementing before- and side-floats in Apache Fop",
+    "student": "Vincent Hennebert"
+  },
+  {
+    "mentor": "Satheesh E Bandaram",
+    "project": "Provide migration tool from MySQL to Derby",
+    "student": "Ramin Moazeni"
+  },
+  {
+    "mentor": "Ian Holsman",
+    "project": "GData Server",
+    "student": "Simon Willnauer"
+  },
+  {
+    "mentor": "Justin Mason",
+    "project": "spamassassin-httpd-spamd",
+    "student": "Radosław Zieliński"
+  },
+  {
+    "mentor": "Michael Philip Sparks",
+    "project": "Key Predistribution Infrastructure (KPI) base trusted communication framework for Kamaelia",
+    "student": "Anagha Mudigonda"
+  },
+  {
+    "mentor": "Thomas Davies",
+    "project": "Dirac decoder in Java",
+    "student": "Luis Felipe Strano Moraes"
+  },
+  {
+    "mentor": "Michael Philip Sparks",
+    "project": "3D widget framework",
+    "student": "Thomas Flanitzer"
+  },
+  {
+    "mentor": "Michael Philip Sparks",
+    "project": "Creation of an integrated BitTorrent component for Kamaelia",
+    "student": "Ryan James Lothian"
+  },
+  {
+    "mentor": "Thomas Davies",
+    "project": "SOC Dirac: Java implementation of a Dirac decoder",
+    "student": "Adam Davison"
+  }
+]

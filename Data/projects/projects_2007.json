@@ -1,0 +1,242 @@
+[
+  {
+    "mentor": "J.M. Maurer",
+    "project": "Systematically Breaking and Fixing AbiCollab",
+    "student": "Ryan Pavlik"
+  },
+  {
+    "mentor": "Dominic Lachowicz",
+    "project": "'Putting libabiword on a Diet'",
+    "student": "Robert Staudinger"
+  },
+  {
+    "mentor": "Kamran Khan",
+    "project": "Abiword: OpenXML importer",
+    "student": "Philippe Milot"
+  },
+  {
+    "mentor": "Martin Edmund Sevior",
+    "project": "4. Implement annotations",
+    "student": "Ernesto Rivera"
+  },
+  {
+    "mentor": "Dominic Lachowicz",
+    "project": "Interface service for the use of external grammar checkers in Abiword",
+    "student": "Gabriel Bakiewicz"
+  },
+  {
+    "mentor": "David Smith",
+    "project": "Improving multi-user chat",
+    "student": "Erik E. Beerepoot"
+  },
+  {
+    "mentor": "Brian Eric Ganninger",
+    "project": "(Un)Lock groups",
+    "student": "Andre Cohen"
+  },
+  {
+    "mentor": "Peter Hosey",
+    "project": "Fix & expand AppleScript",
+    "student": "Matthew Handley"
+  },
+  {
+    "mentor": "Robert August Fackler",
+    "project": "Improving Adium's XMPP Support",
+    "student": "Andreas Monitzer"
+  },
+  {
+    "mentor": "Andrew Wellington",
+    "project": "Improved Bonjour Support for Adium",
+    "student": "Erich Kreutzer"
+  },
+  {
+    "mentor": "William Pitcock",
+    "project": "D-Bus Support",
+    "student": "Ben Tucker"
+  },
+  {
+    "mentor": "Tony Vroon",
+    "project": "CD-Text support for the CDAudio plugin",
+    "student": "Calin Crisan"
+  },
+  {
+    "mentor": "William Pitcock",
+    "project": "Rewrite widgetcore as real GTK2 widgets",
+    "student": "Tomasz Mon"
+  },
+  {
+    "mentor": "William Pitcock",
+    "project": "Additional NewVFS transports",
+    "student": "Cristian Măgherușan"
+  },
+  {
+    "mentor": "Tristan Colgate",
+    "project": "Multi-threaded Implementation",
+    "student": "Manuel Antonio Fernandez Montecelo"
+  },
+  {
+    "mentor": "Christopher James Foster",
+    "project": "Deep Shadow Maps implementation for the rendering of coloured shadows and hair/fur shadows",
+    "student": "Zachary Carter"
+  },
+  {
+    "mentor": "Paul Davis",
+    "project": "Piano-Roll MIDI Editing Interface",
+    "student": "David Edward Robillard"
+  },
+  {
+    "mentor": "Jesse Chappell",
+    "project": "n.m panning",
+    "student": "Christian James Muise"
+  },
+  {
+    "mentor": "Tom Morris",
+    "project": "UML2 for ArgoUML",
+    "student": "Pistol Constandache Bogdan Ciprian"
+  },
+  {
+    "mentor": "Linus Tolke",
+    "project": "Extending ArgoUML to support UML Profiles",
+    "student": "Marcos Aurelio Almeida da Silva"
+  },
+  {
+    "mentor": "Robert James Tarling",
+    "project": "Sequence Diagrams improvements",
+    "student": "Christian Lopez Espinola"
+  },
+  {
+    "mentor": "Ion Savin",
+    "project": "ArgoPDF – The PDF report generation tool.",
+    "student": "Dzmitry Churbanau"
+  },
+  {
+    "mentor": "Robert James Tarling",
+    "project": "Alternative GUI layer in GEF library for ArgoUML project",
+    "student": "Jian Zheng"
+  },
+  {
+    "mentor": "William Glass-Husain",
+    "project": "Improve Velocity Macro capability",
+    "student": "Supun Madhushanka Kamburugamuva"
+  },
+  {
+    "mentor": "Ruchith Fernando",
+    "project": "Canonical XML Implementation on Apache AXIOM",
+    "student": "Saliya Ekanayake"
+  },
+  {
+    "mentor": "Saminda Wishwajith Abeyruwan",
+    "project": "Implementing Mail Transport (SMTP/POP3) support for SOAP 1.2 for Axis2/C",
+    "student": "Rajika Kumarasiri"
+  },
+  {
+    "mentor": "Daniel Fagerstrom",
+    "project": "Unified expression handling and unified object model in Apache Cocoon",
+    "student": "Grzegorz Kossakowski"
+  },
+  {
+    "mentor": "Patrick Linskey",
+    "project": "Streaming LOB support (for OpenJPA)",
+    "student": "Ignacio Andreu Dolset"
+  },
+  {
+    "mentor": "Jason van Zyl",
+    "project": "Maven Diagram-Maker",
+    "student": "Piotr Tabor"
+  },
+  {
+    "mentor": "Michael Parker",
+    "project": "Implementing “Dobly” Noise Reduction for SpamAssassin",
+    "student": "Jianyong Dai"
+  },
+  {
+    "mentor": "Werner Punz",
+    "project": "MyFaces Renderer Based on Templates",
+    "student": "Sorin Silaghi"
+  },
+  {
+    "mentor": "Cameron McCormack",
+    "project": "Enhancing Batik's document viewer",
+    "student": "Ivan Andjelkovic"
+  },
+  {
+    "mentor": "Michael Parker",
+    "project": "The Persistent Database Connection Plugin",
+    "student": "Zhang Shunchang"
+  },
+  {
+    "mentor": "Paul Smith",
+    "project": "Adding Functionality and Usability Improvements to Chainsaw",
+    "student": "Isuru Eranga Suriarachchi"
+  },
+  {
+    "mentor": "Nandika Jayawardana",
+    "project": "Proposal for JSON Support for Apache Axis2/C",
+    "student": "T.G. Kasun Indrasiri"
+  },
+  {
+    "mentor": "Martin Marinschek",
+    "project": "MyFaces Component Set Integration",
+    "student": "Leonardo Alfredo Uribe Panesso"
+  },
+  {
+    "mentor": "Amila Chinthaka Suriarachchi",
+    "project": "JAX-WS 2.0 support for Apache Axis2 WSDL2Java Code Generator",
+    "student": "Sameera Madushan Jayasoma"
+  },
+  {
+    "mentor": "Werner Punz",
+    "project": "MyFaces Component Generator",
+    "student": "Bernhard Huemer"
+  },
+  {
+    "mentor": "Jukka Zitting",
+    "project": "JCR Demo Application based on Jackrabbit",
+    "student": "Nandana Sampath Mihindukulasooriya"
+  },
+  {
+    "mentor": "Michael Glavassevich",
+    "project": "Add support for the StAX (JSR-173) cursor API to Xerces-J",
+    "student": "Wei Duan"
+  },
+  {
+    "mentor": "Cameron McCormack",
+    "project": "Design and implementation a better document inspector",
+    "student": "Jasleen Singh"
+  },
+  {
+    "mentor": "Katherine Marsden",
+    "project": "Convert Derby tests to JUnit and fix Derby bugs",
+    "student": "Ramin Moazeni"
+  },
+  {
+    "mentor": "Samuel Andrew McIntyre",
+    "project": "Convert Derby tests to JUnit and fix Derby bugs",
+    "student": "Ravinder Reddy Pandiri"
+  },
+  {
+    "mentor": "Jukka Zitting",
+    "project": "jackrabbit-jcr-demo: μAssessment (muAssessment) Testing System",
+    "student": "Pavel Konnikov"
+  },
+  {
+    "mentor": "Andrea Gabriellini",
+    "project": "Motion estimation and mode decision in Dirac",
+    "student": "Andrew Lewis"
+  },
+  {
+    "mentor": "Michael Philip Sparks",
+    "project": "A file handle like interface to backgrounded Kamaelia components",
+    "student": "Patrick Thomson"
+  },
+  {
+    "mentor": "Matt Hammond",
+    "project": "AIM/IRC client for Kamaelia",
+    "student": "Jinna Lei"
+  },
+  {
+    "mentor": "Michael Philip Sparks",
+    "project": "Visual Editor for Creation & Composition of Shard Components",
+    "student": "tara gilliam"
+  }
+]
