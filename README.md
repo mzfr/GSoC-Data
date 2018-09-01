@@ -60,6 +60,18 @@ All the data from [GSoC-archive](https://developers.google.com/open-source/gsoc/
     - `title`: Name of the project
 
 
-# Usage
+# What can be done with the data?
 
-This data will be used for improving functionality of [Soccer](http://dufferzafar.github.io/Soccer/)
+This data will be used for improving the functionality of [Soccer](http://github.com/dufferzafar/Soccer/).
+
+It can also be used to generate various stats, plots or answer data-related questions like:
+
+- Who did the most number of GSoCs? under which org?
+- Which org has the highest sutdent-to-mentor conversion rate? (students who first did GSoC under the org, and then became mentors)
+- Run some magic on the descriptions of projects over the years to find out if there is a trend of ML related projects.
+
+etc. etc.
+
+---
+
+Feel free to open issues to discuss any more ideas!
