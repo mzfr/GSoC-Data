@@ -118,7 +118,6 @@ def All_orgs():
                     links_13.append(join(melange, url.get("href")[1:]))
                 else:
                     links_14.append(join(melange, url.get("href")[1:]))
-
     return links_13, links_14
 
 

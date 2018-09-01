@@ -38,12 +38,16 @@ def get_info(soup):
 
 
 def main():
+    orgs_data = {}
+    projects_data = {}
     for year in range(2005, 2009):
         url = developer + '/open-source/gsoc/{yr}/'.format(yr=year)
         soup = getPage(url)
         orgs, projects = get_info(soup)
-        dumper(orgs, "organization_" + str(year) + ".json")
-        dumper(projects, "projects_" + str(year) + ".json")
+        orgs_data[year] = orgs
+        projects_data[year] = projects
+    dumper(orgs_data, "orgs_2005-2008.json")
+    dumper(projects_data, "projects_2005-2008.json")
 
 
 if __name__ == '__main__':
