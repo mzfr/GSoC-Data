@@ -3,8 +3,9 @@ This is a scarper for google-melange GSoC archive
 It only works for the year 2009-2015.
 """
 import re
+import asyncio
 from os.path import join, basename
-from common import getPage, dumper
+from common import get_page, dumper
 
 melange = "https://www.google-melange.com"
 
@@ -26,7 +27,7 @@ def grab_project_links(soup):
     return project_urls
 
 
-def org_info_above_14(orgs_urls14):
+async def org_info_above_14(orgs_urls14):
     """Scarpe information about orgs of year 2014 and 2015
         :orgs_urls14: list of urls of year 2014 and 2015
     """
@@ -34,7 +35,7 @@ def org_info_above_14(orgs_urls14):
     project_urls_from14 = []
     for url in orgs_urls14:
         try:
-            soup = getPage(url)
+            soup = await get_page(url)
             org_name = basename(url)
             org_info = soup.find_all('p')
             web_page = org_info[1].text.splitlines()[-1].strip()
@@ -52,7 +53,7 @@ def org_info_above_14(orgs_urls14):
     return org_info_14, get_project_info(project_urls_from14)
 
 
-def org_info_below_13(org_urls13):
+async def org_info_below_13(org_urls13):
     """Scrape information about the orgs from 2009-2013
         :org_urls13: list of urls for all the orgs
     """
@@ -61,7 +62,7 @@ def org_info_below_13(org_urls13):
     for url in org_urls13:
         # General information about the org
         try:
-            soup = getPage(url)
+            soup = await get_page(url)
             org_name = basename(url)
             org_info = soup.find_all('p')
             web_page = org_info[0].text.splitlines()[-1].strip()
@@ -78,13 +79,13 @@ def org_info_below_13(org_urls13):
     return org_info_till13, get_project_info(project_urls_till13)
 
 
-def get_project_info(project_urls):
+async def get_project_info(project_urls):
     """Get detail information of projects from given links
         :project_urls: list of all the project urls
     """
     project_info = []
     for url in project_urls:
-        soup = getPage(url)
+        soup = await get_page(url)
         about = soup.find_all("p")
         title = soup.find("h3").text
         student = about[0].text.splitlines()[2].strip()
@@ -97,7 +98,7 @@ def get_project_info(project_urls):
     return project_info
 
 
-def All_orgs():
+async def All_orgs():
     """Get links of all orgs from 2009 to 2015
 
         Makes two separate list:
@@ -110,7 +111,7 @@ def All_orgs():
     valid_url = "/?archive/?gsoc/\d+[0-9]/orgs/[a-zA-Z]+"
     for year in range(2009, 2016):
         year_url = melange + "/archive/gsoc/{}".format(year)
-        soup = getPage(year_url)
+        soup = await get_page(year_url)
 
         for url in soup.find_all('a'):
             if re.match(valid_url, url.get("href")):
@@ -122,13 +123,15 @@ def All_orgs():
 
 
 def main():
-    orgs_13, orgs_14 = All_orgs()
-    org13, project13 = org_info_below_13(orgs_13)
-    org14, projects14 = org_info_above_14(orgs_14)
-    dumper(org13, "Organization_2009-2013.json")
-    dumper(project13, "projects_2009-2013.json")
-    dumper(org14, "Organization_2014-2015.json")
-    dumper(projects14, "projects_2014-2015.json")
+    loop = asyncio.get_event_loop()
+    orgs_13, orgs_14 = loop.run_until_complete(All_orgs())
+    org13, project13 = loop.run_until_complete(org_info_below_13(orgs_13))
+    org14, projects14 = loop.run_until_complete(org_info_above_14(orgs_14))
+
+    dumper(org13, "2009-2013.json")
+    dumper(project13, "2009-2013.json")
+    dumper(org14, "2014-2015.json")
+    dumper(projects14, "2014-2015.json")
 
 
 if __name__ == "__main__":

@@ -3,11 +3,13 @@ Scraper for developer-google GSoC archive
 Get organizations and projects information from 2005-2008
 """
 
+import asyncio
 from os.path import join, basename
-from common import getPage, dumper
+from aiocache import SimpleMemoryCache
+from common import get_page, dumper
 
 developer = "https://developers.google.com"
-
+cache = SimpleMemoryCache()
 
 def get_info(soup):
     """Gets information about orgs and projects from year 2005-2008
@@ -42,12 +44,16 @@ def main():
     projects_data = {}
     for year in range(2005, 2009):
         url = developer + '/open-source/gsoc/{yr}/'.format(yr=year)
-        soup = getPage(url)
+
+        loop = asyncio.get_event_loop()
+        soup = loop.run_until_complete(get_page(url))
         orgs, projects = get_info(soup)
+
         orgs_data[year] = orgs
         projects_data[year] = projects
-    dumper(orgs_data, "orgs_2005-2008.json")
-    dumper(projects_data, "projects_2005-2008.json")
+
+    dumper(orgs_data, "2005-2008.json")
+    dumper(projects_data, "2005-2008.json")
 
 
 if __name__ == '__main__':
