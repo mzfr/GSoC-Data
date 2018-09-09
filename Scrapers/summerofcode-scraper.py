@@ -1,6 +1,7 @@
 """Scraper for new summerofcode archive
 Gets Get organizations and projects information of year 2016-2017
 """
+import re
 from os.path import join
 from common import getPage, dumper
 
@@ -8,71 +9,110 @@ from common import getPage, dumper
 URL = 'https://summerofcode.withgoogle.com'
 
 
-def getList(soup):
-    """Gets links for all the Organization
-        :soup: bs4 object
-    """
-    links = []
-    for link in soup.find('main', {'class': 'app-body lifted'}).find_all('a'):
-        links.append(link.get('href'))
-    print(links[-1])
-    return links
+def project_details(project_links: list):
+    """Get all the information for specific project
 
-
-def getDetails(pLinks: list):
-    """Get all the information for specific porject
-        :pLink: List of all the Organization on one page
+    :project_links: List of all the Organization on one page
     """
     project = []
-    for pLink in pLinks:
-        Link = URL + pLink
-        soup = getPage(Link)
+    for projects in project_links:
+        link = join(URL, projects[1:-1])
+        soup = getPage(link)
         title = soup.find('h3', {'class': 'banner__title'}).text
-        orgData = soup.find(
+        org_data = soup.find(
             'main', {'class': 'app-body'}).find('div', {'class': 'org__meta'})
         try:
-            org = orgData.find_all('div')[1].find('div').text
-            studentName = orgData.find_all('div')[3].find('div').text
-            mentors = orgData.find_all('div')[5].find('ul').find_all('li')
+            org = org_data.find_all('div')[1].find('div').text
+            student_name = org_data.find_all('div')[3].find('div').text
+            mentors = org_data.find_all('div')[5].find('ul').find_all('li')
             mentors = [mentor.text for mentor in mentors]
             project.append({"Organization": org, "title": title,
-                            "student": studentName, "mentors": mentors,
-                            "link": pLink})
+                            "student": student_name, "mentors": mentors,
+                            "link": projects})
         except AttributeError:
             print(title)
 
     return project
 
 
-def orgs_info():
-    """Get name and links of org fro 2016-2018"""
+def orgs_information(orgs_list: list):
+    """Get all the information about an organizations
+    Also grabs links for the project under each org.
 
-    all_org = []
+    :orgs_list: List of urls for each org
+    """
+
+    orgs_info = []
+    project_links = []
+    project_valid_url = '/?archive/\d+/projects/\d+[0-9]/'
+
+    for org in orgs_list:
+        topics = []
+        techs = []
+
+        url = join(URL, org[1:-1])
+        soup = getPage(url)
+
+        name = soup.find('h2', {'class': 'md-display-1'}).text
+        about = soup.find('div', {'class': 'org__long-description'}).text
+        idea = soup.find('md-button', {'target': '_blank'}).get('href')
+        # mailing_list = soup.find('md-button', {'class': })
+        for topic in soup.find_all('li', {'class': 'organization__tag organization__tag--topic'}):
+            topics.append(topic.text)
+
+        for tech in soup.find_all('li', {'class': 'organization__tag organization__tag--technology'}):
+            techs.append(tech.text)
+
+        for i in soup.find_all('md-button'):
+            info = i.get('href')
+            if info:
+                if info.endswith('IRC') or 'gitter' in info or 'slack' in info or 'irc' in info:
+                    irc = info
+                else:
+                    print(url)
+                    irc = ""
+                if 'list' in info:
+                    mailing_list = info
+                elif info.startswith('mailto'):
+                    contact = info
+
+        # Get projects links of an orgs
+        for links in soup.find_all('a'):
+            if re.match(project_valid_url, links.get('href')):
+                project_links.append(links.get('href'))
+
+        orgs_info.append({'Organization': name, 'About': about, 'URL': url,
+                          'Technologies': techs, 'Topics': topics, 'Mailing-list': mailing_list,
+                          'IRC': irc, 'contact': contact, 'Idea-page': idea})
+
+    return orgs_info, project_links
+
+
+def orgs_links():
+    """Get links of all the organizations from 2016-2017"""
+
+    orgs_list = []
+    valid_urls = "/?[a-z]+/?\\d+[0-9]/[a-z]+/?\\d+[0-9]/"
+
     for year in range(2016, 2018):
         orgs_url = join(URL, "archive/{yr}/organizations/".format(yr=year))
         soup = getPage(orgs_url)
-        orgs = soup.findAll('li', attrs={'class': 'organization-card__container'})
+        for link in soup.find_all('a'):
+            if re.match(valid_urls, link.get('href')):
+                orgs_list.append(link.get('href'))
 
-        for org in orgs:
-            name = org.find('h4').text
-            link = org.find('a').get('href')
-            about = org.find('div', {'class': "organization-card__tagline font-black-54"}).text
-            all_org.append({'link': URL + link, 'name': name, 'about': about})
-
-    return all_org
+    return orgs_list
 
 
 def main():
-    projects = []
-    for year in range(2016, 2018):
-        for page in range(1, 12):
-            url = URL + '/archive/{yr}/projects/?page={page}'.format(yr=year, page=page)
-            soup = getPage(url)
-            projectLinks = getList(soup)[1:-1]
-            pDetails = getDetails(projectLinks)
-            projects.extend(pDetails)
-    dumper(projects, 'projects_2016-2017')
-    dumper(orgs_info(), 'organizations_2016-2017.json')
+    """Maintains all the other functions and generates JSON file"""
+    all_orgs = orgs_links()
+    organizations, project_links = orgs_information(all_orgs)
+    print(project_links)
+    projects = project_details(project_links)
+
+    dumper(organizations, 'orgs_2016-2017.json')
+    dumper(projects, '2016-2017.json')
 
 
 if __name__ == '__main__':
