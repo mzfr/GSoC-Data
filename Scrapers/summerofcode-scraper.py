@@ -2,14 +2,15 @@
 Gets Get organizations and projects information of year 2016-2017
 """
 import re
+import asyncio
 from os.path import join
-from common import getPage, dumper
+from common import get_page, dumper
 
 
 URL = 'https://summerofcode.withgoogle.com'
 
 
-def project_details(project_links: list):
+async def project_details(project_links: list):
     """Get all the information for specific project
 
     :project_links: List of all the Organization on one page
@@ -17,7 +18,7 @@ def project_details(project_links: list):
     project = []
     for projects in project_links:
         link = join(URL, projects[1:-1])
-        soup = getPage(link)
+        soup = await get_page(link)
         title = soup.find('h3', {'class': 'banner__title'}).text
         org_data = soup.find(
             'main', {'class': 'app-body'}).find('div', {'class': 'org__meta'})
@@ -35,7 +36,7 @@ def project_details(project_links: list):
     return project
 
 
-def orgs_information(orgs_list: list):
+async def orgs_information(orgs_list: list):
     """Get all the information about an organizations
     Also grabs links for the project under each org.
 
@@ -51,7 +52,7 @@ def orgs_information(orgs_list: list):
         techs = []
 
         url = join(URL, org[1:-1])
-        soup = getPage(url)
+        soup = await get_page(url)
 
         name = soup.find('h2', {'class': 'md-display-1'}).text
         about = soup.find('div', {'class': 'org__long-description'}).text
@@ -88,7 +89,7 @@ def orgs_information(orgs_list: list):
     return orgs_info, project_links
 
 
-def orgs_links():
+async def orgs_links():
     """Get links of all the organizations from 2016-2017"""
 
     orgs_list = []
@@ -96,7 +97,7 @@ def orgs_links():
 
     for year in range(2016, 2018):
         orgs_url = join(URL, "archive/{yr}/organizations/".format(yr=year))
-        soup = getPage(orgs_url)
+        soup = await get_page(orgs_url)
         for link in soup.find_all('a'):
             if re.match(valid_urls, link.get('href')):
                 orgs_list.append(link.get('href'))
@@ -106,9 +107,9 @@ def orgs_links():
 
 def main():
     """Maintains all the other functions and generates JSON file"""
-    all_orgs = orgs_links()
-    organizations, project_links = orgs_information(all_orgs)
-    print(project_links)
+    loop = asyncio.get_event_loop()
+    all_orgs = loop.run_until_complete(orgs_links())
+    organizations, project_links = loop.run_until_complete(orgs_information(all_orgs))
     projects = project_details(project_links)
 
     dumper(organizations, 'orgs_2016-2017.json')

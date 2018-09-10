@@ -2,6 +2,14 @@
 
 All the data from [GSoC-archive](https://developers.google.com/open-source/gsoc/past-summers) in JSON format.
 
+
+__NOTE__
+For running the scrapers you must install the following dependencies
+* asyncio
+* aiohttp
+
+You can do that by running: `pip install ayncio aiohttp`
+
 # Directories
 
 * `Data/`

@@ -1,15 +1,14 @@
 import json
-import requests
-import requests_cache
+import aiohttp
 from bs4 import BeautifulSoup
 
-requests_cache.install_cache("scraper")
 
+async def get_page(url):
+    async with aiohttp.ClientSession() as session:
+        async with session.get(url) as response:
+            soup = await response.read()
 
-def getPage(url):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content, "lxml")
-    return soup
+    return BeautifulSoup(soup.decode('utf-8'), "lxml")
 
 
 def dumper(json_data, json_file):
