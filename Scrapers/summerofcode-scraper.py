@@ -2,6 +2,7 @@
 Gets Get organizations and projects information of year 2016-2017
 """
 import re
+import sys
 import asyncio
 from os.path import join
 from common import get_page, dumper
@@ -57,20 +58,20 @@ async def orgs_information(orgs_list: list):
         name = soup.find('h2', {'class': 'md-display-1'}).text
         about = soup.find('div', {'class': 'org__long-description'}).text
         idea = soup.find('md-button', {'target': '_blank'}).get('href')
-        # mailing_list = soup.find('md-button', {'class': })
         for topic in soup.find_all('li', {'class': 'organization__tag organization__tag--topic'}):
             topics.append(topic.text)
 
         for tech in soup.find_all('li', {'class': 'organization__tag organization__tag--technology'}):
             techs.append(tech.text)
 
-        for i in soup.find_all('md-button'):
-            info = i.get('href')
+        for channel in soup.find_all('md-button'):
+            info = channel.get('href')
+
             if info:
-                if info.endswith('IRC') or 'gitter' in info or 'slack' in info or 'irc' in info:
-                    irc = info
+                ch = channel.text.split(" ")
+                if 'IRC' in ch:
+                    irc = channel.get("href")
                 else:
-                    print(url)
                     irc = ""
                 if 'list' in info:
                     mailing_list = info
@@ -89,31 +90,38 @@ async def orgs_information(orgs_list: list):
     return orgs_info, project_links
 
 
-async def orgs_links():
+async def orgs_links(year):
     """Get links of all the organizations from 2016-2017"""
 
     orgs_list = []
     valid_urls = "/?[a-z]+/?\\d+[0-9]/[a-z]+/?\\d+[0-9]/"
 
-    for year in range(2016, 2018):
-        orgs_url = join(URL, "archive/{yr}/organizations/".format(yr=year))
-        soup = await get_page(orgs_url)
-        for link in soup.find_all('a'):
-            if re.match(valid_urls, link.get('href')):
-                orgs_list.append(link.get('href'))
+    orgs_url = join(URL, "archive/{yr}/organizations/".format(yr=year))
+    soup = await get_page(orgs_url)
+    for link in soup.find_all('a'):
+        if re.match(valid_urls, link.get('href')):
+            orgs_list.append(link.get('href'))
 
     return orgs_list
 
 
 def main():
     """Maintains all the other functions and generates JSON file"""
-    loop = asyncio.get_event_loop()
-    all_orgs = loop.run_until_complete(orgs_links())
-    organizations, project_links = loop.run_until_complete(orgs_information(all_orgs))
-    projects = project_details(project_links)
 
-    dumper(organizations, 'orgs_2016-2017.json')
-    dumper(projects, '2016-2017.json')
+    if len(sys.argv) > 1:
+        year = sys.argv[1]
+        print("Scraping data for:", year)
+    else:
+        print("\nUSAGE: python summerofcode-scraper.py <year>")
+        exit(1)
+
+    loop = asyncio.get_event_loop()
+    all_orgs = loop.run_until_complete(orgs_links(year))
+    organizations, project_links = loop.run_until_complete(orgs_information(all_orgs))
+    projects = loop.run_until_complete(project_details(project_links))
+
+    dumper(organizations, 'orgs_' + year + '.json')
+    dumper(projects, '2018.json')
 
 
 if __name__ == '__main__':
