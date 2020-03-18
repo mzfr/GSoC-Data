@@ -77,6 +77,8 @@ async def orgs_information(orgs_list: list):
                     mailing_list = info
                 elif info.startswith('mailto'):
                     contact = info
+                else:
+                    mailing_list = ""
 
         # Get projects links of an orgs
         for links in soup.find_all('a'):
